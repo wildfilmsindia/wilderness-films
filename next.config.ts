@@ -8,11 +8,11 @@ import type { NextConfig } from 'next'
 // If you later implement nonce-based CSP via middleware, these can be removed.
 const CSP = [
   "default-src 'self'",
-  "script-src 'self' 'unsafe-inline' 'unsafe-eval'",
+  "script-src 'self' 'unsafe-inline' 'unsafe-eval' https://vercel-insights.com https://*.vercel-insights.com",
   "style-src 'self' 'unsafe-inline' https://fonts.googleapis.com",
   "font-src 'self' data: https://fonts.gstatic.com",
   "img-src 'self' data: blob: https://images.unsplash.com https://img.youtube.com https://cdn.jsdelivr.net",
-  "connect-src 'self' https://api.web3forms.com",
+  "connect-src 'self' https://api.web3forms.com https://vercel-insights.com https://*.vercel-insights.com",
   "frame-src 'none'",
   "frame-ancestors 'none'",
   "form-action 'self'",
