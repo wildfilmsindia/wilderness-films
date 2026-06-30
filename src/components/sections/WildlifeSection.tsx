@@ -26,6 +26,8 @@ function thumbFallback(videoId: string) {
 }
 
 const GALLERY_CARDS: GalleryCard[] = [
+  { id: 'ganga-birth-death',  title: 'Ganga: Birth and death of a river | A musical tribute',                       duration: '',  videoId: 'scYtP6uKWoI', link: 'https://youtu.be/scYtP6uKWoI' },
+  { id: 'yamuna-promise',     title: 'Yamuna: We promise to do better',                                             duration: '',  videoId: 'OOPxoZUMAgM', link: 'https://youtu.be/OOPxoZUMAgM' },
   { id: 'best-of-wfi',        title: 'Best of India, Best of WildFilmsIndia',                                       duration: '',  videoId: 'Quq4Y6nJCFo', link: 'https://youtu.be/Quq4Y6nJCFo', customThumb: '/best-of-india-thumb.png' },
   { id: 'monsoon-himalaya',   title: 'Monsoon in the Himalaya',                                                     duration: '',  videoId: 'lAefd4wp0c8', link: 'https://youtu.be/lAefd4wp0c8' },
   { id: 'waterfalls-central', title: 'Waterfalls and Cataracts of Central India',                                   duration: '',  videoId: 'FK9ErdeBTS8', link: 'https://youtu.be/FK9ErdeBTS8' },
@@ -214,6 +216,58 @@ export default function WildlifeSection() {
     return () => el.removeEventListener('wheel', onWheel)
   }, [])
 
+  // ── Arrow nav state — track whether the row can scroll further each way ──
+  const [atStart, setAtStart] = useState(true)
+  const [atEnd, setAtEnd] = useState(false)
+
+  useEffect(() => {
+    const el = containerRef.current
+    if (!el) return
+    const update = () => {
+      setAtStart(el.scrollLeft <= 2)
+      setAtEnd(el.scrollLeft + el.clientWidth >= el.scrollWidth - 2)
+    }
+    update()
+    el.addEventListener('scroll', update, { passive: true })
+    window.addEventListener('resize', update)
+    return () => {
+      el.removeEventListener('scroll', update)
+      window.removeEventListener('resize', update)
+    }
+  }, [])
+
+  // Scroll the row by ~80% of its visible width — ~1 card on mobile, a few on desktop
+  const scrollByAmount = (dir: 1 | -1) => {
+    const el = containerRef.current
+    if (!el) return
+    el.scrollBy({ left: dir * el.clientWidth * 0.8, behavior: 'smooth' })
+  }
+
+  // Circular arrow button — vertically centered on the thumbnail band
+  const navBtnStyle = (side: 'left' | 'right', disabled: boolean): React.CSSProperties => ({
+    position: 'absolute',
+    top: 'clamp(80px, 22.5vw, 115px)',
+    left: side === 'left' ? 'clamp(0.4rem, 2vw, 1.5rem)' : undefined,
+    right: side === 'right' ? 'clamp(0.4rem, 2vw, 1.5rem)' : undefined,
+    transform: 'translateY(-50%)',
+    zIndex: 5,
+    width: 46,
+    height: 46,
+    borderRadius: '50%',
+    display: 'flex',
+    alignItems: 'center',
+    justifyContent: 'center',
+    background: 'rgba(3,3,3,0.72)',
+    border: '1px solid rgba(201,168,76,0.33)',
+    backdropFilter: 'blur(10px)',
+    WebkitBackdropFilter: 'blur(10px)',
+    cursor: disabled ? 'default' : 'pointer',
+    opacity: disabled ? 0 : 1,
+    pointerEvents: disabled ? 'none' : 'auto',
+    transition: 'opacity 0.3s ease, background 0.25s ease',
+    boxShadow: '0 8px 24px rgba(0,0,0,0.45)',
+  })
+
   return (
     <section
       id="best-of-india"
@@ -268,35 +322,63 @@ export default function WildlifeSection() {
       </div>
 
       {/* ── Gallery — native overflow-x scroll, boundary-aware wheel ── */}
-      <div
-        ref={containerRef}
-        style={{
-          overflowX: 'auto',
-          overflowY: 'hidden',
-          cursor: 'default',
-          scrollbarWidth: 'none',
-          msOverflowStyle: 'none',
-          WebkitOverflowScrolling: 'touch',
-          WebkitMaskImage:
-            'linear-gradient(to right, transparent 0%, black 4%, black 93%, transparent 100%)',
-          maskImage:
-            'linear-gradient(to right, transparent 0%, black 4%, black 93%, transparent 100%)',
-        } as React.CSSProperties}
-      >
-        <div
-          style={{
-            display: 'flex',
-            gap: 'clamp(12px, 3vw, 20px)',
-            paddingLeft: 'clamp(1rem, 5vw, 6rem)',
-            paddingRight: 'clamp(1rem, 5vw, 6rem)',
-            paddingBottom: '1rem',
-            userSelect: 'none',
-            WebkitUserSelect: 'none',
-          }}
+      <div style={{ position: 'relative' }}>
+        {/* Prev arrow — hidden while at the start of the row */}
+        <button
+          type="button"
+          aria-label="Previous videos"
+          onClick={() => scrollByAmount(-1)}
+          disabled={atStart}
+          style={navBtnStyle('left', atStart)}
         >
-          {GALLERY_CARDS.map((card, i) => (
-            <GalleryCard key={card.id} card={card} index={i} />
-          ))}
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none">
+            <path d="M15 5 L8 12 L15 19" stroke="#C9A84C" strokeWidth="1.6" strokeLinecap="round" strokeLinejoin="round" />
+          </svg>
+        </button>
+
+        {/* Next arrow — hidden once the row is scrolled to the end */}
+        <button
+          type="button"
+          aria-label="Next videos"
+          onClick={() => scrollByAmount(1)}
+          disabled={atEnd}
+          style={navBtnStyle('right', atEnd)}
+        >
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none">
+            <path d="M9 5 L16 12 L9 19" stroke="#C9A84C" strokeWidth="1.6" strokeLinecap="round" strokeLinejoin="round" />
+          </svg>
+        </button>
+
+        <div
+          ref={containerRef}
+          style={{
+            overflowX: 'auto',
+            overflowY: 'hidden',
+            cursor: 'default',
+            scrollbarWidth: 'none',
+            msOverflowStyle: 'none',
+            WebkitOverflowScrolling: 'touch',
+            WebkitMaskImage:
+              'linear-gradient(to right, transparent 0%, black 4%, black 93%, transparent 100%)',
+            maskImage:
+              'linear-gradient(to right, transparent 0%, black 4%, black 93%, transparent 100%)',
+          } as React.CSSProperties}
+        >
+          <div
+            style={{
+              display: 'flex',
+              gap: 'clamp(12px, 3vw, 20px)',
+              paddingLeft: 'clamp(1rem, 5vw, 6rem)',
+              paddingRight: 'clamp(1rem, 5vw, 6rem)',
+              paddingBottom: '1rem',
+              userSelect: 'none',
+              WebkitUserSelect: 'none',
+            }}
+          >
+            {GALLERY_CARDS.map((card, i) => (
+              <GalleryCard key={card.id} card={card} index={i} />
+            ))}
+          </div>
         </div>
       </div>
 

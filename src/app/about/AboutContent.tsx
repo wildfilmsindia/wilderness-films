@@ -414,6 +414,7 @@ const PEOPLE: { name: string; photo?: string }[] = [
   { name: 'Vikash Kumar',      photo: '/vikash-kumar.jpg' },
   { name: 'Sanya Saha',        photo: '/sanya-saha.jpg' },
   { name: 'Amrit Srivastava', photo: '/amrit-srivastava.jpg' },
+  { name: 'Avi Sharma',        photo: '/avipfp.jpg' },
   { name: 'Bagini Dang', photo: '/bagini-dang.jpg' },
   { name: 'Vibha Dang',        photo: '/vibha-dang.jpg' },
   { name: 'Dharanshi Dang',    photo: '/dharanshi-dang.jpg' },
