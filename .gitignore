@@ -17,3 +17,6 @@ Thumbs.db
 # Screenshots / temp files
 Screenshot*.png
 *.html.bak
+
+# Local dev tooling (preview launch configs — machine-specific)
+.claude/

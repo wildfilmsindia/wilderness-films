@@ -1,5 +1,8 @@
 import type { Metadata } from 'next'
+import { Analytics } from '@vercel/analytics/next'
+import { SpeedInsights } from '@vercel/speed-insights/next'
 import '../styles/globals.css'
+import { siteGraph } from '@/lib/seo'
 
 export const metadata: Metadata = {
   metadataBase: new URL('https://www.wildfilmsindia.com'),
@@ -115,70 +118,14 @@ export default function RootLayout({
         <meta name="ICBM" content="28.5674, 77.1921" />
         <script
           type="application/ld+json"
-          dangerouslySetInnerHTML={{
-            __html: JSON.stringify({
-              '@context': 'https://schema.org',
-              '@type': 'Organization',
-              name: 'Wilderness Films India Ltd.',
-              alternateName: 'WildFilmsIndia',
-              url: 'https://www.wildfilmsindia.com',
-              logo: 'https://www.wildfilmsindia.com/logo.png',
-              description:
-                "South Asia's largest factual visual archive and production house. Established in 1987 by filmmaker and naturalist Rupin Dang.",
-              foundingDate: '1987',
-              founder: {
-                '@type': 'Person',
-                name: 'Rupin Dang',
-                jobTitle: 'Managing Director & Founder',
-                description:
-                  'Filmmaker, mountaineer, naturalist, and entrepreneur. Listed in the Limca Book of Records as the youngest filmmaker in India.',
-              },
-              address: {
-                '@type': 'PostalAddress',
-                streetAddress: '1 Factory Road, Ring Road South',
-                addressLocality: 'New Delhi',
-                postalCode: '110029',
-                addressCountry: 'IN',
-              },
-              contactPoint: [
-                {
-                  '@type': 'ContactPoint',
-                  telephone: '+91-9810019704',
-                  contactType: 'customer service',
-                  areaServed: 'IN',
-                  availableLanguage: 'English',
-                },
-                {
-                  '@type': 'ContactPoint',
-                  telephone: '+91-9810149425',
-                  contactType: 'sales',
-                  areaServed: 'IN',
-                  availableLanguage: 'English',
-                },
-              ],
-              email: 'rupindang@gmail.com',
-              sameAs: [
-                'https://www.youtube.com/@WildFilmsIndia',
-                'https://www.instagram.com/wildfilmsindia',
-                'https://www.facebook.com/WildernessFilmsIndiaLimited',
-              ],
-              numberOfEmployees: { '@type': 'QuantitativeValue', value: 15 },
-              areaServed: 'South Asia',
-              knowsAbout: [
-                'Wildlife cinematography',
-                'Documentary filmmaking',
-                'Stock footage licensing',
-                'Production services India',
-                'Nature photography',
-                'Himalayan expeditions',
-              ],
-            }),
-          }}
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(siteGraph) }}
         />
       </head>
       <body>
         <div className="grain-overlay" aria-hidden="true" />
         {children}
+        <Analytics />
+        <SpeedInsights />
       </body>
     </html>
   )
