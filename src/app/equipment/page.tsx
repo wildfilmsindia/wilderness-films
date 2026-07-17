@@ -353,7 +353,7 @@ function ItemModal({ item, onClose }: { item: EquipmentItem; onClose: () => void
           padding: '1.3rem', background: '#0d0d0d',
           display: 'flex', flexDirection: 'column', gap: '0.6rem',
         }}>
-          <div style={{
+          <div className="eqm-main" style={{
             aspectRatio: '3 / 2', background: '#0f0f0f',
             border: '1px solid #222', borderRadius: '6px', overflow: 'hidden',
             display: 'flex', alignItems: 'center', justifyContent: 'center',
@@ -654,6 +654,10 @@ export default function EquipmentPage() {
             border-radius: 0 !important; border-left: none !important; border-right: none !important;
             max-height: 100dvh !important; height: 100%;
           }
+          /* Keep the gallery compact on phones so the title & details stay in view */
+          .eqm-gallery { padding: 0.9rem !important; gap: 0.5rem !important; }
+          .eqm-main { aspect-ratio: auto !important; height: 32vh !important; }
+          .eqm-thumb { width: 52px !important; height: 36px !important; }
         }
         /* Skip layout/paint for rows scrolled out of view — keeps long
            lists (e.g. "All" = 244 rows) smooth to scroll. */
