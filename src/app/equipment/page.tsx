@@ -265,6 +265,12 @@ function ItemModal({ item, onClose }: { item: EquipmentItem; onClose: () => void
   useEffect(() => {
     const opener = document.activeElement as HTMLElement | null
     const card = cardRef.current
+    // Lock background scroll. The page scrollbar lives on <html>, so locking
+    // <body> alone is not enough — lock both.
+    const html = document.documentElement
+    const prevHtmlOverflow = html.style.overflow
+    const prevBodyOverflow = document.body.style.overflow
+    html.style.overflow = 'hidden'
     document.body.style.overflow = 'hidden'
     card?.querySelector<HTMLElement>('[data-eqm-close]')?.focus()
 
@@ -287,7 +293,8 @@ function ItemModal({ item, onClose }: { item: EquipmentItem; onClose: () => void
     document.addEventListener('keydown', onKey)
     return () => {
       document.removeEventListener('keydown', onKey)
-      document.body.style.overflow = ''
+      html.style.overflow = prevHtmlOverflow
+      document.body.style.overflow = prevBodyOverflow
       opener?.focus()
     }
   }, [onClose])
@@ -648,14 +655,12 @@ export default function EquipmentPage() {
           .eqm-gallery { border-right: 1px solid #222; }
         }
         @media (max-width: 560px) {
-          .eqm-backdrop { padding: 0 !important; }
-          .eqm-card {
-            border-radius: 0 !important; border-left: none !important; border-right: none !important;
-            max-height: 100dvh !important; height: 100%;
-          }
+          /* Centred card with a margin — not a full-screen sheet */
+          .eqm-backdrop { padding: 0.9rem !important; }
+          .eqm-card { max-height: 88dvh !important; }
           /* Keep the gallery compact on phones so the title & details stay in view */
           .eqm-gallery { padding: 0.9rem !important; gap: 0.5rem !important; }
-          .eqm-main { aspect-ratio: auto !important; height: 32vh !important; }
+          .eqm-main { aspect-ratio: auto !important; height: 30vh !important; }
           .eqm-thumb { width: 52px !important; height: 36px !important; }
         }
         /* Skip layout/paint for rows scrolled out of view — keeps long
