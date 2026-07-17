@@ -72,7 +72,6 @@ export default async function EquipmentItemPage(
   specRows.push(['Condition', sold ? 'Sold' : item.cond])
   specRows.push(['Category', item.cat])
   if (item.quantity != null) specRows.push(['Quantity available', String(item.quantity)])
-  if (item.location) specRows.push(['Location', item.location])
   if (item.specs) for (const [k, v] of Object.entries(item.specs)) specRows.push([k, v])
 
   const itemCondition = item.cond === 'New'

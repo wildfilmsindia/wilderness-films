@@ -13,8 +13,7 @@
       "/equipment/img/45653-5.jpg",
       "/equipment/img/45653-6.jpg"
     ],
-    "brand": "RED",
-    "location": "New Delhi, India"
+    "brand": "RED"
   },
   {
     "name": "Canon XF-205",
@@ -27,8 +26,7 @@
       "/equipment/img/45569-1.jpg",
       "/equipment/img/45569-2.jpg"
     ],
-    "brand": "Canon",
-    "location": "New Delhi, India"
+    "brand": "Canon"
   },
   {
     "name": "Canon XF 105",
@@ -41,8 +39,7 @@
       "/equipment/img/45567-1.jpg",
       "/equipment/img/45567-2.jpg"
     ],
-    "brand": "Canon",
-    "location": "New Delhi, India"
+    "brand": "Canon"
   },
   {
     "name": "Fujinon HA14X4.5BERM",
@@ -57,8 +54,7 @@
       "/equipment/img/45563-3.jpg",
       "/equipment/img/45563-4.jpg"
     ],
-    "brand": "Fujinon",
-    "location": "New Delhi, India"
+    "brand": "Fujinon"
   },
   {
     "name": "ARRI Zeiss Ultra Prime 85mm T1.9 Cinema Lens",
@@ -72,8 +68,7 @@
       "/equipment/img/45524-2.jpg",
       "/equipment/img/45524-3.jpg"
     ],
-    "brand": "ARRI/Zeiss",
-    "location": "New Delhi, India"
+    "brand": "ARRI/Zeiss"
   },
   {
     "name": "ARRI Zeiss Ultra Prime 20mm T1.9 Cinema Lens",
@@ -87,8 +82,7 @@
       "/equipment/img/45523-2.jpg",
       "/equipment/img/45523-3.jpg"
     ],
-    "brand": "ARRI/Zeiss",
-    "location": "New Delhi, India"
+    "brand": "ARRI/Zeiss"
   },
   {
     "name": "ARRI Zeiss Ultra Prime 8R T2.8 Cinema Lens",
@@ -102,8 +96,7 @@
       "/equipment/img/45522-2.jpg",
       "/equipment/img/45522-3.jpg"
     ],
-    "brand": "ARRI/Zeiss",
-    "location": "New Delhi, India"
+    "brand": "ARRI/Zeiss"
   },
   {
     "name": "ARRI Zeiss Ultra Prime 14mm T1.9 Cinema Lens",
@@ -117,8 +110,7 @@
       "/equipment/img/45521-2.jpg",
       "/equipment/img/45521-3.jpg"
     ],
-    "brand": "ARRI/Zeiss",
-    "location": "New Delhi, India"
+    "brand": "ARRI/Zeiss"
   },
   {
     "name": "ARRI Zeiss Ultra Prime 10mm T2.1 Cinema Lens",
@@ -132,8 +124,7 @@
       "/equipment/img/45520-2.jpg",
       "/equipment/img/45520-3.jpg"
     ],
-    "brand": "ARRI/Zeiss",
-    "location": "New Delhi, India"
+    "brand": "ARRI/Zeiss"
   },
   {
     "name": "ARRI Zeiss Ultra Prime Set - 16, 24, 32, 50, 85 & 100mm",
@@ -150,8 +141,7 @@
       "/equipment/img/45519-5.jpg",
       "/equipment/img/45519-6.jpg"
     ],
-    "brand": "ARRI/Zeiss",
-    "location": "New Delhi, India"
+    "brand": "ARRI/Zeiss"
   },
   {
     "name": "ARRI Ultra Prime LDS 180mm",
@@ -165,8 +155,7 @@
       "/equipment/img/45487-2.jpg",
       "/equipment/img/45487-3.jpg"
     ],
-    "brand": "ARRI",
-    "location": "New Delhi, India"
+    "brand": "ARRI"
   },
   {
     "name": "ARRI Ultra Prime LDS Lens 12mm",
@@ -180,8 +169,7 @@
       "/equipment/img/45486-2.jpg",
       "/equipment/img/45486-3.jpg"
     ],
-    "brand": "ARRI",
-    "location": "New Delhi, India"
+    "brand": "ARRI"
   },
   {
     "name": "ARRI Ultra Prime LDS Lens Set 12, 40, 135, 180mm",
@@ -196,8 +184,7 @@
       "/equipment/img/45485-3.jpg",
       "/equipment/img/45485-4.jpg"
     ],
-    "brand": "ARRI",
-    "location": "New Delhi, India"
+    "brand": "ARRI"
   },
   {
     "name": "Illumina Prime Lens Set 18, 25, 35, 50, 85, 135mm",
@@ -213,8 +200,7 @@
       "/equipment/img/45484-4.jpg",
       "/equipment/img/45484-5.jpg",
       "/equipment/img/45484-6.jpg"
-    ],
-    "location": "New Delhi, India"
+    ]
   },
   {
     "name": "Kowa Vintage Film Lenses 40mm, 50mm, 75mm, 100mm",
@@ -231,8 +217,7 @@
       "/equipment/img/45483-5.jpg",
       "/equipment/img/45483-6.jpg"
     ],
-    "brand": "Kowa",
-    "location": "New Delhi, India"
+    "brand": "Kowa"
   },
   {
     "name": "Angenieux 25-250 HR Zoom Lens",
@@ -247,8 +232,7 @@
       "/equipment/img/45482-3.jpg",
       "/equipment/img/45482-4.jpg"
     ],
-    "brand": "Angénieux",
-    "location": "New Delhi, India"
+    "brand": "Angénieux"
   },
   {
     "name": "Sony FX9 6K Sensor 4K Recording Broadcast Camera",
@@ -265,8 +249,7 @@
       "/equipment/img/43632-5.jpg",
       "/equipment/img/43632-6.jpg"
     ],
-    "brand": "Sony",
-    "location": "New Delhi, India"
+    "brand": "Sony"
   },
   {
     "name": "Fujinon 20-120 4K with Servo Grip",
@@ -280,8 +263,7 @@
       "/equipment/img/43631-2.jpg",
       "/equipment/img/43631-3.jpg"
     ],
-    "brand": "Fujinon",
-    "location": "New Delhi, India"
+    "brand": "Fujinon"
   },
   {
     "name": "Fujinon XK6 PL (20-120)",
@@ -296,8 +278,7 @@
       "/equipment/img/43600-3.jpg"
     ],
     "brand": "Fujinon",
-    "mount": "PL",
-    "location": "New Delhi, India"
+    "mount": "PL"
   },
   {
     "name": "Genus Matte Box for 4x4 and 4x5.6 Filters",
@@ -310,8 +291,7 @@
       "/equipment/img/43041-2.jpg",
       "/equipment/img/43041-3.jpg"
     ],
-    "brand": "Genus",
-    "location": "New Delhi, India"
+    "brand": "Genus"
   },
   {
     "name": "Canon 85-300 f/4.5 Lens",
@@ -328,8 +308,7 @@
       "/equipment/img/42700-5.jpg",
       "/equipment/img/42700-6.jpg"
     ],
-    "brand": "Canon",
-    "location": "New Delhi, India"
+    "brand": "Canon"
   },
   {
     "name": "Sony CBK-VF01 HDVS High Definition Camera Viewfinder",
@@ -344,8 +323,7 @@
       "/equipment/img/42699-3.jpg",
       "/equipment/img/42699-4.jpg"
     ],
-    "brand": "Sony",
-    "location": "New Delhi, India"
+    "brand": "Sony"
   },
   {
     "name": "Canon KJ10EX4.5B IRSE S 2/3\" Portable ENG 10x Semi-Servo Zoom Lens",
@@ -360,8 +338,7 @@
       "/equipment/img/41885-4.jpg",
       "/equipment/img/41885-5.jpg"
     ],
-    "brand": "Canon",
-    "location": "New Delhi, India"
+    "brand": "Canon"
   },
   {
     "name": "Angenieux 30-80 Optimo DP PL Mount Lens",
@@ -374,8 +351,7 @@
       "/equipment/img/41871-1.jpg"
     ],
     "brand": "Angénieux",
-    "mount": "PL",
-    "location": "New Delhi, India"
+    "mount": "PL"
   },
   {
     "name": "ARRI Alura Zoom 15.5-45 Lens PL Mount",
@@ -392,8 +368,7 @@
       "/equipment/img/41870-6.jpg"
     ],
     "brand": "ARRI",
-    "mount": "PL",
-    "location": "New Delhi, India"
+    "mount": "PL"
   },
   {
     "name": "RED 17-50mm T/2.9 PL Mount Zoom Lens",
@@ -408,8 +383,7 @@
       "/equipment/img/41309-4.jpg"
     ],
     "brand": "RED",
-    "mount": "PL",
-    "location": "New Delhi, India"
+    "mount": "PL"
   },
   {
     "name": "Canon FJS Prime Lens Set HDEC 5mm, 9mm, 14mm, 24mm, 35mm, 55mm",
@@ -421,8 +395,7 @@
     "images": [
       "/equipment/img/41231-1.jpg"
     ],
-    "brand": "Canon",
-    "location": "New Delhi, India"
+    "brand": "Canon"
   },
   {
     "name": "Canon CN7 17-120 PL Mount",
@@ -440,8 +413,7 @@
       "/equipment/img/41229-6.jpg"
     ],
     "brand": "Canon",
-    "mount": "PL",
-    "location": "New Delhi, India"
+    "mount": "PL"
   },
   {
     "name": "Sony FS7 Mark II 4K UHD Broadcast Camera",
@@ -456,8 +428,7 @@
       "/equipment/img/41174-3.jpg",
       "/equipment/img/41174-4.jpg"
     ],
-    "brand": "Sony",
-    "location": "New Delhi, India"
+    "brand": "Sony"
   },
   {
     "name": "Canon HJ22 x 7.6 B IRSE Semi Servo HD Zoom Lens",
@@ -472,8 +443,7 @@
       "/equipment/img/41173-3.jpg",
       "/equipment/img/41173-4.jpg"
     ],
-    "brand": "Canon",
-    "location": "New Delhi, India"
+    "brand": "Canon"
   },
   {
     "name": "Zeiss Ultra Prime 135mm PL Mount Lens",
@@ -487,8 +457,7 @@
       "/equipment/img/41003-2.jpg"
     ],
     "brand": "Zeiss",
-    "mount": "PL",
-    "location": "New Delhi, India"
+    "mount": "PL"
   },
   {
     "name": "Panasonic DVC Pro AJD 440",
@@ -500,8 +469,7 @@
       "/equipment/img/41002-1.jpg",
       "/equipment/img/41002-2.jpg"
     ],
-    "brand": "Panasonic",
-    "location": "New Delhi, India"
+    "brand": "Panasonic"
   },
   {
     "name": "TASCAM DA-60 DAT Digital Audio Recorder with Time Code",
@@ -513,8 +481,7 @@
       "/equipment/img/41001-1.jpg",
       "/equipment/img/41001-2.jpg"
     ],
-    "brand": "TASCAM",
-    "location": "New Delhi, India"
+    "brand": "TASCAM"
   },
   {
     "name": "TASCAM DA-40 DAT Digital Audio Recorder",
@@ -526,8 +493,7 @@
       "/equipment/img/41000-1.jpg",
       "/equipment/img/41000-2.jpg"
     ],
-    "brand": "TASCAM",
-    "location": "New Delhi, India"
+    "brand": "TASCAM"
   },
   {
     "name": "Fujinon ZA22 X 7.6 BERM M58 HD Zoom Lens with 2x Doubler",
@@ -542,8 +508,7 @@
       "/equipment/img/40999-4.jpg",
       "/equipment/img/40999-5.jpg"
     ],
-    "brand": "Fujinon",
-    "location": "New Delhi, India"
+    "brand": "Fujinon"
   },
   {
     "name": "Canon FD Lens 300mm PL Mount with Case and 2x Extender",
@@ -560,8 +525,7 @@
       "/equipment/img/40965-5.jpg"
     ],
     "brand": "Canon",
-    "mount": "PL",
-    "location": "New Delhi, India"
+    "mount": "PL"
   },
   {
     "name": "Skaterscope B4 Mount Micro Lens",
@@ -579,8 +543,7 @@
       "/equipment/img/40964-6.jpg"
     ],
     "brand": "Skaterscope",
-    "mount": "B4",
-    "location": "New Delhi, India"
+    "mount": "B4"
   },
   {
     "name": "Fujinon ZK85-300mm T2.9-4.0 Lightweight Cabrio Lens (PL Mount)",
@@ -596,8 +559,7 @@
       "/equipment/img/40740-5.jpg"
     ],
     "brand": "Fujinon",
-    "mount": "PL",
-    "location": "New Delhi, India"
+    "mount": "PL"
   },
   {
     "name": "Century Precision Optics Series 2000 T1.9 6mm Lens for Super 16 PL Mount",
@@ -611,8 +573,7 @@
       "/equipment/img/40739-3.jpg"
     ],
     "brand": "Century Precision Optics",
-    "mount": "PL",
-    "location": "New Delhi, India"
+    "mount": "PL"
   },
   {
     "name": "Canon CJ14EX4.3 IASE 4K UHD 2/3\" 14x Portable Servo Zoom Lens",
@@ -625,8 +586,7 @@
       "/equipment/img/40738-1.jpg",
       "/equipment/img/40738-2.jpg"
     ],
-    "brand": "Canon",
-    "location": "New Delhi, India"
+    "brand": "Canon"
   },
   {
     "name": "Black Magic Pocket Cinema 6K",
@@ -643,8 +603,7 @@
       "/equipment/img/40737-5.jpg",
       "/equipment/img/40737-6.jpg"
     ],
-    "brand": "Black Magic",
-    "location": "New Delhi, India"
+    "brand": "Black Magic"
   },
   {
     "name": "Sony FS7 M2 4K Camera Unit",
@@ -661,8 +620,7 @@
       "/equipment/img/40497-5.jpg",
       "/equipment/img/40497-6.jpg"
     ],
-    "brand": "Sony",
-    "location": "New Delhi, India"
+    "brand": "Sony"
   },
   {
     "name": "Fujinon 20x BERM Lenses",
@@ -677,8 +635,7 @@
       "/equipment/img/40496-3.jpg",
       "/equipment/img/40496-4.jpg"
     ],
-    "brand": "Fujinon",
-    "location": "New Delhi, India"
+    "brand": "Fujinon"
   },
   {
     "name": "Panasonic DVC Pro AJD-650",
@@ -691,8 +648,7 @@
       "/equipment/img/40484-1.jpg",
       "/equipment/img/40484-2.jpg"
     ],
-    "brand": "Panasonic",
-    "location": "New Delhi, India"
+    "brand": "Panasonic"
   },
   {
     "name": "Sony Video Monitor PVM-20L2MD/ST",
@@ -707,8 +663,7 @@
       "/equipment/img/40483-3.jpg",
       "/equipment/img/40483-4.jpg"
     ],
-    "brand": "Sony",
-    "location": "New Delhi, India"
+    "brand": "Sony"
   },
   {
     "name": "Sony HVR M35 HDV Recorder",
@@ -721,8 +676,7 @@
       "/equipment/img/40348-1.jpg",
       "/equipment/img/40348-2.jpg"
     ],
-    "brand": "Sony",
-    "location": "New Delhi, India"
+    "brand": "Sony"
   },
   {
     "name": "Fujinon A15 X 8 Doubler Lens 16:9 Switchable WRS with 2x Extender",
@@ -735,8 +689,7 @@
       "/equipment/img/40346-1.jpg",
       "/equipment/img/40346-2.jpg"
     ],
-    "brand": "Fujinon",
-    "location": "New Delhi, India"
+    "brand": "Fujinon"
   },
   {
     "name": "Fujinon ZA22 X 7.6 BERM M58",
@@ -752,8 +705,7 @@
       "/equipment/img/40345-4.jpg",
       "/equipment/img/40345-5.jpg"
     ],
-    "brand": "Fujinon",
-    "location": "New Delhi, India"
+    "brand": "Fujinon"
   },
   {
     "name": "Canon HJ17e X 7.6 B IRSE",
@@ -770,8 +722,7 @@
       "/equipment/img/40344-5.jpg",
       "/equipment/img/40344-6.jpg"
     ],
-    "brand": "Canon",
-    "location": "New Delhi, India"
+    "brand": "Canon"
   },
   {
     "name": "Sony SRW9000 HDCAM SP 4:4:4 Camera",
@@ -785,8 +736,7 @@
       "/equipment/img/40276-3.jpg",
       "/equipment/img/40276-4.jpg"
     ],
-    "brand": "Sony",
-    "location": "New Delhi, India"
+    "brand": "Sony"
   },
   {
     "name": "Sony 750P HDCAM Camcorder",
@@ -801,8 +751,7 @@
       "/equipment/img/40275-3.jpg",
       "/equipment/img/40275-4.jpg"
     ],
-    "brand": "Sony",
-    "location": "New Delhi, India"
+    "brand": "Sony"
   },
   {
     "name": "Fujinon A10 X 4.8 BERD Full Servo Lens",
@@ -818,8 +767,7 @@
       "/equipment/img/40273-5.jpg",
       "/equipment/img/40273-6.jpg"
     ],
-    "brand": "Fujinon",
-    "location": "New Delhi, India"
+    "brand": "Fujinon"
   },
   {
     "name": "Sony PDW 700 XDCAM Blue Ray Disc",
@@ -831,8 +779,7 @@
       "/equipment/img/40272-1.jpg",
       "/equipment/img/40272-2.jpg"
     ],
-    "brand": "Sony",
-    "location": "New Delhi, India"
+    "brand": "Sony"
   },
   {
     "name": "Fujinon HA22x7.8-M58",
@@ -845,8 +792,7 @@
       "/equipment/img/40270-1.jpg",
       "/equipment/img/40270-2.jpg"
     ],
-    "brand": "Fujinon",
-    "location": "New Delhi, India"
+    "brand": "Fujinon"
   },
   {
     "name": "Angenieux Optimo Style 25-250 PL Zoom Lens",
@@ -864,8 +810,7 @@
       "/equipment/img/40173-6.jpg"
     ],
     "brand": "Angénieux",
-    "mount": "PL",
-    "location": "New Delhi, India"
+    "mount": "PL"
   },
   {
     "name": "Fujinon HK4.7x18-FA",
@@ -881,8 +826,7 @@
       "/equipment/img/40172-4.jpg",
       "/equipment/img/40172-5.jpg"
     ],
-    "brand": "Fujinon",
-    "location": "New Delhi, India"
+    "brand": "Fujinon"
   },
   {
     "name": "ACRON 402P Synchronizing Pulse Generator (SPG) with Genlock",
@@ -897,8 +841,7 @@
       "/equipment/img/40170-3.jpg",
       "/equipment/img/40170-4.jpg"
     ],
-    "brand": "ACRON",
-    "location": "New Delhi, India"
+    "brand": "ACRON"
   },
   {
     "name": "Sony F23 with SRW1 / SRPC1",
@@ -913,8 +856,7 @@
       "/equipment/img/40162-3.jpg",
       "/equipment/img/40162-4.jpg"
     ],
-    "brand": "Sony",
-    "location": "New Delhi, India"
+    "brand": "Sony"
   },
   {
     "name": "Fujinon HA14 X 4.5 BERM-M58B Full HD Semi Servo Zoom Lens",
@@ -929,8 +871,7 @@
       "/equipment/img/37797-3.jpg",
       "/equipment/img/37797-4.jpg"
     ],
-    "brand": "Fujinon",
-    "location": "New Delhi, India"
+    "brand": "Fujinon"
   },
   {
     "name": "Fujinon HA14 X 4.5 BERD-S6B Full HD Full Servo Zoom Lens",
@@ -945,8 +886,7 @@
       "/equipment/img/37796-3.jpg",
       "/equipment/img/37796-4.jpg"
     ],
-    "brand": "Fujinon",
-    "location": "New Delhi, India"
+    "brand": "Fujinon"
   },
   {
     "name": "Fujinon Premier Cabrio PL Lens 25-300 Zoom",
@@ -964,8 +904,7 @@
       "/equipment/img/37794-6.jpg"
     ],
     "brand": "Fujinon",
-    "mount": "PL",
-    "location": "New Delhi, India"
+    "mount": "PL"
   },
   {
     "name": "Fujinon UA14x4.5BERD 4K Broadcast Lens with S10 Drive + SS-13B Full Servo",
@@ -977,8 +916,7 @@
     "images": [
       "/equipment/img/35723-1.jpg"
     ],
-    "brand": "Fujinon",
-    "location": "New Delhi, India"
+    "brand": "Fujinon"
   },
   {
     "name": "Fujinon ZA17X7.6BERM-M6 Broadcast HD Lens with 2x Doubler B4 Mount",
@@ -994,8 +932,7 @@
       "/equipment/img/35722-4.jpg"
     ],
     "brand": "Fujinon",
-    "mount": "B4",
-    "location": "New Delhi, India"
+    "mount": "B4"
   },
   {
     "name": "Canon YJ12x6.5 Broadcast SD Lens 2/3\" B4 Mount",
@@ -1011,8 +948,7 @@
       "/equipment/img/35721-4.jpg"
     ],
     "brand": "Canon",
-    "mount": "B4",
-    "location": "New Delhi, India"
+    "mount": "B4"
   },
   {
     "name": "Fujinon A36x10.5BERD-S28 Telephoto Zoom Lens DigiPower AT2",
@@ -1029,8 +965,7 @@
       "/equipment/img/35601-5.jpg",
       "/equipment/img/35601-6.jpg"
     ],
-    "brand": "Fujinon",
-    "location": "New Delhi, India"
+    "brand": "Fujinon"
   },
   {
     "name": "Sony HDC F950 Camera (B4 Mount) with Cine Alta Features",
@@ -1045,8 +980,7 @@
       "/equipment/img/35413-3.jpg"
     ],
     "brand": "Sony",
-    "mount": "B4",
-    "location": "New Delhi, India"
+    "mount": "B4"
   },
   {
     "name": "Canon KJ20x8.2B KRSD HDGC HD Lens with Canon MS-15 Servo Controls",
@@ -1058,8 +992,7 @@
     "images": [
       "/equipment/img/35412-1.jpg"
     ],
-    "brand": "Canon",
-    "location": "New Delhi, India"
+    "brand": "Canon"
   },
   {
     "name": "ARRI 35 III Professional Film Camera with Viewfinder",
@@ -1074,8 +1007,7 @@
       "/equipment/img/35148-3.jpg",
       "/equipment/img/35148-4.jpg"
     ],
-    "brand": "ARRI",
-    "location": "New Delhi, India"
+    "brand": "ARRI"
   },
   {
     "name": "Fujinon UA14x4.5BERD",
@@ -1087,8 +1019,7 @@
     "images": [
       "/equipment/img/35398-1.jpg"
     ],
-    "brand": "Fujinon",
-    "location": "New Delhi, India"
+    "brand": "Fujinon"
   },
   {
     "name": "RED 17-50mm PL Mount Zoom Lens",
@@ -1104,8 +1035,7 @@
       "/equipment/img/35199-4.jpg"
     ],
     "brand": "RED",
-    "mount": "PL",
-    "location": "New Delhi, India"
+    "mount": "PL"
   },
   {
     "name": "RED MX Mysterium X Professional Film and Broadcast Camera with 4K Recording",
@@ -1121,8 +1051,7 @@
       "/equipment/img/35125-4.jpg",
       "/equipment/img/35125-5.jpg"
     ],
-    "brand": "RED",
-    "location": "New Delhi, India"
+    "brand": "RED"
   },
   {
     "name": "RED ONE Professional Film and Broadcast Camera with 4K Recording",
@@ -1138,8 +1067,7 @@
       "/equipment/img/35123-4.jpg",
       "/equipment/img/35123-5.jpg"
     ],
-    "brand": "RED",
-    "location": "New Delhi, India"
+    "brand": "RED"
   },
   {
     "name": "Optex 80mm T2.8 Super 16 S16 PL Mount",
@@ -1156,8 +1084,7 @@
       "/equipment/img/35076-5.jpg"
     ],
     "brand": "Optex",
-    "mount": "PL",
-    "location": "New Delhi, India"
+    "mount": "PL"
   },
   {
     "name": "Optex 80mm T2.8 PL Mount",
@@ -1175,8 +1102,7 @@
       "/equipment/img/34956-6.jpg"
     ],
     "brand": "Optex",
-    "mount": "PL",
-    "location": "New Delhi, India"
+    "mount": "PL"
   },
   {
     "name": "Panasonic AJ HPX-250 P2 Full HD Camera",
@@ -1193,8 +1119,7 @@
       "/equipment/img/34002-5.jpg",
       "/equipment/img/34002-6.jpg"
     ],
-    "brand": "Panasonic",
-    "location": "New Delhi, India"
+    "brand": "Panasonic"
   },
   {
     "name": "Sony PMW F5 Camera with 4K Recording and 350 Viewfinder",
@@ -1211,8 +1136,7 @@
       "/equipment/img/33984-5.jpg",
       "/equipment/img/33984-6.jpg"
     ],
-    "brand": "Sony",
-    "location": "New Delhi, India"
+    "brand": "Sony"
   },
   {
     "name": "Sony PMW F5 Camera with 350 Viewfinder",
@@ -1229,8 +1153,7 @@
       "/equipment/img/33983-5.jpg",
       "/equipment/img/33983-6.jpg"
     ],
-    "brand": "Sony",
-    "location": "New Delhi, India"
+    "brand": "Sony"
   },
   {
     "name": "Optex Macro 200mm Vintage Lens Re-housed by Optex",
@@ -1246,8 +1169,7 @@
       "/equipment/img/33973-4.jpg",
       "/equipment/img/33973-5.jpg"
     ],
-    "brand": "Optex",
-    "location": "New Delhi, India"
+    "brand": "Optex"
   },
   {
     "name": "Sony PMW 500 XDCAM",
@@ -1264,8 +1186,7 @@
       "/equipment/img/33933-5.jpg",
       "/equipment/img/33933-6.jpg"
     ],
-    "brand": "Sony",
-    "location": "New Delhi, India"
+    "brand": "Sony"
   },
   {
     "name": "Optex 5.5mm f1.8 Super Cine PL Lens for Super 16 Cameras",
@@ -1283,8 +1204,7 @@
       "/equipment/img/33369-6.jpg"
     ],
     "brand": "Optex",
-    "mount": "PL",
-    "location": "New Delhi, India"
+    "mount": "PL"
   },
   {
     "name": "Helios PL Film Lens 58mm F2/T2 Helios-44-2",
@@ -1300,8 +1220,7 @@
       "/equipment/img/33740-4.jpg"
     ],
     "brand": "Helios",
-    "mount": "PL",
-    "location": "New Delhi, India"
+    "mount": "PL"
   },
   {
     "name": "Cooke Anamorphic Lens Set 32mm, 50mm, 85mm, 135mm",
@@ -1314,8 +1233,7 @@
       "/equipment/img/33466-1.jpg",
       "/equipment/img/33466-2.jpg"
     ],
-    "brand": "Cooke",
-    "location": "New Delhi, India"
+    "brand": "Cooke"
   },
   {
     "name": "Arriflex 435 35mm Camera with AVF-2 Anamorphic Viewfinder",
@@ -1330,8 +1248,7 @@
       "/equipment/img/33441-4.jpg",
       "/equipment/img/33441-5.jpg"
     ],
-    "brand": "Arriflex",
-    "location": "New Delhi, India"
+    "brand": "Arriflex"
   },
   {
     "name": "Sony SRW1 with SRPC1 Processor Unit",
@@ -1346,8 +1263,7 @@
       "/equipment/img/32929-3.jpg",
       "/equipment/img/32929-4.jpg"
     ],
-    "brand": "Sony",
-    "location": "New Delhi, India"
+    "brand": "Sony"
   },
   {
     "name": "Fujinon A10x4.8 BERD-S28 Full Servo Wide Angle Zoom Lens",
@@ -1364,8 +1280,7 @@
       "/equipment/img/32928-5.jpg",
       "/equipment/img/32928-6.jpg"
     ],
-    "brand": "Fujinon",
-    "location": "New Delhi, India"
+    "brand": "Fujinon"
   },
   {
     "name": "NIKON S9x5.5B1-EMS-20 (5.5mm - 49.5mm) Wide Angle Zoom Lens",
@@ -1378,8 +1293,7 @@
       "/equipment/img/32927-2.jpg",
       "/equipment/img/32927-3.jpg"
     ],
-    "brand": "Nikon",
-    "location": "New Delhi, India"
+    "brand": "Nikon"
   },
   {
     "name": "Canon HJ11ex4.7B WRSE Full Servo Wide Angle HD Zoom Lens",
@@ -1394,8 +1308,7 @@
       "/equipment/img/32926-3.jpg",
       "/equipment/img/32926-4.jpg"
     ],
-    "brand": "Canon",
-    "location": "New Delhi, India"
+    "brand": "Canon"
   },
   {
     "name": "Canon KJ20x8.2B KRSD HDGC HD Lens with MS-15 Servo Controls",
@@ -1404,8 +1317,7 @@
     "url": "https://kitplus.com/for-sale/lenses-36/canon/kj20x82b-krsd-hdgc-hd-lens-with-canon-ms-15-zoom-and-focus-servo-controls/32891",
     "sold": false,
     "description": "2 sets of Canon KJ20x8.2B KRSD HDGC HD lens with Canon MS-15 zoom and focus servo controls",
-    "brand": "Canon",
-    "location": "New Delhi, India"
+    "brand": "Canon"
   },
   {
     "name": "Zeiss Ultra Prime Single Lenses 8-180mm",
@@ -1414,8 +1326,7 @@
     "url": "https://kitplus.com/for-sale/lenses-36/single-ultra/prime-lenses-8-10-12-14-16-20-24-28-32-40-50-65-85-100-135-and-180-mm/32889",
     "sold": false,
     "description": "Single Ultra prime lenses for US$3990+ each: 8, 10, 12, 14, 16, 20, 24, 28, 32, 40, 50, 65, 85, 100, 135 and 180mm",
-    "brand": "Zeiss",
-    "location": "New Delhi, India"
+    "brand": "Zeiss"
   },
   {
     "name": "Sony PMW 500 XDCAM (HD)",
@@ -1424,8 +1335,7 @@
     "url": "https://kitplus.com/for-sale/hd-39/sony/pmw-500-xdcam/32791",
     "sold": false,
     "description": "Sony PMW 500 XDCAM Full HD camera body with Sony HDVF20a high resolution viewfinder",
-    "brand": "Sony",
-    "location": "New Delhi, India"
+    "brand": "Sony"
   },
   {
     "name": "Angenieux HR Zoom 25-250 PL Mount",
@@ -1435,8 +1345,7 @@
     "sold": false,
     "description": "Angenieux 25-250 HR Zoom lens in PL mount",
     "brand": "Angénieux",
-    "mount": "PL",
-    "location": "New Delhi, India"
+    "mount": "PL"
   },
   {
     "name": "Professional Canon and Fujinon HD Lenses for Video and Studio Cameras",
@@ -1445,8 +1354,7 @@
     "url": "https://kitplus.com/for-sale/accessories-35/professional-canon-and-fujinon/hd-lenses-for-video-and-studio-cameras/32787",
     "sold": false,
     "description": "Professional Canon and Fujinon HD lenses for video and studio cameras, in excellent condition",
-    "brand": "Canon",
-    "location": "New Delhi, India"
+    "brand": "Canon"
   },
   {
     "name": "AJA Ki Pro Units",
@@ -1455,8 +1363,7 @@
     "url": "https://kitplus.com/for-sale/recorder-63/aja/ki-pro-units/32728",
     "sold": false,
     "description": "AJA Ki Pro recording units for sale - 6 nos. and more available",
-    "brand": "AJA",
-    "location": "New Delhi, India"
+    "brand": "AJA"
   },
   {
     "name": "Carl Zeiss Distagon Super Speed Lens T1.2 16mm for Super 16 PL Mount",
@@ -1466,8 +1373,7 @@
     "sold": false,
     "description": "Carl Zeiss Distagon Super Speed lens T1.2 16mm lens for Super 16 PL mount",
     "brand": "Carl Zeiss",
-    "mount": "PL",
-    "location": "New Delhi, India"
+    "mount": "PL"
   },
   {
     "name": "Phantom 2K Gold HD Ultra Slow Motion Camera (PL Mount)",
@@ -1485,8 +1391,7 @@
       "/equipment/img/32308-6.jpg"
     ],
     "brand": "Phantom",
-    "mount": "PL",
-    "location": "New Delhi, India"
+    "mount": "PL"
   },
   {
     "name": "Sony HDC F950 Camera",
@@ -1500,8 +1405,7 @@
       "/equipment/img/32227-2.jpg",
       "/equipment/img/32227-3.jpg"
     ],
-    "brand": "Sony",
-    "location": "New Delhi, India"
+    "brand": "Sony"
   },
   {
     "name": "Canon FD 300mm T2.8 PL",
@@ -1518,8 +1422,7 @@
       "/equipment/img/32226-5.jpg"
     ],
     "brand": "Canon",
-    "mount": "PL",
-    "location": "New Delhi, India"
+    "mount": "PL"
   },
   {
     "name": "Canon HDec FJS Lenses (Set of 6)",
@@ -1536,8 +1439,7 @@
       "/equipment/img/32225-5.jpg",
       "/equipment/img/32225-6.jpg"
     ],
-    "brand": "Canon",
-    "location": "New Delhi, India"
+    "brand": "Canon"
   },
   {
     "name": "Sony PDW700 XDCAM",
@@ -1554,8 +1456,7 @@
       "/equipment/img/32224-5.jpg",
       "/equipment/img/32224-6.jpg"
     ],
-    "brand": "Sony",
-    "location": "New Delhi, India"
+    "brand": "Sony"
   },
   {
     "name": "Fujinon UA23X7.6BERD-S10 4K Premier Tele Lens with Full Servo and 2x Extender",
@@ -1564,8 +1465,7 @@
     "url": "https://kitplus.com/for-sale/lenses-36/fujinon/ua23x76berd-s10-4k-premier-tele-lens-with-full-servo-and-2x-extender/32221",
     "sold": false,
     "description": "Fujinon UA23X7.6BERD-S10 4K Premier Tele Lens with Full Servo and 2x Extender. Demo lens like new condition",
-    "brand": "Fujinon",
-    "location": "New Delhi, India"
+    "brand": "Fujinon"
   },
   {
     "name": "ARRI Alura Zoom Fujinon 30-80 PL Lens",
@@ -1583,8 +1483,7 @@
       "/equipment/img/32220-6.jpg"
     ],
     "brand": "ARRI",
-    "mount": "PL",
-    "location": "New Delhi, India"
+    "mount": "PL"
   },
   {
     "name": "Zeiss 21-100 Lightweight Zoom LWZ",
@@ -1592,8 +1491,7 @@
     "cond": "Used",
     "url": "https://kitplus.com/for-sale/lenses-36/zeiss/21-100-lightweight-zoom-lwz/32093",
     "sold": false,
-    "brand": "Zeiss",
-    "location": "New Delhi, India"
+    "brand": "Zeiss"
   },
   {
     "name": "Sony BC-L100CE and BC-L120 Lithium-Ion Battery Chargers",
@@ -1602,8 +1500,7 @@
     "url": "https://kitplus.com/for-sale/batteries-74/sony/bc-l100ce-and-bc-l120-lithium-ion-battery-chargers/32079",
     "sold": false,
     "description": "Sony BC-L100CE and BC-L120 Lithium-Ion battery chargers with four ports for V-mount Sony Li-Ion batteries",
-    "brand": "Sony",
-    "location": "New Delhi, India"
+    "brand": "Sony"
   },
   {
     "name": "Carl Zeiss Distagon Super Speed Lens Set",
@@ -1612,8 +1509,7 @@
     "url": "https://kitplus.com/for-sale/lenses-36/carl-zeiss/carl-zeiss-distagon-super-speed-lens/32077",
     "sold": false,
     "description": "Carl Zeiss Distagon Super Speed lens",
-    "brand": "Carl Zeiss",
-    "location": "New Delhi, India"
+    "brand": "Carl Zeiss"
   },
   {
     "name": "Carl Zeiss Master Primes Lens Set 16, 25, 35, 50, 75, 100mm",
@@ -1630,8 +1526,7 @@
       "/equipment/img/32076-5.jpg",
       "/equipment/img/32076-6.jpg"
     ],
-    "brand": "Carl Zeiss",
-    "location": "New Delhi, India"
+    "brand": "Carl Zeiss"
   },
   {
     "name": "Carl Zeiss Ultra Prime PL Mount Lenses 16, 24, 32, 50, 85, 135mm",
@@ -1649,8 +1544,7 @@
       "/equipment/img/32075-6.jpg"
     ],
     "brand": "Carl Zeiss",
-    "mount": "PL",
-    "location": "New Delhi, India"
+    "mount": "PL"
   },
   {
     "name": "Canon HJ11x4.7B-III KLL-SC T2.1",
@@ -1659,8 +1553,7 @@
     "url": "https://kitplus.com/for-sale/lenses-36/canon/hj11x47b-iii-kll-sc-t21/32073",
     "sold": false,
     "description": "Canon HJ11x4.7B-III KLL-SC T2.1 Film Style wide angle lens in brand new sterling condition",
-    "brand": "Canon",
-    "location": "New Delhi, India"
+    "brand": "Canon"
   },
   {
     "name": "Sony PDW700 XDCAM Full HD Camcorder",
@@ -1677,8 +1570,7 @@
       "/equipment/img/32047-5.jpg",
       "/equipment/img/32047-6.jpg"
     ],
-    "brand": "Sony",
-    "location": "New Delhi, India"
+    "brand": "Sony"
   },
   {
     "name": "Rycote Windshield Blimp with Fabric Outer Covering and Pistol Grip",
@@ -1691,8 +1583,7 @@
       "/equipment/img/32046-2.jpg",
       "/equipment/img/32046-3.jpg"
     ],
-    "brand": "Rycote",
-    "location": "New Delhi, India"
+    "brand": "Rycote"
   },
   {
     "name": "Fujinon Premista 80-250mm T2.9",
@@ -1701,8 +1592,7 @@
     "url": "https://kitplus.com/for-sale/lenses-36/fujinon/premista-80-250mm-t29/32044",
     "sold": false,
     "description": "Fujinon full frame PL mount Premista 80-250 lens for sale. Brand new and in the box, with full Fujinon warranty",
-    "brand": "Fujinon",
-    "location": "New Delhi, India"
+    "brand": "Fujinon"
   },
   {
     "name": "Panasonic DVC Pro AJD-450 SDI",
@@ -1715,8 +1605,7 @@
       "/equipment/img/31973-1.jpg",
       "/equipment/img/31973-2.jpg"
     ],
-    "brand": "Panasonic",
-    "location": "New Delhi, India"
+    "brand": "Panasonic"
   },
   {
     "name": "RCU Panasonic AJ-RC10 Remote Control",
@@ -1728,8 +1617,7 @@
     "images": [
       "/equipment/img/31947-1.jpg"
     ],
-    "brand": "Panasonic",
-    "location": "New Delhi, India"
+    "brand": "Panasonic"
   },
   {
     "name": "Canon HJ11x4.7B-III KLL-SC T2.1 Film Style Wide Angle Lens",
@@ -1738,8 +1626,7 @@
     "url": "https://kitplus.com/for-sale/lenses-36/canon/hj11x47b-iii-kll-sc-t21-film-style-wide-angle-lens/31944",
     "sold": false,
     "description": "Canon HJ11x4.7B-III KLL-SC T2.1 Film Style wide angle lens in brand new sterling condition",
-    "brand": "Canon",
-    "location": "New Delhi, India"
+    "brand": "Canon"
   },
   {
     "name": "Sony PMW F65 Cine Alta PL Mount 8K Broadcast Film Camera",
@@ -1749,8 +1636,7 @@
     "sold": false,
     "description": "Sony PMW F65 Cine Alta PL mount 8K broadcast - film camera with external recorder, viewfinder, battery back, 2 nos. 512GB Sony S55",
     "brand": "Sony",
-    "mount": "PL",
-    "location": "New Delhi, India"
+    "mount": "PL"
   },
   {
     "name": "Sony 4K B4 Mount Camera PXW Z 450 with Viewfinder",
@@ -1765,8 +1651,7 @@
       "/equipment/img/31862-3.jpg"
     ],
     "brand": "Sony",
-    "mount": "B4",
-    "location": "New Delhi, India"
+    "mount": "B4"
   },
   {
     "name": "Canon HJ22ex7.6B IASE A",
@@ -1781,8 +1666,7 @@
       "/equipment/img/31789-3.jpg",
       "/equipment/img/31789-4.jpg"
     ],
-    "brand": "Canon",
-    "location": "New Delhi, India"
+    "brand": "Canon"
   },
   {
     "name": "Fujinon 85-300 PL",
@@ -1797,8 +1681,7 @@
       "/equipment/img/31939-3.jpg"
     ],
     "brand": "Fujinon",
-    "mount": "PL",
-    "location": "New Delhi, India"
+    "mount": "PL"
   },
   {
     "name": "WMT Agile LiveLink 265",
@@ -1815,8 +1698,7 @@
       "/equipment/img/31933-5.jpg",
       "/equipment/img/31933-6.jpg"
     ],
-    "brand": "WMT Agile",
-    "location": "New Delhi, India"
+    "brand": "WMT Agile"
   },
   {
     "name": "Cooke S4i Mini PL Lenses f/2.8: 18, 40, 65, 135mm",
@@ -1826,8 +1708,7 @@
     "sold": false,
     "description": "4 lens set of Cooke S4i Mini PL lenses of f/2.8: 18, 40, 65, 135mm",
     "brand": "Cooke",
-    "mount": "PL",
-    "location": "New Delhi, India"
+    "mount": "PL"
   },
   {
     "name": "Cooke S4i f/2 12mm Single Lens",
@@ -1836,8 +1717,7 @@
     "url": "https://kitplus.com/for-sale/lenses-36/cooke-s4i-f2/cooke-s4i-f2/31930",
     "sold": false,
     "description": "Cooke S4i 12mm single lens",
-    "brand": "Cooke",
-    "location": "New Delhi, India"
+    "brand": "Cooke"
   },
   {
     "name": "Cooke S4i f/2 Full Set (12-135mm)",
@@ -1846,8 +1726,7 @@
     "url": "https://kitplus.com/for-sale/lenses-36/cooke/s4i-f2/31929",
     "sold": false,
     "description": "Cooke S4i f/2: 12, 14, 16, 18, 21, 27, 32, 40, 50, 75, 75, 100, 100mm plus Cooke S4i Mini PL f/2.8: 18, 40, 65, 135mm",
-    "brand": "Cooke",
-    "location": "New Delhi, India"
+    "brand": "Cooke"
   },
   {
     "name": "Cooke S4i 6 Lens Set",
@@ -1856,8 +1735,7 @@
     "url": "https://kitplus.com/for-sale/lenses-36/cooke/s4i/31928",
     "sold": false,
     "description": "6 lens sets x 2 Cooke S4i sets (2 such sets available)",
-    "brand": "Cooke",
-    "location": "New Delhi, India"
+    "brand": "Cooke"
   },
   {
     "name": "Fujinon Premier Cabrio PL Lens 25-300 Zoom (New)",
@@ -1875,8 +1753,7 @@
       "/equipment/img/31831-6.jpg"
     ],
     "brand": "Fujinon",
-    "mount": "PL",
-    "location": "New Delhi, India"
+    "mount": "PL"
   },
   {
     "name": "Fujinon ZK3.5x85-SAFB PL Mount 85-300 Zoom with Servo Grip",
@@ -1891,8 +1768,7 @@
       "/equipment/img/31830-3.jpg"
     ],
     "brand": "Fujinon",
-    "mount": "PL",
-    "location": "New Delhi, India"
+    "mount": "PL"
   },
   {
     "name": "Canon 4.3-52mm 4K UHD Portable Full-Servo Lens with 2x Extender",
@@ -1907,8 +1783,7 @@
       "/equipment/img/31829-3.jpg",
       "/equipment/img/31829-4.jpg"
     ],
-    "brand": "Canon",
-    "location": "New Delhi, India"
+    "brand": "Canon"
   },
   {
     "name": "Zeiss Supreme Prime 6 Lens Set",
@@ -1917,8 +1792,7 @@
     "url": "https://kitplus.com/for-sale/lenses-36/zeiss/supreme-prime/31827",
     "sold": false,
     "description": "Zeiss Supreme Prime 6 Lenses in pristine condition. Carl Zeiss Supreme Prime 25, 29, 35, 50, 85 and 100mm lens set",
-    "brand": "Zeiss",
-    "location": "New Delhi, India"
+    "brand": "Zeiss"
   },
   {
     "name": "Canon HJ22 x 7.6 B IASE Full Servo HD Zoom Lens",
@@ -1933,8 +1807,7 @@
       "/equipment/img/31784-3.jpg",
       "/equipment/img/31784-4.jpg"
     ],
-    "brand": "Canon",
-    "location": "New Delhi, India"
+    "brand": "Canon"
   },
   {
     "name": "Fujinon 20x BERM Lenses with 2x Doubler",
@@ -1950,8 +1823,7 @@
       "/equipment/img/31781-4.jpg",
       "/equipment/img/31781-5.jpg"
     ],
-    "brand": "Fujinon",
-    "location": "New Delhi, India"
+    "brand": "Fujinon"
   },
   {
     "name": "Fujinon 85-300 PL Mount ZK3.5 x 85 with Servo Grip",
@@ -1961,8 +1833,7 @@
     "sold": false,
     "description": "Fujinon 85-300 PL mount ZK3.5 x 85 - SAFB with servo grip and Fujinon protective filter",
     "brand": "Fujinon",
-    "mount": "PL",
-    "location": "New Delhi, India"
+    "mount": "PL"
   },
   {
     "name": "Vinten Pro Touch / Vinten 5 LF Tripods",
@@ -1979,8 +1850,7 @@
       "/equipment/img/31790-5.jpg",
       "/equipment/img/31790-6.jpg"
     ],
-    "brand": "Vinten",
-    "location": "New Delhi, India"
+    "brand": "Vinten"
   },
   {
     "name": "ARRI Master Prime Carl Zeiss 18, 25, 35, 50, 75, 100",
@@ -1989,8 +1859,7 @@
     "url": "https://kitplus.com/for-sale/lenses-36/arri/master-prime-carl-zeiss-1825355075100/31724",
     "sold": false,
     "description": "6 lens Master Prime set in very good condition",
-    "brand": "ARRI",
-    "location": "New Delhi, India"
+    "brand": "ARRI"
   },
   {
     "name": "Cooke S4i PL Lenses: 14, 18, 25, 32, 50, 75, 100mm",
@@ -2000,8 +1869,7 @@
     "sold": false,
     "description": "7 lens set of Cooke S4i PL lenses: 14, 18, 25, 32, 50, 75, 100mm in excellent condition",
     "brand": "Cooke",
-    "mount": "PL",
-    "location": "New Delhi, India"
+    "mount": "PL"
   },
   {
     "name": "Arriflex 16 SRII High Speed Arri Super 16 Camera",
@@ -2010,8 +1878,7 @@
     "url": "https://kitplus.com/for-sale/cameras-and-accessories-1/arriflex/arriflex-16-srii-high-speed-arri-super-16-camera-with-viewfinder-etc/31802",
     "sold": false,
     "description": "Arriflex 16 SRII High Speed Arri Super 16 camera with viewfinder, etc.",
-    "brand": "Arriflex",
-    "location": "New Delhi, India"
+    "brand": "Arriflex"
   },
   {
     "name": "Zeiss Supreme Prime 6 Lenses (Set 2)",
@@ -2020,8 +1887,7 @@
     "url": "https://kitplus.com/for-sale/lenses-36/zeiss/supreme-prime-6-lenses/31800",
     "sold": false,
     "description": "Zeiss Supreme Prime 6 Lenses in pristine condition. Carl Zeiss Supreme Prime 25, 29, 35, 50, 85 and 100mm lens set",
-    "brand": "Zeiss",
-    "location": "New Delhi, India"
+    "brand": "Zeiss"
   },
   {
     "name": "Canon CN20x50 (50-1000mm PL Lens with 1.5x Tele-Convertor)",
@@ -2031,8 +1897,7 @@
     "sold": false,
     "description": "Canon CN20x50 (50-1000mm PL lens with 1.5x tele-convertor) Brand new and unopened from its original box",
     "brand": "Canon",
-    "mount": "PL",
-    "location": "New Delhi, India"
+    "mount": "PL"
   },
   {
     "name": "THREE Sony F5 Cameras with 4K",
@@ -2041,8 +1906,7 @@
     "url": "https://kitplus.com/for-sale/cameras-and-accessories-1/three-sony/f5-cameras-for-sale-with-4k-two-with-100-and-1-with-350-viewfinders/31625",
     "sold": false,
     "description": "Sony F5 cameras for sale with 4K, two with 100 and 1 with 350 viewfinders",
-    "brand": "Sony",
-    "location": "New Delhi, India"
+    "brand": "Sony"
   },
   {
     "name": "Sony F5 Camera",
@@ -2051,8 +1915,7 @@
     "url": "https://kitplus.com/for-sale/cameras-and-accessories-1/sony/f5-camera/31624",
     "sold": false,
     "description": "Sony F5 camera with ProRes, 4K and viewfinder",
-    "brand": "Sony",
-    "location": "New Delhi, India"
+    "brand": "Sony"
   },
   {
     "name": "Zeiss PL Mount Lightweight 21-100 Zoom",
@@ -2062,8 +1925,7 @@
     "sold": false,
     "description": "Zeiss PL mount Lightweight 21-100 zoom for sale, in sterling like-new condition, with field shipping hard case included",
     "brand": "Zeiss",
-    "mount": "PL",
-    "location": "New Delhi, India"
+    "mount": "PL"
   },
   {
     "name": "Sony 512GB S55 Series SRMemory Card",
@@ -2071,8 +1933,7 @@
     "cond": "Used",
     "url": "https://kitplus.com/for-sale/media-memory-card-99/sony/512gb-s55-series-srmemory-card/31495",
     "sold": false,
-    "brand": "Sony",
-    "location": "New Delhi, India"
+    "brand": "Sony"
   },
   {
     "name": "O'Connor / Miller / Sachtler / Vinten Tripod Heads",
@@ -2081,8 +1942,7 @@
     "url": "https://kitplus.com/for-sale/accessories-35/oconnor/miller-150-mm-sachtler-vinten-250-mm-sachtler-150-mm-vinten-pro-5-sachtler-video-18-and-20/31480",
     "sold": false,
     "description": "O'Connor, Miller 150mm, Sachtler, Vinten 250mm, Sachtler 150mm, Vinten Pro 5, Sachtler Video 18 and 20",
-    "brand": "O'Connor",
-    "location": "New Delhi, India"
+    "brand": "O'Connor"
   },
   {
     "name": "Canon HDGC Lens KJ20X8.2B KRSD HD Video Lens with B4 Mount",
@@ -2092,8 +1952,7 @@
     "sold": false,
     "description": "Canon HDGC lens KJ20X8.2B KRSD High Definition video lens with B4 mount. Very good condition. Comes with Canon zoom and focus servo kit",
     "brand": "Canon",
-    "mount": "B4",
-    "location": "New Delhi, India"
+    "mount": "B4"
   },
   {
     "name": "Sony NEX FS700 Full HD Camera",
@@ -2102,8 +1961,7 @@
     "url": "https://kitplus.com/for-sale/hd-39/sony/nex-fs700-full-hd-camera-units-with-viewfinders/31466",
     "sold": false,
     "description": "Sony NEX FS700 Full HD camera units with viewfinders. Can record in Full HD and also do extreme moderate slow motion recording",
-    "brand": "Sony",
-    "location": "New Delhi, India"
+    "brand": "Sony"
   },
   {
     "name": "Optex Macro 200mm Lens",
@@ -2119,8 +1977,7 @@
       "/equipment/img/31983-4.jpg",
       "/equipment/img/31983-5.jpg"
     ],
-    "brand": "Optex",
-    "location": "New Delhi, India"
+    "brand": "Optex"
   },
   {
     "name": "Panasonic AJ-HDC27FE Varicam Variable Frame DVC Pro HD Camera",
@@ -2137,8 +1994,7 @@
       "/equipment/img/31433-5.jpg",
       "/equipment/img/31433-6.jpg"
     ],
-    "brand": "Panasonic",
-    "location": "New Delhi, India"
+    "brand": "Panasonic"
   },
   {
     "name": "Panasonic AJ-HDC27E Varicam",
@@ -2147,8 +2003,7 @@
     "url": "https://kitplus.com/for-sale/cameras-and-accessories-1/panasonic/aj-hdc27e/31432",
     "sold": false,
     "description": "Panasonic AJ-HDC27E Varicam Variable Frame DVC Pro HD camera camcorder with HD High Definition viewfinder",
-    "brand": "Panasonic",
-    "location": "New Delhi, India"
+    "brand": "Panasonic"
   },
   {
     "name": "Carl Zeiss Master Prime Lens Set (PL Mount) 18, 25, 35, 50, 75, 100mm",
@@ -2166,8 +2021,7 @@
       "/equipment/img/31382-6.jpg"
     ],
     "brand": "Carl Zeiss",
-    "mount": "PL",
-    "location": "New Delhi, India"
+    "mount": "PL"
   },
   {
     "name": "Optar Illumina PL Lenses Super 16 Prime Lens Set",
@@ -2177,8 +2031,7 @@
     "sold": false,
     "description": "7 lens set of Super 16 prime lens set of Russian made Optar Illumina PL lenses with a wider angle Kinoptic Tegea and Optika-Elite",
     "brand": "Optar",
-    "mount": "PL",
-    "location": "New Delhi, India"
+    "mount": "PL"
   },
   {
     "name": "Carl Zeiss PL Mount Supreme Prime 21mm",
@@ -2188,8 +2041,7 @@
     "sold": false,
     "description": "Carl Zeiss PL mount Supreme Prime 21mm single lens for sale. Pristine condition. First owner",
     "brand": "Carl Zeiss",
-    "mount": "PL",
-    "location": "New Delhi, India"
+    "mount": "PL"
   },
   {
     "name": "Vinten 250 Tripod Head and Legs with Case (150mm Bowl)",
@@ -2206,8 +2058,7 @@
       "/equipment/img/31356-5.jpg",
       "/equipment/img/31356-6.jpg"
     ],
-    "brand": "Vinten",
-    "location": "New Delhi, India"
+    "brand": "Vinten"
   },
   {
     "name": "Canon 300mm f/2.8 Lenses with 2x Extenders",
@@ -2223,8 +2074,7 @@
       "/equipment/img/31318-4.jpg",
       "/equipment/img/31318-5.jpg"
     ],
-    "brand": "Canon",
-    "location": "New Delhi, India"
+    "brand": "Canon"
   },
   {
     "name": "Angenieux HR Zoom for Super 16 PL Mount 11.5-138mm",
@@ -2234,8 +2084,7 @@
     "sold": false,
     "description": "Angenieux HR zoom for Super 16 PL mount. 11.5 - 138mm HR",
     "brand": "Angénieux",
-    "mount": "PL",
-    "location": "New Delhi, India"
+    "mount": "PL"
   },
   {
     "name": "Optar Illumina 6 Lens Set Super 16 with Kinoptic Tegea",
@@ -2244,8 +2093,7 @@
     "url": "https://kitplus.com/for-sale/lenses-36/optar-illumina/6-lens-set-of-super-16-prime-lens-set-of-russian-made-optar-illumina-pl-lenses-with-a-wider-angle-kinoptic-tegea/31269",
     "sold": false,
     "description": "6 lens set of Super 16 prime lens set of Russian made Optar Illumina PL lenses with a wider angle Kinoptic Tegea",
-    "brand": "Optar",
-    "location": "New Delhi, India"
+    "brand": "Optar"
   },
   {
     "name": "Angenieux 25-250 Optimo Style (DP)",
@@ -2254,8 +2102,7 @@
     "url": "https://kitplus.com/for-sale/lenses-36/angenieux/25-250-optimo-style-dp/31243",
     "sold": false,
     "description": "Angenieux 25-250 Optimo Style (DP) /i PL lens in pristine condition",
-    "brand": "Angénieux",
-    "location": "New Delhi, India"
+    "brand": "Angénieux"
   },
   {
     "name": "Carl Zeiss PL Mount Supreme Prime 29mm",
@@ -2265,8 +2112,7 @@
     "sold": false,
     "description": "Carl Zeiss PL mount Supreme Prime 29mm new lens",
     "brand": "Carl Zeiss",
-    "mount": "PL",
-    "location": "New Delhi, India"
+    "mount": "PL"
   },
   {
     "name": "Carl Zeiss Supreme Prime SIX Lens Kit",
@@ -2275,8 +2121,7 @@
     "url": "https://kitplus.com/for-sale/lenses-36/carl-zeiss/supreme-prime-six-lens-kit/31229",
     "sold": false,
     "description": "Carl Zeiss Supreme Prime SIX lens kit in pristine condition. 25, 29, 35, 50, 85 and 100mm lens set",
-    "brand": "Carl Zeiss",
-    "location": "New Delhi, India"
+    "brand": "Carl Zeiss"
   },
   {
     "name": "Fostex Personal Monitor 6301B",
@@ -2285,8 +2130,7 @@
     "url": "https://kitplus.com/for-sale/accessories-35/fostex-personal-monitor-6301b/fostex-personal-monitor-6301b/31227",
     "sold": false,
     "description": "Fostex Personal Monitor 6301B brand new and in the box",
-    "brand": "Fostex",
-    "location": "New Delhi, India"
+    "brand": "Fostex"
   },
   {
     "name": "Sony DXC 537APK 3 CCD Hyper HAD",
@@ -2295,8 +2139,7 @@
     "url": "https://kitplus.com/for-sale/viewfinders-78/sony/dxc-537apk-3-ccd-hyper-had/31223",
     "sold": false,
     "description": "Sony DXC 537APK 3 CCD Hyper HAD (Hole Accumulated Diode) colour camera with viewfinder",
-    "brand": "Sony",
-    "location": "New Delhi, India"
+    "brand": "Sony"
   },
   {
     "name": "M2 Redrock Micro Nikon Cinema Lens Adaptor",
@@ -2305,8 +2148,7 @@
     "url": "https://kitplus.com/for-sale/adapters-75/m2-redrock/m2-redrock-micro-nikon-cinema-lens-adaptor-with-9v-dc-and-battery-connectivity/31222",
     "sold": false,
     "description": "M2 Redrock Micro Nikon Cinema Lens Adaptor with 9V DC and battery connectivity",
-    "brand": "Redrock Micro",
-    "location": "New Delhi, India"
+    "brand": "Redrock Micro"
   },
   {
     "name": "Ikegami HC390 with CA390 Camera Adaptor",
@@ -2321,8 +2163,7 @@
       "/equipment/img/31217-3.jpg",
       "/equipment/img/31217-4.jpg"
     ],
-    "brand": "Ikegami",
-    "location": "New Delhi, India"
+    "brand": "Ikegami"
   },
   {
     "name": "ARRI 35 III Camera Body with Super 16 Lenses and 16SR2 HS",
@@ -2331,8 +2172,7 @@
     "url": "https://kitplus.com/for-sale/accessories-35/arri/35-iii-camera-body-and-some-super-16-lenses-16sr2-hs-camera-body-with-one-magazine-arri-35-iii-35-mm-film-camera-body-with-viewfinder/31215",
     "sold": false,
     "description": "ARRI 35 III camera body and some Super 16 lenses, 16SR2 HS camera body with one magazine, Arri 35 III 35mm film camera body with viewfinder",
-    "brand": "ARRI",
-    "location": "New Delhi, India"
+    "brand": "ARRI"
   },
   {
     "name": "ARRI 35 III 35mm Film Camera Body with Viewfinder and Magazine",
@@ -2341,8 +2181,7 @@
     "url": "https://kitplus.com/for-sale/accessories-35/arri/35-iii-35-mm-film-camera-body-with-viewfinder-and-one-magazine/31214",
     "sold": false,
     "description": "Arri 35 III 35mm film camera body with viewfinder and one magazine",
-    "brand": "ARRI",
-    "location": "New Delhi, India"
+    "brand": "ARRI"
   },
   {
     "name": "Media Logic 5 Digit Speed Control",
@@ -2350,16 +2189,14 @@
     "cond": "Used",
     "url": "https://kitplus.com/for-sale/accessories-35/media/logic-5-digit-speed-control/31213",
     "sold": false,
-    "brand": "Media Logic",
-    "location": "New Delhi, India"
+    "brand": "Media Logic"
   },
   {
     "name": "Matte Box with Rods",
     "cat": "Matte Box",
     "cond": "Used",
     "url": "https://kitplus.com/for-sale/accessories-35/matte-box-with-rods-make-an-offer/matte-box-with-rods-make-an-offer/31212",
-    "sold": false,
-    "location": "New Delhi, India"
+    "sold": false
   },
   {
     "name": "VCSC Digital 2000 Video Tap Accessory",
@@ -2367,8 +2204,7 @@
     "cond": "Used",
     "url": "https://kitplus.com/for-sale/accessories-35/vcsc/digital-2000-video-tap-accessory/31211",
     "sold": false,
-    "brand": "VCSC",
-    "location": "New Delhi, India"
+    "brand": "VCSC"
   },
   {
     "name": "Cinematography Electronics Crystal High Speed Motor",
@@ -2376,8 +2212,7 @@
     "cond": "Used",
     "url": "https://kitplus.com/for-sale/cables-connectors-115/cinematography/electronics-crystal-high-speed-motor/31210",
     "sold": false,
-    "brand": "Cinematography Electronics",
-    "location": "New Delhi, India"
+    "brand": "Cinematography Electronics"
   },
   {
     "name": "Super 16 Camera Magazine",
@@ -2385,8 +2220,7 @@
     "cond": "Used",
     "url": "https://kitplus.com/for-sale/accessories-35/super/16-camera-magazine/31209",
     "sold": false,
-    "description": "Additional Super 16 camera magazine",
-    "location": "New Delhi, India"
+    "description": "Additional Super 16 camera magazine"
   },
   {
     "name": "ARRI 35III with Viewfinder and Accessories (35mm PL)",
@@ -2395,8 +2229,7 @@
     "url": "https://kitplus.com/for-sale/accessories-35/arri/35iii-with-viewfinder-and-accessories-35-mm-pl/31207",
     "sold": false,
     "brand": "ARRI",
-    "mount": "PL",
-    "location": "New Delhi, India"
+    "mount": "PL"
   },
   {
     "name": "ARRI SR2 HS with Video Assist Accessories",
@@ -2404,8 +2237,7 @@
     "cond": "Used",
     "url": "https://kitplus.com/for-sale/accessories-35/arri/sr2-hs-with-video-assist-accessories/31206",
     "sold": false,
-    "brand": "ARRI",
-    "location": "New Delhi, India"
+    "brand": "ARRI"
   },
   {
     "name": "Angenieux 12-120",
@@ -2413,8 +2245,7 @@
     "cond": "Used",
     "url": "https://kitplus.com/for-sale/lenses-36/angenieux/12-120/31205",
     "sold": false,
-    "brand": "Angénieux",
-    "location": "New Delhi, India"
+    "brand": "Angénieux"
   },
   {
     "name": "Zeiss S16 Zoom 10-100 T1/8",
@@ -2423,8 +2254,7 @@
     "url": "https://kitplus.com/for-sale/lenses-36/zeiss/s16-zoom-10-100-t18/31204",
     "sold": false,
     "description": "10-100 T1/8 Zeiss S16 zoom",
-    "brand": "Zeiss",
-    "location": "New Delhi, India"
+    "brand": "Zeiss"
   },
   {
     "name": "ARRI 16 SR2 HS Super 16 PL Camera Body",
@@ -2434,8 +2264,7 @@
     "sold": false,
     "description": "Arri 16 SR2 HS Super 16 PL camera body. Some of the video assist/tap accessories",
     "brand": "ARRI",
-    "mount": "PL",
-    "location": "New Delhi, India"
+    "mount": "PL"
   },
   {
     "name": "Carl Zeiss Supreme Prime 25, 29, 35, 50, 85, 100mm Lens Set",
@@ -2444,8 +2273,7 @@
     "url": "https://kitplus.com/for-sale/lenses-36/carl/zeiss-supreme-prime-25-29-35-50-85-and-100-mm-lens-set/31199",
     "sold": false,
     "description": "Carl Zeiss Supreme Prime SIX lens kit in pristine condition. 25, 29, 35, 50, 85 and 100mm lens set",
-    "brand": "Carl Zeiss",
-    "location": "New Delhi, India"
+    "brand": "Carl Zeiss"
   },
   {
     "name": "Arriflex Carl Zeiss Super 16 Prime Lenses and Zoom Lens PL Mount Set",
@@ -2454,8 +2282,7 @@
     "url": "https://kitplus.com/for-sale/lenses-36/arriflex/carl-zeiss-super-16-prime-lenses-and-zoom-lens-pl-mount-set/31191",
     "sold": false,
     "brand": "Arriflex",
-    "mount": "PL",
-    "location": "New Delhi, India"
+    "mount": "PL"
   },
   {
     "name": "Super 16 PL Mount Prime Lens Set (Kinoptik/Zeiss)",
@@ -2465,8 +2292,7 @@
     "sold": false,
     "description": "Super 16 PL mount Kinoptik TEGEA Paris 5.7mm T/1.8, Carl Zeiss Distagon 9.5mm, 12mm, 16mm, 25mm T/1.2",
     "brand": "Zeiss",
-    "mount": "PL",
-    "location": "New Delhi, India"
+    "mount": "PL"
   },
   {
     "name": "SQN-4S Audio Mixer",
@@ -2475,8 +2301,7 @@
     "url": "https://kitplus.com/for-sale/mixers-31/sqn/4s-audio-mixer/31189",
     "sold": false,
     "description": "SQN 4S Series II and IIIa field audio mixers",
-    "brand": "SQN",
-    "location": "New Delhi, India"
+    "brand": "SQN"
   },
   {
     "name": "Sony PVM-14M2E 14\" Broadcast Monitor",
@@ -2485,8 +2310,7 @@
     "url": "https://kitplus.com/for-sale/monitors-87/sony/pvm-14m2e-is-a-like-new-14-broadcast-monitor-of-high-resolution/31188",
     "sold": false,
     "description": "Sony PVM-14M2E is a like new 14\" broadcast monitor of high resolution",
-    "brand": "Sony",
-    "location": "New Delhi, India"
+    "brand": "Sony"
   },
   {
     "name": "Sony PVM 9044QM 9\" Monitor",
@@ -2495,8 +2319,7 @@
     "url": "https://kitplus.com/for-sale/monitors-87/sony/pvm-9044qm-9-monitor-is-a-high-reoslution-component-crt-monitor/31187",
     "sold": false,
     "description": "Sony PVM 9044QM 9\" monitor is a high resolution component CRT monitor for field use",
-    "brand": "Sony",
-    "location": "New Delhi, India"
+    "brand": "Sony"
   },
   {
     "name": "Sony PVM 20L2 MD/ST High Resolution CRT Monitor",
@@ -2505,8 +2328,7 @@
     "url": "https://kitplus.com/for-sale/monitors-87/monitor/pvm-20l2-mdst-is-a-high-resolution-crt-monitor/31185",
     "sold": false,
     "description": "Brand new 21\" monitor PVM 20L2 MD/ST is a high resolution CRT monitor for broadcast and medical purposes",
-    "brand": "Sony",
-    "location": "New Delhi, India"
+    "brand": "Sony"
   },
   {
     "name": "Vinten Tripods and Heads PT520",
@@ -2515,8 +2337,7 @@
     "url": "https://kitplus.com/for-sale/tripods-96/vinten/tripods-and-heads-legs-are-marked-as-pt520/31177",
     "sold": false,
     "description": "Pro Touch from Vinten tripods and heads. Legs are marked as PT520",
-    "brand": "Vinten",
-    "location": "New Delhi, India"
+    "brand": "Vinten"
   },
   {
     "name": "Chrosziel MB 602 Matte Box for 6.6 x 6.6 Filters",
@@ -2525,8 +2346,7 @@
     "url": "https://kitplus.com/for-sale/matte-box-43/chrosziel/mb-602-matte-box-for-66-x-66-filters/31176",
     "sold": false,
     "description": "Chrosziel MB 602 matte box for 6.6 x 6.6 filters and large film cameras",
-    "brand": "Chrosziel",
-    "location": "New Delhi, India"
+    "brand": "Chrosziel"
   },
   {
     "name": "Fujinon HA42 X 9.7 with Full Servo Zoom and Focus Controls",
@@ -2535,8 +2355,7 @@
     "url": "https://kitplus.com/for-sale/lenses-36/fujinon/ha42-x-97-with-full-servo-zoom-and-focus-controls/31171",
     "sold": false,
     "description": "Fujinon HA42 X 9.7 with full servo zoom and focus controls and local supporter. No OIS feature. Serviced by Fujinon India",
-    "brand": "Fujinon",
-    "location": "New Delhi, India"
+    "brand": "Fujinon"
   },
   {
     "name": "RED 17-50 PL Zoom Lens",
@@ -2546,8 +2365,7 @@
     "sold": false,
     "description": "RED 17-50 PL zoom lens with front and back caps",
     "brand": "RED",
-    "mount": "PL",
-    "location": "New Delhi, India"
+    "mount": "PL"
   },
   {
     "name": "ARRI Alura Zoom Fujinon 30-80 PL Lens (Alternate)",
@@ -2557,8 +2375,7 @@
     "sold": false,
     "description": "Arri Alura Zoom Fujinon 30-80 PL lens in excellent condition. Comes with hard shipping case",
     "brand": "Fujinon",
-    "mount": "PL",
-    "location": "New Delhi, India"
+    "mount": "PL"
   },
   {
     "name": "ARRI Alura Zoom 15.5-45 Lens PL Mount (Alternate)",
@@ -2568,8 +2385,7 @@
     "sold": false,
     "description": "Arri Alura zoom 15.5-45 lens PL mount, in great condition",
     "brand": "ARRI",
-    "mount": "PL",
-    "location": "New Delhi, India"
+    "mount": "PL"
   },
   {
     "name": "Canon C300 Mk2 4K PL Mount Camera",
@@ -2579,8 +2395,7 @@
     "sold": false,
     "description": "Canon C300 Mk2 4K PL mount camera comes with 2 heavy-duty batteries, a charger, and various Arri accessories",
     "brand": "Canon",
-    "mount": "PL",
-    "location": "New Delhi, India"
+    "mount": "PL"
   },
   {
     "name": "Sony F5 Camera with 4K and ProRes",
@@ -2589,8 +2404,7 @@
     "url": "https://kitplus.com/for-sale/accessories-35/sony/f5-camera-which-has-4k-and-prores-also/31143",
     "sold": false,
     "description": "Sony F5 camera which has 4K and ProRes also. In good working order",
-    "brand": "Sony",
-    "location": "New Delhi, India"
+    "brand": "Sony"
   },
   {
     "name": "ARRI 35 III, 2C, 435 ES, SR2 HS, SR3 HS Film Cameras",
@@ -2599,8 +2413,7 @@
     "url": "https://kitplus.com/for-sale/accessories-35/arri/35-iii-2c-435-es-sr2-hs-sr3-hs-sr2-hs/31142",
     "sold": false,
     "description": "ARRI 35 III, 2C, 435 ES, SR2 HS, SR3 HS, SR2 HS film cameras for sale",
-    "brand": "ARRI",
-    "location": "New Delhi, India"
+    "brand": "ARRI"
   },
   {
     "name": "Arriflex SR 2 and SR3",
@@ -2609,8 +2422,7 @@
     "url": "https://kitplus.com/for-sale/accessories-35/arriflex/sr-2-and-sr-2sr3/31141",
     "sold": false,
     "description": "Arriflex SR 2 HS and Arriflex SR3 HS Package",
-    "brand": "Arriflex",
-    "location": "New Delhi, India"
+    "brand": "Arriflex"
   },
   {
     "name": "Fujinon HA14 X 4.5 BERM-M58B Semi Servo Zoom Lens",
@@ -2619,8 +2431,7 @@
     "url": "https://kitplus.com/for-sale/filters-42/fujinon/ha14-x-45-berm-m58b-semi-servo-zoom-lens/31137",
     "sold": false,
     "description": "Fujinon HA14 X 4.5 BERM-M58B semi servo zoom lens, in excellent condition",
-    "brand": "Fujinon",
-    "location": "New Delhi, India"
+    "brand": "Fujinon"
   },
   {
     "name": "ARRI 35 III Film Cameras for 35mm Film",
@@ -2629,8 +2440,7 @@
     "url": "https://kitplus.com/for-sale/accessories-35/arri/35-iii-film-cameras-for-35-mm-film/31114",
     "sold": false,
     "description": "FOUR sets of Arri 35 III film cameras for 35mm film. TWO sets of Arri IIC Crashcam 2C cameras for 35mm film",
-    "brand": "ARRI",
-    "location": "New Delhi, India"
+    "brand": "ARRI"
   },
   {
     "name": "Vinten 6 and Vinten 8 Tripod Heads and Legs",
@@ -2639,8 +2449,7 @@
     "url": "https://kitplus.com/for-sale/accessories-35/vinten/vinten-6-tripod-head-and-vinten-8-tripod-head-and-legs/31071",
     "sold": false,
     "description": "Vinten 6 tripod head and Vinten 8 tripod head and legs. Good camera load bearing capacity",
-    "brand": "Vinten",
-    "location": "New Delhi, India"
+    "brand": "Vinten"
   },
   {
     "name": "O'Connor 2060 HD 150mm Bowl Size Tripod Head",
@@ -2649,8 +2458,7 @@
     "url": "https://kitplus.com/for-sale/accessories-35/oconnor/2060-hd-150-mm-bowl-size-tripod-head-and-base-plate/31020",
     "sold": false,
     "description": "O'Connor 2060 HD 150mm bowl size tripod head and base plate, with panning rod, in used condition",
-    "brand": "O'Connor",
-    "location": "New Delhi, India"
+    "brand": "O'Connor"
   },
   {
     "name": "Sony LMD-1530W LCD Monitor with HDMI and HD-SDI",
@@ -2659,8 +2467,7 @@
     "url": "https://kitplus.com/for-sale/monitoring-18/sony/lmd-1530w-lcd-monitor-with-hdmi-and-hd-sdi/30938",
     "sold": false,
     "description": "Sony LMD-1530W LCD monitor with HDMI and HD-SDI, in good working order. 2 sets available",
-    "brand": "Sony",
-    "location": "New Delhi, India"
+    "brand": "Sony"
   },
   {
     "name": "Fujinon ZA17x7.6 BRM-M1H",
@@ -2669,8 +2476,7 @@
     "url": "https://kitplus.com/for-sale/lenses-36/fujinon/za17x76-brm-m1h/30930",
     "sold": false,
     "description": "Fujinon ZA17x7.6 BRM-M1H in demo like-new condition",
-    "brand": "Fujinon",
-    "location": "New Delhi, India"
+    "brand": "Fujinon"
   },
   {
     "name": "Fujinon ZA17x7.6 BERM-M58H",
@@ -2679,8 +2485,7 @@
     "url": "https://kitplus.com/for-sale/lenses-36/fujinon/za17x76-berm-m58h/30929",
     "sold": false,
     "description": "Fujinon ZA17x7.6 BERM-M58H in demo like-new condition",
-    "brand": "Fujinon",
-    "location": "New Delhi, India"
+    "brand": "Fujinon"
   },
   {
     "name": "Fujinon 4K UA46 Lens",
@@ -2689,8 +2494,7 @@
     "url": "https://kitplus.com/for-sale/cameras-and-accessories-1/fujinon/4k-ua46-lens/30922",
     "sold": false,
     "description": "Open-box brand new Fujinon 4K UA46 lens in ready stock",
-    "brand": "Fujinon",
-    "location": "New Delhi, India"
+    "brand": "Fujinon"
   },
   {
     "name": "Sony HXC-100 Triax Full HD Camera Chains (5 Sets)",
@@ -2699,8 +2503,7 @@
     "url": "https://kitplus.com/for-sale/accessories-35/sony/hxc-100-triax-full-hd-camera-chains-5-sets/30912",
     "sold": false,
     "description": "Sony HXC-100 Triax Full HD camera chains - 5 sets in stock. Excellent working condition",
-    "brand": "Sony",
-    "location": "New Delhi, India"
+    "brand": "Sony"
   },
   {
     "name": "Shotoku Corp. TE-12 HDVR Pedestal and Head",
@@ -2709,8 +2512,7 @@
     "url": "https://kitplus.com/for-sale/accessories-35/shotoku-corp/te-12-hdvr-pedestal-and-head/30886",
     "sold": false,
     "description": "Shotoku Corp. TE-12 HDVR broadcast camera head and pedestal in used condition",
-    "brand": "Shotoku",
-    "location": "New Delhi, India"
+    "brand": "Shotoku"
   },
   {
     "name": "Fujinon UA107 X 8.4 BESM-T45 4K UHD Sports Box Lens",
@@ -2719,8 +2521,7 @@
     "url": "https://kitplus.com/for-sale/lenses-36/fujinon/ua107-x-84-besm-t45-4k-uhd-sports-box-lens-with-trunk/30861",
     "sold": false,
     "description": "Fujinon UA107 X 8.4 BESM-T45 4K UHD sports box lens with trunk. Used like new condition",
-    "brand": "Fujinon",
-    "location": "New Delhi, India"
+    "brand": "Fujinon"
   },
   {
     "name": "Sony F5 and F55 Base Plates and Supports",
@@ -2729,8 +2530,7 @@
     "url": "https://kitplus.com/for-sale/accessories-35/sony-f5/and-f55-base-plates-and-supports-from-zacuto-arri-sony-tilta-vocas-and-camtree/30748",
     "sold": false,
     "description": "Sony F5 and F55 base plates and supports from Zacuto, Arri, Sony, Tilta, Vocas and Camtree",
-    "brand": "Sony",
-    "location": "New Delhi, India"
+    "brand": "Sony"
   },
   {
     "name": "Vinten Vector 750 Heavy Duty Sports and Box Lens Head",
@@ -2739,8 +2539,7 @@
     "url": "https://kitplus.com/for-sale/accessories-35/vinten/vector-750-heavy-duty-sports-and-box-lens-head/30714",
     "sold": false,
     "description": "Vinten Vector 750 heavy duty sports and box lens head, in good working condition",
-    "brand": "Vinten",
-    "location": "New Delhi, India"
+    "brand": "Vinten"
   },
   {
     "name": "Fujinon A20x8.6BRM-SD Lens",
@@ -2749,8 +2548,7 @@
     "url": "https://kitplus.com/for-sale/lenses-36/fujinon/a20x86brm-sd-lens/30270",
     "sold": false,
     "description": "Fujinon A20x8.6BRM-SD lens 2/3\" bayonet mount lens for professional video cameras. Good condition. Works in SD and HD modes",
-    "brand": "Fujinon",
-    "location": "New Delhi, India"
+    "brand": "Fujinon"
   },
   {
     "name": "Canon MS 210D / MS15 / SS41 IASD Zoom and Servo Kits",
@@ -2759,8 +2557,7 @@
     "url": "https://kitplus.com/for-sale/remote-control-45/canon/ms-210d-zoom-kit-used-2-sets-canon-ms-210d-new-2-sets-canon-ms15-zoom-kit-used-1-set-canon-ss41-iasd-used-4-sets/30269",
     "sold": false,
     "description": "Canon MS 210D zoom kit, Canon MS15-zoom-kit, Canon SS41 IASD servo controls",
-    "brand": "Canon",
-    "location": "New Delhi, India"
+    "brand": "Canon"
   },
   {
     "name": "Arri Super 16 Camera Arriflex 16 SR3",
@@ -2769,8 +2566,7 @@
     "url": "https://kitplus.com/for-sale/accessories-35/arri-super-16-cameras/arri-super-16/30265",
     "sold": false,
     "description": "Arri Super 16 camera Arriflex 16 SR3 with HS Time Code and SR Advanced features. 2 cameras available",
-    "brand": "Arriflex",
-    "location": "New Delhi, India"
+    "brand": "Arriflex"
   },
   {
     "name": "Vinten 250 Heavy Duty 150mm Bowl Size Tripod",
@@ -2779,8 +2575,7 @@
     "url": "https://kitplus.com/for-sale/accessories-35/vinten/250-heavy-duty-150-mm-bowl-size-tripod/30235",
     "sold": false,
     "description": "Vinten 250 heavy duty 150mm bowl size tripod head and legs, in good working order",
-    "brand": "Vinten",
-    "location": "New Delhi, India"
+    "brand": "Vinten"
   },
   {
     "name": "Sony HDC F950",
@@ -2789,8 +2584,7 @@
     "url": "https://kitplus.com/for-sale/cameras-and-accessories-1/sony/hdc-f950/30182",
     "sold": false,
     "description": "Sony HDC F950 camera with Cine Alta features, HDVF 20a viewfinder, and 4:4:4 output",
-    "brand": "Sony",
-    "location": "New Delhi, India"
+    "brand": "Sony"
   },
   {
     "name": "Ikegami 727P HD Studio Camera (Brand New)",
@@ -2799,8 +2593,7 @@
     "url": "https://kitplus.com/for-sale/cameras-and-accessories-1/ikegami/727p-hd-studio-camera-brand-new/30181",
     "sold": false,
     "description": "Ikegami 727P HD studio camera. Brand new",
-    "brand": "Ikegami",
-    "location": "New Delhi, India"
+    "brand": "Ikegami"
   },
   {
     "name": "Sony F5 4K Cameras",
@@ -2809,8 +2602,7 @@
     "url": "https://kitplus.com/for-sale/cameras-and-accessories-1/sony/f5-4k-cameras/30180",
     "sold": false,
     "description": "4 nos. high specification Sony F5 4K cameras for sale, with RAW recording",
-    "brand": "Sony",
-    "location": "New Delhi, India"
+    "brand": "Sony"
   },
   {
     "name": "PL Canon C300 Mk2 4K Camera",
@@ -2820,8 +2612,7 @@
     "sold": false,
     "description": "Canon C300 Mk2 4K PL mount camera comes with 2 batteries, a charger, and various Arri accessories such as a top handle",
     "brand": "Canon",
-    "mount": "PL",
-    "location": "New Delhi, India"
+    "mount": "PL"
   },
   {
     "name": "SACHTLER Video 25 Plus Tripod Head with Carbon Fiber Legs",
@@ -2830,8 +2621,7 @@
     "url": "https://kitplus.com/for-sale/accessories-35/sachtler/video-25-plus-tripod-head-carbon-fiber-legs-and-replacement-spreader-for-sale-as-a-set/30024",
     "sold": false,
     "description": "Sachtler Video 25 Plus tripod head, carbon fiber legs and replacement spreader for sale, as a set",
-    "brand": "Sachtler",
-    "location": "New Delhi, India"
+    "brand": "Sachtler"
   },
   {
     "name": "Carl Zeiss PL Mount Ultra Prime Lenses 180mm",
@@ -2841,8 +2631,7 @@
     "sold": false,
     "description": "3 nos. Carl Zeiss PL mount Ultra prime lenses of 180mm focal length",
     "brand": "Carl Zeiss",
-    "mount": "PL",
-    "location": "New Delhi, India"
+    "mount": "PL"
   },
   {
     "name": "NIKON 8mm PL Mount",
@@ -2852,8 +2641,7 @@
     "sold": false,
     "description": "Nikon 8mm PL lens for professional film wide angle work. Modified by Oppenheimer Camera, Seattle, USA",
     "brand": "Nikon",
-    "mount": "PL",
-    "location": "New Delhi, India"
+    "mount": "PL"
   },
   {
     "name": "Carl Zeiss Master Prime PL Mount Lenses",
@@ -2863,8 +2651,7 @@
     "sold": false,
     "description": "18, 25, 35, 50, 75 and 100mm lenses. Three sets available with optional extra focal lengths of 14, 16, 40, 65 and 150mm",
     "brand": "Carl Zeiss",
-    "mount": "PL",
-    "location": "New Delhi, India"
+    "mount": "PL"
   },
   {
     "name": "Optika Elite 8mm T1.2 Aperture Super 16 Lens",
@@ -2873,8 +2660,7 @@
     "url": "https://kitplus.com/for-sale/lenses-36/optika/elite-8-mm-t12-aperture-super-16-lens/29930",
     "sold": false,
     "description": "Optika Elite 8mm T1.2 aperture Super 16 lens in pristine condition",
-    "brand": "Optika",
-    "location": "New Delhi, India"
+    "brand": "Optika"
   },
   {
     "name": "Angenieux Optimo 24-290 PL Zoom",
@@ -2884,8 +2670,7 @@
     "sold": false,
     "description": "Angenieux Optimo 24-290 used lenses available. Will include servicing prior to despatch",
     "brand": "Angénieux",
-    "mount": "PL",
-    "location": "New Delhi, India"
+    "mount": "PL"
   },
   {
     "name": "ARRI 4x4 Matte Box",
@@ -2894,8 +2679,7 @@
     "url": "https://kitplus.com/for-sale/cameras-and-accessories-1/arri/arri-4x4-matte-box/29637",
     "sold": false,
     "description": "4X4 professional Arriflex matte box for camera filters, for use with professional film cameras",
-    "brand": "ARRI",
-    "location": "New Delhi, India"
+    "brand": "ARRI"
   },
   {
     "name": "Arriflex 435 ES 35mm Film Camera with PL Mount",
@@ -2905,8 +2689,7 @@
     "sold": false,
     "description": "Arriflex 435 ES 35mm film camera with PL mount (4 perf / perforation), with AVF-2 anamorphic viewfinder",
     "brand": "Arriflex",
-    "mount": "PL",
-    "location": "New Delhi, India"
+    "mount": "PL"
   },
   {
     "name": "Canon HJ11x4.7 KLL-SC Wide Angle Film Style HD Zoom Lens",
@@ -2915,8 +2698,7 @@
     "url": "https://kitplus.com/for-sale/lenses-36/canon/hj11x47-kll-sc-wide-angle-film-style-hd-zoom-lens-with-t-stops-and-low-focus-breathing/29408",
     "sold": false,
     "description": "Canon HJ11x4.7 KLL-SC wide angle Film Style HD zoom lens with T stops and low focus breathing",
-    "brand": "Canon",
-    "location": "New Delhi, India"
+    "brand": "Canon"
   },
   {
     "name": "Canon J9x5.2 Wide Angle Zoom Lens",
@@ -2924,8 +2706,7 @@
     "cond": "Used",
     "url": "https://kitplus.com/for-sale/lenses-36/canon/j9x52-wide-angle-zoom-lens/29404",
     "sold": false,
-    "brand": "Canon",
-    "location": "New Delhi, India"
+    "brand": "Canon"
   },
   {
     "name": "Canon YJ12x6.5 Wide Angle Zoom Lens",
@@ -2933,8 +2714,7 @@
     "cond": "Used",
     "url": "https://kitplus.com/for-sale/lenses-36/canon/yj12x65-wide-angle-zoom-lens-us950/29403",
     "sold": false,
-    "brand": "Canon",
-    "location": "New Delhi, India"
+    "brand": "Canon"
   },
   {
     "name": "Alesis XT20 ADAT Type II 20 Bit Digital Audio Recorder",
@@ -2943,8 +2723,7 @@
     "url": "https://kitplus.com/for-sale/recorders-30/alesis/xt20-adat-type-ii-20-bit-digital-audio-recorder/29402",
     "sold": false,
     "description": "Alesis XT20 ADAT Type II 20 Bit digital audio recorder (in brand new condition)",
-    "brand": "Alesis",
-    "location": "New Delhi, India"
+    "brand": "Alesis"
   },
   {
     "name": "Carl Zeiss Distagon Super Speed T1.2 9.5mm for Super 16 PL Mount",
@@ -2954,8 +2733,7 @@
     "sold": false,
     "description": "Carl Zeiss Distagon Super Speed lens T1.2 9.5mm lens for Super 16 PL mount",
     "brand": "Carl Zeiss",
-    "mount": "PL",
-    "location": "New Delhi, India"
+    "mount": "PL"
   },
   {
     "name": "Carl Zeiss Distagon Super Speed T1.2 12mm for Super 16 PL Mount",
@@ -2965,8 +2743,7 @@
     "sold": false,
     "description": "Carl Zeiss Distagon Super Speed lens T1.2 12mm lens for Super 16 PL mount",
     "brand": "Carl Zeiss",
-    "mount": "PL",
-    "location": "New Delhi, India"
+    "mount": "PL"
   },
   {
     "name": "Carl Zeiss Arriflex Super 16 PL 11-110mm Zoom Lens T2.2",
@@ -2975,8 +2752,7 @@
     "url": "https://kitplus.com/for-sale/lenses-36/carl-zeiss-arriflex-super-16-pl-11/carl-zeiss-arriflex-super-16-pl-11-110-mm-zoom-lens-t22/29379",
     "sold": false,
     "brand": "Carl Zeiss",
-    "mount": "PL",
-    "location": "New Delhi, India"
+    "mount": "PL"
   },
   {
     "name": "Carl Zeiss Distagon Super Speed T1.2 25mm for Super 16 PL Mount",
@@ -2986,8 +2762,7 @@
     "sold": false,
     "description": "Carl Zeiss Distagon Super Speed lens T1.2 25mm lens for Super 16 PL mount",
     "brand": "Carl Zeiss",
-    "mount": "PL",
-    "location": "New Delhi, India"
+    "mount": "PL"
   },
   {
     "name": "Sony AXS-R5 Portable Memory Recorder",
@@ -2996,8 +2771,7 @@
     "url": "https://kitplus.com/for-sale/adapters-75/sony/axs-r5-portable-memory-recorder/29583",
     "sold": false,
     "description": "Sony AXS-R5 Portable Memory Recorder for fast recording of RAW files on SxS cards. Attaches to Sony F5 and other similar cameras",
-    "brand": "Sony",
-    "location": "New Delhi, India"
+    "brand": "Sony"
   },
   {
     "name": "Zeiss Master Prime Lenses (Set of 6)",
@@ -3006,8 +2780,7 @@
     "url": "https://kitplus.com/for-sale/lenses-36/zeiss/master-prime-lenses/29365",
     "sold": false,
     "description": "Zeiss Master Prime lenses Set of 6 used lenses, with Zeiss servicing completed",
-    "brand": "Zeiss",
-    "location": "New Delhi, India"
+    "brand": "Zeiss"
   },
   {
     "name": "Sony XDCAM XAVC FX9",
@@ -3015,8 +2788,7 @@
     "cond": "Used",
     "url": "https://kitplus.com/for-sale/cameras-and-accessories-1/sony/xdcam-xavc-fx9/27219",
     "sold": false,
-    "brand": "Sony",
-    "location": "New Delhi, India"
+    "brand": "Sony"
   },
   {
     "name": "Canon C500MkII 4K Full Frame Sensor EF Mount Camera",
@@ -3026,8 +2798,7 @@
     "sold": false,
     "description": "Canon C500MkII 4K Full Frame sensor EF mount camera in showroom condition",
     "brand": "Canon",
-    "mount": "EF",
-    "location": "New Delhi, India"
+    "mount": "EF"
   },
   {
     "name": "Canon CJ24EX7.5 IASE 4K UHD 2/3\" Portable Lens",
@@ -3035,8 +2806,7 @@
     "cond": "Used",
     "url": "https://kitplus.com/for-sale/lenses-36/canon/cj24ex75-iase-4k-uhd-23/22488",
     "sold": false,
-    "brand": "Canon",
-    "location": "New Delhi, India"
+    "brand": "Canon"
   },
   {
     "name": "Angenieux HR Zoom 11.5-138mm T2.3",
@@ -3045,8 +2815,7 @@
     "url": "https://kitplus.com/for-sale/lenses-36/angenieux/hr-zoom-115-138-mm-t23/26720",
     "sold": false,
     "description": "Angenieux HR Zoom 11.5 - 138mm T2.3",
-    "brand": "Angénieux",
-    "location": "New Delhi, India"
+    "brand": "Angénieux"
   },
   {
     "name": "Carl Zeiss Master Prime Lenses (Full Set)",
@@ -3055,8 +2824,7 @@
     "url": "https://kitplus.com/for-sale/lenses-36/carl-zeiss/master-prime-lenses/22003",
     "sold": false,
     "description": "Carl Zeiss Master Prime lenses",
-    "brand": "Carl Zeiss",
-    "location": "New Delhi, India"
+    "brand": "Carl Zeiss"
   },
   {
     "name": "ARRI 16 SR3 Advanced HD High Speed Camera with Magazine",
@@ -3065,8 +2833,7 @@
     "url": "https://kitplus.com/for-sale/cameras-and-accessories-1/arri/16-sr3-advanced-hd-high-speed-camera-with-magazine/6150",
     "sold": false,
     "description": "Arriflex 16 SR3 Advanced HD High Speed camera with magazine",
-    "brand": "ARRI",
-    "location": "New Delhi, India"
+    "brand": "ARRI"
   },
   {
     "name": "ARRI 435 Xtreme with AVF-2 Anamorphic Viewfinder",
@@ -3075,8 +2842,7 @@
     "url": "https://kitplus.com/for-sale/cameras-and-accessories-1/arri/435-xtreme-arri-avf-2-anamorphic-viewfinder/5991",
     "sold": false,
     "description": "Arriflex 435 Xtreme Arri AVF-2 Anamorphic viewfinder, with tripod base plate and magazine",
-    "brand": "ARRI",
-    "location": "New Delhi, India"
+    "brand": "ARRI"
   },
   {
     "name": "GL Optics Compact Zoom 70-200 PL Mount",
@@ -3085,8 +2851,7 @@
     "url": "https://kitplus.com/for-sale/lenses-36/unknown-manufacturer/optics-compact-zoom-70-200-pl-mount/15025",
     "sold": false,
     "brand": "GL Optics",
-    "mount": "PL",
-    "location": "New Delhi, India"
+    "mount": "PL"
   },
   {
     "name": "Sony F5 4K Cameras (5 units)",
@@ -3095,8 +2860,7 @@
     "url": "https://kitplus.com/for-sale/cameras-and-accessories-1/unknown-manufacturer/f5-4k-cameras/20554",
     "sold": false,
     "description": "5 nos. high specification Sony F5 4K cameras for sale, with RAW recording",
-    "brand": "Sony",
-    "location": "New Delhi, India"
+    "brand": "Sony"
   },
   {
     "name": "Sony Digi Beta DVW 250 VTRs",
@@ -3105,8 +2869,7 @@
     "url": "https://kitplus.com/for-sale/recorder-63/sony/digi-beta-dvw-250-vtrs-for-sale/9559",
     "sold": false,
     "description": "3 nos. used NTSC DVW 250 for sale",
-    "brand": "Sony",
-    "location": "New Delhi, India"
+    "brand": "Sony"
   },
   {
     "name": "Sony BVM-D24E1WE and BVM-D14H5E",
@@ -3115,8 +2878,7 @@
     "url": "https://kitplus.com/for-sale/monitoring-18/sony/bvm-d24e1we-and-bvm-d14h5e/24235",
     "sold": false,
     "description": "Sony BVM HD monitors for top-end studio work",
-    "brand": "Sony",
-    "location": "New Delhi, India"
+    "brand": "Sony"
   },
   {
     "name": "RED V-Mount Battery Plate Adaptor",
@@ -3125,8 +2887,7 @@
     "url": "https://kitplus.com/for-sale/cameras-and-accessories-1/red/v-mount-battery-plate-adaptor/20119",
     "sold": false,
     "description": "V-Mount Battery Plate adaptor for use with RED Helium or Dragon",
-    "brand": "RED",
-    "location": "New Delhi, India"
+    "brand": "RED"
   },
   {
     "name": "Canon CJ45",
@@ -3134,8 +2895,7 @@
     "cond": "Used",
     "url": "https://kitplus.com/for-sale/lenses-36/canon/cj45/18345",
     "sold": false,
-    "brand": "Canon",
-    "location": "New Delhi, India"
+    "brand": "Canon"
   },
   {
     "name": "ARRI Ultra Prime Lens Set (Zeiss)",
@@ -3144,8 +2904,7 @@
     "url": "https://kitplus.com/for-sale/lenses-36/arri/ultra-prime/12182",
     "sold": false,
     "description": "Zeiss Ultra Prime Lens Set",
-    "brand": "ARRI",
-    "location": "New Delhi, India"
+    "brand": "ARRI"
   },
   {
     "name": "Fujinon HA13 X 4.5 BERM Wide Angle HD Zoom Lens",
@@ -3153,8 +2912,7 @@
     "cond": "Used",
     "url": "https://kitplus.com/for-sale/lenses-36/fujinon/ha13-x-45/16455",
     "sold": false,
-    "brand": "Fujinon",
-    "location": "New Delhi, India"
+    "brand": "Fujinon"
   },
   {
     "name": "Canon 85-300 PL Mount",
@@ -3163,8 +2921,7 @@
     "url": "https://kitplus.com/for-sale/lenses-36/canon/85-300-pl-mount/21795",
     "sold": false,
     "brand": "Canon",
-    "mount": "PL",
-    "location": "New Delhi, India"
+    "mount": "PL"
   },
   {
     "name": "Sony F5 Cameras (6 units)",
@@ -3173,7 +2930,6 @@
     "url": "https://kitplus.com/for-sale/accessories-35/sony/sony-f5-cameras/29392",
     "sold": false,
     "description": "6 units of Sony F5 cameras; each comes with a 350 viewfinder and has 4K",
-    "brand": "Sony",
-    "location": "New Delhi, India"
+    "brand": "Sony"
   }
 ]

@@ -298,7 +298,6 @@ function ItemModal({ item, onClose }: { item: EquipmentItem; onClose: () => void
   if (item.mount) specRows.push(['Mount', item.mount])
   specRows.push(['Condition', sold ? 'Sold' : item.cond])
   if (item.quantity != null) specRows.push(['Quantity available', String(item.quantity)])
-  if (item.location) specRows.push(['Location', item.location])
   if (item.specs) for (const [k, v] of Object.entries(item.specs)) specRows.push([k, v])
 
   const hasPrice = !sold && (item.salePrice != null || item.rentalPerDay != null)
