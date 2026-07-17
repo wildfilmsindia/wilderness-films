@@ -265,6 +265,12 @@ function ItemModal({ item, onClose }: { item: EquipmentItem; onClose: () => void
   useEffect(() => {
     const opener = document.activeElement as HTMLElement | null
     const card = cardRef.current
+    // Lock background scroll. The page scrollbar lives on <html>, so locking
+    // <body> alone is not enough — lock both.
+    const html = document.documentElement
+    const prevHtmlOverflow = html.style.overflow
+    const prevBodyOverflow = document.body.style.overflow
+    html.style.overflow = 'hidden'
     document.body.style.overflow = 'hidden'
     card?.querySelector<HTMLElement>('[data-eqm-close]')?.focus()
 
@@ -287,7 +293,8 @@ function ItemModal({ item, onClose }: { item: EquipmentItem; onClose: () => void
     document.addEventListener('keydown', onKey)
     return () => {
       document.removeEventListener('keydown', onKey)
-      document.body.style.overflow = ''
+      html.style.overflow = prevHtmlOverflow
+      document.body.style.overflow = prevBodyOverflow
       opener?.focus()
     }
   }, [onClose])
@@ -298,7 +305,6 @@ function ItemModal({ item, onClose }: { item: EquipmentItem; onClose: () => void
   if (item.mount) specRows.push(['Mount', item.mount])
   specRows.push(['Condition', sold ? 'Sold' : item.cond])
   if (item.quantity != null) specRows.push(['Quantity available', String(item.quantity)])
-  if (item.location) specRows.push(['Location', item.location])
   if (item.specs) for (const [k, v] of Object.entries(item.specs)) specRows.push([k, v])
 
   const hasPrice = !sold && (item.salePrice != null || item.rentalPerDay != null)
@@ -353,7 +359,7 @@ function ItemModal({ item, onClose }: { item: EquipmentItem; onClose: () => void
           padding: '1.3rem', background: '#0d0d0d',
           display: 'flex', flexDirection: 'column', gap: '0.6rem',
         }}>
-          <div style={{
+          <div className="eqm-main" style={{
             aspectRatio: '3 / 2', background: '#0f0f0f',
             border: '1px solid #222', borderRadius: '6px', overflow: 'hidden',
             display: 'flex', alignItems: 'center', justifyContent: 'center',
@@ -515,24 +521,6 @@ function ItemModal({ item, onClose }: { item: EquipmentItem; onClose: () => void
                 Enquire
               </button>
             )}
-            {item.url?.startsWith('http') && (
-              <a
-                className="eqm-kitplus"
-                href={item.url}
-                target="_blank"
-                rel="noopener noreferrer"
-                style={{
-                  display: 'inline-block', fontSize: '0.62rem', fontWeight: 600,
-                  letterSpacing: '0.14em', textTransform: 'uppercase',
-                  color: '#888', textDecoration: 'none',
-                  border: '1px solid #2c2c2c', borderRadius: '5px',
-                  padding: '0.5rem 1.3rem', whiteSpace: 'nowrap',
-                  transition: 'color 0.18s, border-color 0.18s',
-                }}
-              >
-                View on KitPlus ↗
-              </a>
-            )}
           </div>
         </div>
       </div>
@@ -662,17 +650,18 @@ export default function EquipmentPage() {
         }
         .eqm-close:hover { color: #c8a84b !important; border-color: #8a6f2e !important; }
         .eqm-thumb:hover { opacity: 1 !important; }
-        .eqm-kitplus:hover { color: #c8a84b !important; border-color: #8a6f2e !important; }
         @media (min-width: 861px) {
           .eqm-card { display: grid; grid-template-columns: 400px 1fr; align-items: start; }
           .eqm-gallery { border-right: 1px solid #222; }
         }
         @media (max-width: 560px) {
-          .eqm-backdrop { padding: 0 !important; }
-          .eqm-card {
-            border-radius: 0 !important; border-left: none !important; border-right: none !important;
-            max-height: 100dvh !important; height: 100%;
-          }
+          /* Centred card with a margin — not a full-screen sheet */
+          .eqm-backdrop { padding: 0.9rem !important; }
+          .eqm-card { max-height: 88dvh !important; }
+          /* Keep the gallery compact on phones so the title & details stay in view */
+          .eqm-gallery { padding: 0.9rem !important; gap: 0.5rem !important; }
+          .eqm-main { aspect-ratio: auto !important; height: 30vh !important; }
+          .eqm-thumb { width: 52px !important; height: 36px !important; }
         }
         /* Skip layout/paint for rows scrolled out of view — keeps long
            lists (e.g. "All" = 244 rows) smooth to scroll. */

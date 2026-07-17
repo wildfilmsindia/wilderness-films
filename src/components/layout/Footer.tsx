@@ -185,27 +185,6 @@ export default function Footer() {
         {/* Gold divider */}
         <div className="h-px mb-8" style={{ background: 'linear-gradient(90deg, rgba(201,168,76,0.2), transparent)' }} />
 
-        {/* Quick links — internal navigation for users & crawlers */}
-        <nav aria-label="Footer" className="flex flex-wrap gap-x-6 gap-y-2 mb-8">
-          {[
-            { label: 'About', href: '/about' },
-            { label: 'Offerings', href: '/offerings' },
-            { label: 'Equipment', href: '/equipment' },
-            { label: 'FAQ', href: '/faq' },
-          ].map(({ label, href }) => (
-            <a
-              key={label}
-              href={href}
-              className="font-mono transition-colors duration-300"
-              style={{ fontSize: '0.62rem', color: 'rgba(240,237,232,0.42)', letterSpacing: '0.14em', textTransform: 'uppercase' }}
-              onMouseEnter={(e) => { (e.target as HTMLElement).style.color = '#C9A84C' }}
-              onMouseLeave={(e) => { (e.target as HTMLElement).style.color = 'rgba(240,237,232,0.42)' }}
-            >
-              {label}
-            </a>
-          ))}
-        </nav>
-
         {/* Bottom row */}
         <div className="flex flex-col md:flex-row justify-between items-start md:items-center gap-4">
 
