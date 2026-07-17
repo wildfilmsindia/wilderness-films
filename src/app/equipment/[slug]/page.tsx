@@ -175,12 +175,6 @@ export default async function EquipmentItemPage(
                     Enquire
                   </a>
                 )}
-                {item.url?.startsWith('http') && (
-                  <a href={item.url} target="_blank" rel="noopener noreferrer"
-                     style={{ fontSize: '0.62rem', fontWeight: 600, letterSpacing: '0.14em', textTransform: 'uppercase', color: '#888', border: '1px solid #2c2c2c', borderRadius: 5, padding: '0.6rem 1.5rem', textDecoration: 'none' }}>
-                    View on KitPlus ↗
-                  </a>
-                )}
               </div>
 
               <div style={{ marginTop: '2rem' }}>

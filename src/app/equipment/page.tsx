@@ -515,24 +515,6 @@ function ItemModal({ item, onClose }: { item: EquipmentItem; onClose: () => void
                 Enquire
               </button>
             )}
-            {item.url?.startsWith('http') && (
-              <a
-                className="eqm-kitplus"
-                href={item.url}
-                target="_blank"
-                rel="noopener noreferrer"
-                style={{
-                  display: 'inline-block', fontSize: '0.62rem', fontWeight: 600,
-                  letterSpacing: '0.14em', textTransform: 'uppercase',
-                  color: '#888', textDecoration: 'none',
-                  border: '1px solid #2c2c2c', borderRadius: '5px',
-                  padding: '0.5rem 1.3rem', whiteSpace: 'nowrap',
-                  transition: 'color 0.18s, border-color 0.18s',
-                }}
-              >
-                View on KitPlus ↗
-              </a>
-            )}
           </div>
         </div>
       </div>
@@ -662,7 +644,6 @@ export default function EquipmentPage() {
         }
         .eqm-close:hover { color: #c8a84b !important; border-color: #8a6f2e !important; }
         .eqm-thumb:hover { opacity: 1 !important; }
-        .eqm-kitplus:hover { color: #c8a84b !important; border-color: #8a6f2e !important; }
         @media (min-width: 861px) {
           .eqm-card { display: grid; grid-template-columns: 400px 1fr; align-items: start; }
           .eqm-gallery { border-right: 1px solid #222; }
