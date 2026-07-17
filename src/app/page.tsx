@@ -30,23 +30,22 @@ export default function HomePage() {
 
   return (
     <>
+      {/* Content is always rendered so it is server-side rendered and fully
+          crawlable by search engines and AI answer engines. The loading
+          screen is a fixed overlay (z-index 10000) on top, which fades out. */}
+      <Navigation />
+      <main>
+        <HeroSection />
+        <WildlifeSection />
+        <FilmsSection />
+        <ClientsSection />
+        <ContactSection />
+      </main>
+      <Footer />
+
       <AnimatePresence mode="wait">
         {isLoading && <LoadingScreen key="loading" />}
       </AnimatePresence>
-
-      {!isLoading && (
-        <>
-          <Navigation />
-          <main>
-            <HeroSection />
-            <WildlifeSection />
-            <FilmsSection />
-            <ClientsSection />
-            <ContactSection />
-          </main>
-          <Footer />
-        </>
-      )}
     </>
   )
 }

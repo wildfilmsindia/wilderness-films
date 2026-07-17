@@ -164,12 +164,13 @@ export default function HeroSection() {
           Wilderness Films India — Est. 1987
         </motion.p>
 
-        {/* Title block — both lines grouped as one visual unit */}
-        <div style={{ marginBottom: '35px' }}>
+        {/* Title block — one semantic <h1> ("India: A Visual Mapping"), three
+            animated lines inside it. Single h1 for SEO; animation unchanged. */}
+        <h1 style={{ margin: 0, marginBottom: '35px', fontWeight: 300 }}>
 
           {/* Line 1: "India:" */}
-          <div style={{ overflow: 'hidden', paddingBottom: '0.08em' }}>
-            <motion.h1
+          <span style={{ display: 'block', overflow: 'hidden', paddingBottom: '0.08em' }}>
+            <motion.span
               className="font-display text-glow-gold"
               initial={{ y: '115%' }}
               animate={{ y: 0 }}
@@ -181,16 +182,15 @@ export default function HeroSection() {
                 lineHeight: 1,
                 color: '#F0EDE8',
                 display: 'block',
-                margin: 0,
               }}
             >
               India:
-            </motion.h1>
-          </div>
+            </motion.span>
+          </span>
 
           {/* Line 2: "A Visual" */}
-          <div style={{ overflow: 'hidden', paddingBottom: '0.08em' }}>
-            <motion.h1
+          <span style={{ display: 'block', overflow: 'hidden', paddingBottom: '0.08em' }}>
+            <motion.span
               className="font-display"
               initial={{ y: '115%' }}
               animate={{ y: 0 }}
@@ -203,16 +203,15 @@ export default function HeroSection() {
                 color: 'var(--color-gold)',
                 fontStyle: 'italic',
                 display: 'block',
-                margin: 0,
               }}
             >
               A Visual
-            </motion.h1>
-          </div>
+            </motion.span>
+          </span>
 
           {/* Line 3: "Mapping" — paddingBottom catches italic 'g' descender */}
-          <div style={{ overflow: 'hidden', paddingBottom: '0.32em' }}>
-            <motion.h1
+          <span style={{ display: 'block', overflow: 'hidden', paddingBottom: '0.32em' }}>
+            <motion.span
               className="font-display"
               initial={{ y: '115%' }}
               animate={{ y: 0 }}
@@ -225,14 +224,13 @@ export default function HeroSection() {
                 color: 'var(--color-gold)',
                 fontStyle: 'italic',
                 display: 'block',
-                margin: 0,
               }}
             >
               Mapping
-            </motion.h1>
-          </div>
+            </motion.span>
+          </span>
 
-        </div>
+        </h1>
 
         {/* Divider + tagline */}
         <motion.div
