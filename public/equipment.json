@@ -2931,5 +2931,187 @@
     "sold": false,
     "description": "6 units of Sony F5 cameras; each comes with a 350 viewfinder and has 4K",
     "brand": "Sony"
+  },
+  {
+    "name": "Fujinon ESM-D52B High-Speed Digital Zoom Servo Module",
+    "cat": "Lenses",
+    "cond": "Used",
+    "brand": "Fujinon",
+    "images": [
+      "/equipment/img/wfi-01-1.jpg",
+      "/equipment/img/wfi-01-2.jpg",
+      "/equipment/img/wfi-01-3.jpg"
+    ],
+    "description": "High-speed digital zoom servo module for Fujinon HDTV broadcast lenses.",
+    "sold": false
+  },
+  {
+    "name": "Sony PXW-FS7 Mark 1",
+    "cat": "Cameras",
+    "cond": "Used",
+    "brand": "Sony",
+    "model": "PXW-FS7",
+    "images": [
+      "/equipment/img/wfi-02-1.jpg"
+    ],
+    "description": "Sony PXW-FS7 Mark 1 Super 35mm 4K XDCAM camcorder body.",
+    "sold": false
+  },
+  {
+    "name": "Angenieux 28-70mm T2.8 Lens",
+    "cat": "Lenses",
+    "cond": "Used",
+    "brand": "Angenieux",
+    "images": [
+      "/equipment/img/wfi-03-1.jpg",
+      "/equipment/img/wfi-03-2.jpg",
+      "/equipment/img/wfi-03-3.jpg",
+      "/equipment/img/wfi-03-4.jpg",
+      "/equipment/img/wfi-03-5.jpg"
+    ],
+    "description": "Angenieux 28-70mm T2.8 cinema zoom lens.",
+    "sold": false
+  },
+  {
+    "name": "Century Precision Optics Series 2000 Canon 200mm Lens",
+    "cat": "Lenses",
+    "cond": "Used",
+    "brand": "Century Precision Optics",
+    "images": [
+      "/equipment/img/wfi-04-1.jpg",
+      "/equipment/img/wfi-04-2.jpg",
+      "/equipment/img/wfi-04-3.jpg",
+      "/equipment/img/wfi-04-4.jpg"
+    ],
+    "description": "Century Precision Optics Series 2000 200mm lens (Canon mount).",
+    "sold": false
+  },
+  {
+    "name": "Angenieux Optimo 28-76mm T2.6 Lens",
+    "cat": "Lenses",
+    "cond": "Used",
+    "brand": "Angenieux",
+    "images": [
+      "/equipment/img/wfi-05-1.jpg"
+    ],
+    "description": "Angenieux Optimo 28-76mm T2.6 cinema zoom lens.",
+    "sold": false
+  },
+  {
+    "name": "Sony HDVF-C30WR HD Viewfinder",
+    "cat": "Viewfinders",
+    "cond": "Used",
+    "brand": "Sony",
+    "model": "HDVF-C30WR",
+    "images": [
+      "/equipment/img/wfi-06-1.jpg",
+      "/equipment/img/wfi-06-2.jpg",
+      "/equipment/img/wfi-06-3.jpg",
+      "/equipment/img/wfi-06-4.jpg"
+    ],
+    "description": "Sony HDVF-C30WR 3.5-inch LCD HD colour viewfinder.",
+    "sold": false
+  },
+  {
+    "name": "Sony HDVF-20A HD Viewfinder",
+    "cat": "Viewfinders",
+    "cond": "Used",
+    "brand": "Sony",
+    "model": "HDVF-20A",
+    "images": [
+      "/equipment/img/wfi-07-1.jpg",
+      "/equipment/img/wfi-07-2.jpg",
+      "/equipment/img/wfi-07-3.jpg",
+      "/equipment/img/wfi-07-4.jpg"
+    ],
+    "description": "Sony HDVF-20A 2-inch HD CRT viewfinder for broadcast cameras.",
+    "sold": false
+  },
+  {
+    "name": "Canon J33 Lens",
+    "cat": "Lenses",
+    "cond": "Used",
+    "brand": "Canon",
+    "model": "J33",
+    "images": [
+      "/equipment/img/wfi-08-1.jpg",
+      "/equipment/img/wfi-08-2.jpg",
+      "/equipment/img/wfi-08-3.jpg"
+    ],
+    "description": "Canon J33 broadcast zoom lens.",
+    "sold": false
+  },
+  {
+    "name": "Canon HJ21 KLL-SC Lens",
+    "cat": "Lenses",
+    "cond": "Used",
+    "brand": "Canon",
+    "model": "HJ21 KLL-SC",
+    "images": [
+      "/equipment/img/wfi-09-1.jpg",
+      "/equipment/img/wfi-09-2.jpg",
+      "/equipment/img/wfi-09-3.jpg",
+      "/equipment/img/wfi-09-4.jpg"
+    ],
+    "description": "Canon HJ21 KLL-SC HD broadcast zoom lens with servo.",
+    "sold": false
+  },
+  {
+    "name": "Zeiss DigiPrime 135mm Lens",
+    "cat": "Lenses",
+    "cond": "Used",
+    "brand": "Zeiss",
+    "model": "DigiPrime 135mm",
+    "mount": "B4",
+    "images": [
+      "/equipment/img/wfi-10-1.jpg",
+      "/equipment/img/wfi-10-2.jpg",
+      "/equipment/img/wfi-10-3.jpg"
+    ],
+    "description": "Zeiss DigiPrime 135mm T1.6 cine prime lens, B4 mount.",
+    "sold": false
+  },
+  {
+    "name": "Zeiss DigiPrime 10mm Lens",
+    "cat": "Lenses",
+    "cond": "Used",
+    "brand": "Zeiss",
+    "model": "DigiPrime 10mm",
+    "mount": "B4",
+    "images": [
+      "/equipment/img/wfi-11-1.jpg",
+      "/equipment/img/wfi-11-2.jpg",
+      "/equipment/img/wfi-11-3.jpg",
+      "/equipment/img/wfi-11-4.jpg"
+    ],
+    "description": "Zeiss DigiPrime 10mm T1.6 cine prime lens, B4 mount.",
+    "sold": false
+  },
+  {
+    "name": "Canon HJ14 x 4.3B IASE Lens",
+    "cat": "Lenses",
+    "cond": "Used",
+    "brand": "Canon",
+    "model": "HJ14 x 4.3B IASE",
+    "images": [
+      "/equipment/img/wfi-12-1.jpg",
+      "/equipment/img/wfi-12-2.jpg",
+      "/equipment/img/wfi-12-3.jpg"
+    ],
+    "description": "Canon HJ14 x 4.3B IASE HD wide-angle broadcast zoom lens.",
+    "sold": false
+  },
+  {
+    "name": "Sony PXW-Z750 XDCAM Camera",
+    "cat": "Cameras",
+    "cond": "Used",
+    "brand": "Sony",
+    "model": "PXW-Z750",
+    "images": [
+      "/equipment/img/wfi-13-1.jpg",
+      "/equipment/img/wfi-13-2.jpg"
+    ],
+    "description": "Sony PXW-Z750 4K XDCAM broadcast shoulder camcorder.",
+    "sold": false
   }
 ]
