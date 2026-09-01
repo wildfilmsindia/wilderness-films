@@ -104,7 +104,7 @@ export default function ShopSelector() {
             >
               <HeroSlideshow
                 frames={store01.heroSlideshow ?? [store01.hero]}
-                className="opacity-70 mix-blend-luminosity"
+                className="opacity-85"
               />
             </motion.div>
             {/* Gradient wash — heavier at the bottom where the text sits */}
