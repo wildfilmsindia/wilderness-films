@@ -16,11 +16,15 @@ export async function generateStaticParams() {
   return items.map(i => ({ slug: slugify(i.name) }))
 }
 
+const CONDITION_WORD = (c: string) => (c === 'New' ? 'brand new' : 'used')
+
+// Search-friendly description: leads with what it is, then condition, then the
+// commercial intent people actually type ("for sale", "hire", "India").
 function summary(item: EquipmentItem): string {
-  if (item.description) return item.description
-  const bits = [item.brand, item.cat, item.cond === 'New' ? 'brand new' : 'used']
-    .filter(Boolean).join(', ')
-  return `${item.name} — ${bits}. Available for sale & rental from Wilderness Films India.`
+  const lead = item.description?.trim()
+  const brand = item.brand ? `${item.brand} ` : ''
+  const tail = `${brand}${item.name} for sale & rental in India — ${CONDITION_WORD(item.cond)} ${item.cat.toLowerCase()} from Wilderness Films India, New Delhi. Established 1987. Enquire for price and availability.`
+  return lead ? `${lead} — ${tail}` : tail
 }
 
 export async function generateMetadata(
@@ -33,23 +37,44 @@ export async function generateMetadata(
   const desc = summary(item).slice(0, 300)
   const url = `${SITE}/equipment/${slug}`
   const img = item.images?.[0]
+  // Title carries the buying intent, which is what people search for.
+  const title = `${item.name} — For Sale & Rental`
+
+  const keywords = [
+    item.name,
+    item.brand && `${item.brand} ${item.cat}`,
+    item.brand && `${item.brand} for sale india`,
+    `${item.cat.toLowerCase()} for sale india`,
+    `used ${item.cat.toLowerCase()} india`,
+    item.mount && `${item.mount} mount ${item.cat.toLowerCase()}`,
+    'cine equipment india',
+    'broadcast equipment india',
+    'film equipment rental india',
+  ].filter(Boolean) as string[]
+
   return {
-    title: item.name,
+    title,
     description: desc,
+    keywords,
     alternates: { canonical: url },
     openGraph: {
       title: `${item.name} — Wilderness Films India`,
       description: desc,
       url,
       type: 'website',
-      images: img ? [{ url: `${SITE}${img}`, alt: item.name }] : undefined,
+      siteName: 'Wilderness Films India',
+      locale: 'en_IN',
+      images: img
+        ? [{ url: `${SITE}${img}`, width: 1200, height: 800, alt: item.name }]
+        : [{ url: `${SITE}/og-image.jpg`, width: 1200, height: 630, alt: 'Wilderness Films India' }],
     },
     twitter: {
-      card: img ? 'summary_large_image' : 'summary',
+      card: 'summary_large_image',
       title: item.name,
       description: desc,
-      images: img ? [`${SITE}${img}`] : undefined,
+      images: [img ? `${SITE}${img}` : `${SITE}/og-image.jpg`],
     },
+    robots: { index: true, follow: true, 'max-image-preview': 'large', 'max-snippet': -1 },
   }
 }
 
@@ -69,7 +94,7 @@ export default async function EquipmentItemPage(
   if (item.brand) specRows.push(['Brand', item.brand])
   if (item.model) specRows.push(['Model', item.model])
   if (item.mount) specRows.push(['Mount', item.mount])
-  specRows.push(['Condition', sold ? 'Sold' : item.cond])
+  if (sold) specRows.push(['Status', 'Sold'])
   specRows.push(['Category', item.cat])
   if (item.quantity != null) specRows.push(['Quantity available', String(item.quantity)])
   if (item.specs) for (const [k, v] of Object.entries(item.specs)) specRows.push([k, v])
@@ -85,12 +110,23 @@ export default async function EquipmentItemPage(
   const jsonLd: Record<string, unknown> = {
     '@context': 'https://schema.org',
     '@type': 'Product',
+    '@id': `${SITE}/equipment/${slug}/#product`,
     name: item.name,
     description: summary(item),
     category: item.cat,
     itemCondition,
+    sku: slug,
+    url: `${SITE}/equipment/${slug}`,
     ...(allImgs.length ? { image: allImgs } : {}),
     ...(item.brand ? { brand: { '@type': 'Brand', name: item.brand } } : {}),
+    ...(item.model ? { model: item.model } : {}),
+    ...(specRows.length
+      ? {
+          additionalProperty: specRows.map(([name, value]) => ({
+            '@type': 'PropertyValue', name, value,
+          })),
+        }
+      : {}),
   }
   if (item.salePrice != null) {
     jsonLd.offers = {
@@ -103,6 +139,16 @@ export default async function EquipmentItemPage(
       seller: { '@type': 'Organization', name: 'Wilderness Films India Ltd.' },
     }
   }
+
+  // Internal links: same category (prefer same brand) — gives crawlers paths
+  // between deep pages and keeps visitors moving through the catalogue.
+  const all = await getEquipment()
+  const related = all
+    .filter(i => !i.sold && i.cat === item.cat && slugify(i.name) !== slug)
+    .sort((a, b) =>
+      (b.brand === item.brand ? 1 : 0) - (a.brand === item.brand ? 1 : 0) ||
+      ((b.images?.length ? 1 : 0) - (a.images?.length ? 1 : 0)))
+    .slice(0, 6)
 
   const breadcrumb = breadcrumbNode([
     { name: 'Home', url: SITE },
@@ -147,9 +193,11 @@ export default async function EquipmentItemPage(
               </h1>
               <div style={{ display: 'flex', gap: '0.5rem', flexWrap: 'wrap', marginBottom: '1.2rem' }}>
                 <span style={{ ...LABEL, color: '#888', padding: '0.22rem 0.6rem', border: '1px solid #2c2c2c', borderRadius: 4 }}>{item.cat}</span>
-                <span style={{ fontSize: '0.58rem', fontWeight: 600, letterSpacing: '0.1em', textTransform: 'uppercase', padding: '0.22rem 0.65rem', borderRadius: 20, ...(sold ? { background: 'rgba(255,255,255,0.06)', color: '#555', border: '1px solid #333' } : item.cond === 'New' ? { background: 'rgba(78,158,58,0.13)', color: '#4e9e3a' } : { background: 'rgba(200,168,75,0.09)', color: '#c8a84b' }) }}>
-                  {sold ? 'Sold' : item.cond}
-                </span>
+                {sold && (
+                  <span style={{ fontSize: '0.58rem', fontWeight: 600, letterSpacing: '0.1em', textTransform: 'uppercase', padding: '0.22rem 0.65rem', borderRadius: 20, background: 'rgba(255,255,255,0.06)', color: '#555', border: '1px solid #333' }}>
+                    Sold
+                  </span>
+                )}
               </div>
 
               {item.description && (
@@ -183,6 +231,28 @@ export default async function EquipmentItemPage(
               </div>
             </div>
           </div>
+
+          {/* Related — internal links between deep pages */}
+          {related.length > 0 && (
+            <section style={{ marginTop: '3.5rem', borderTop: '1px solid #1e1e1e', paddingTop: '2rem' }}>
+              <h2 style={{ ...LABEL, color: '#c8a84b', marginBottom: '1.1rem' }}>
+                More {item.cat.toLowerCase()} for sale &amp; rental
+              </h2>
+              <ul style={{ display: 'grid', gap: '0.65rem', gridTemplateColumns: 'repeat(auto-fill, minmax(260px, 1fr))', listStyle: 'none', padding: 0, margin: 0 }}>
+                {related.map(r => (
+                  <li key={slugify(r.name)}>
+                    <Link
+                      href={`/equipment/${slugify(r.name)}`}
+                      style={{ display: 'block', fontSize: '0.78rem', color: '#9a9a9a', textDecoration: 'none', lineHeight: 1.5 }}
+                    >
+                      {r.name}
+                      {r.brand ? <span style={{ color: '#555' }}> · {r.brand}</span> : null}
+                    </Link>
+                  </li>
+                ))}
+              </ul>
+            </section>
+          )}
         </div>
       </main>
 
