@@ -4,14 +4,14 @@ import ShopSelector from '@/components/shop/ShopSelector'
 import { SITE } from '@/lib/seo'
 
 export const metadata: Metadata = {
-  title: 'Shop — Olive Wood & Himalayan Rapture',
+  title: 'Shop — Olive Wood, Books & Merch',
   description:
-    'Two small, curated stores from Wilderness Films India — handcrafted olive wood pieces and Himalayan Rapture field apparel.',
+    'Two small, curated stores from Wilderness Films India — handcrafted olive wood pieces, and mountain books and merchandise.',
   alternates: { canonical: `${SITE}/shop` },
   openGraph: {
     title: 'Shop — Wilderness Films India',
     description:
-      'Two curated stores: handcrafted olive wood pieces and Himalayan Rapture field apparel.',
+      'Two curated stores: handcrafted olive wood pieces, and mountain books and merchandise.',
     url: `${SITE}/shop`,
   },
 }

@@ -14,8 +14,7 @@ export interface ShopProduct {
 export interface Store {
   slug: 'olive-wood' | 'himalayan-rapture'
   name: string
-  tagline: string
-  intro: string
+  intro?: string           // optional blurb under the store header
   hero: string             // storefront background image (first frame)
   heroSlideshow?: string[] // optional extra frames — the storefront panel
                            // cross-fades between these and the hero every few
@@ -69,14 +68,25 @@ const OW_NAMES: { name: string; description: string; tag?: string }[] = [
   { name: 'Kitchen Utensil Caddy',       description: 'A tall square caddy for kitchen utensils, carved from olive wood with a slotted lid that keeps spoons and spatulas upright and separated. Handsome enough for the counter.' },
   // ow-18: beehive-shaped honey pot with dipper stick
   { name: 'Beehive Honey Pot',           description: 'A beehive-shaped honey pot hand-turned from olive wood, with a matching honey dipper. Ribbed like a traditional skep, warm-toned, and made to sit out on the table.' },
+  // ow-19: shallow bowl, natural bark left on the rim
+  { name: 'Bark Edge Bowl',              description: 'A shallow bowl carved from a cross-section of olive wood with the natural bark left intact around the rim. Concentric rings of grain ripple across the inside — the tree\'s own record of its years.' },
+  // ow-20: large irregular burl slab with natural voids
+  { name: 'Burl Live Edge Centrepiece Bowl', description: 'A large centrepiece cut from an olive-wood burl, its outline left exactly as the burl grew — lobed, uneven, pierced by natural openings. Pale, densely figured wood; a sculptural piece as much as a bowl.' },
+  // ow-21: elongated organic slab board with dark bark edge
+  { name: 'Live Edge Serving Board',     description: 'An elongated serving board that keeps the live edge of the plank, dark bark tracing one side. Dramatic streaked figure runs the length of the board — for bread, cheese or charcuterie.' },
+  // ow-22: root-form piece with radiating arms and hollows
+  { name: 'Root Centrepiece',            description: 'A sculptural centrepiece carved from an olive-tree root, arms radiating out from the core with shallow hollows between them. Entirely one of a kind — the form is whatever the root gave.' },
+  // ow-23: tall tapered turned cylinder
+  { name: 'Utensil Holder',              description: 'A tall, gently tapered holder turned from a single block of olive wood, with a fine incised band below the rim. Warm reddish figure and small burl knots throughout; keeps utensils upright on the counter.' },
+  // ow-24: deep bowl, wavy bark rim
+  { name: 'Rustic Live Edge Bowl',       description: 'A deep, rustic bowl with a wavy live edge and bark still clinging to the rim. The grain sweeps around the bowl in long dark bands — generous enough for fruit or salad.' },
 ]
 
 export const OLIVE_WOOD: Store = {
   slug: 'olive-wood',
   name: 'Olive Wood',
-  tagline: 'Handcrafted from a single tree',
   intro:
-    'The Olive Wood Store — a collection of handcrafted, authentic olive-wood carved bowls, chess boards, spoons, coasters, ladles, trays and other homeware. Each piece is hand-carved from durable, sustainably sourced olive wood taken from 300–400-year-old trees that are no longer productive, sourced from groves on the southern Mediterranean coast. No two items are the same: the grain and finish of each depends on the tree, its aspect to the sea, moisture, light and other factors. Every piece is polished with olive oil and can be re-polished every few years. Being very strong wood, it can essentially last forever.',
+    'The Olive Wood Store — a collection of handcrafted, authentic olive-wood carved bowls, chess boards, spoons, coasters, ladles, trays and other homeware. Each piece is hand-carved from durable, sustainably sourced olive wood taken from 300–400-year-old trees that are no longer productive, sourced from groves on the southern Mediterranean coast. No two items are the same: the grain and finish of each depends on the tree, its aspect to the sea, moisture, light and other factors. Every piece is polished with olive oil and can be re-polished every few years. Being very strong wood, it can essentially last forever. All proceeds go towards our forest fire prevention fund, alongside a slew of other sylvan and reforestation initiatives in the Himalaya.',
   hero: '/shop/olive-wood/ow-15.jpg',
   // Storefront cycles through a curated set of the most photogenic pieces so
   // the panel doesn't feel static. Order = rotation order.
@@ -104,16 +114,14 @@ export const OLIVE_WOOD: Store = {
   }),
 }
 
-// ── Store 02 — Himalayan Rapture ───────────────────────
-// The store now leads with the Himalayan Rapture book. Apparel remains as
-// a companion item; more titles can be added to `products` over time.
+// ── Store 02 — Books / Merch ───────────────────────────
+// Leads with the Himalayan Rapture book. Apparel remains as a companion
+// item; more titles can be added to `products` over time.
+// (Slug stays `himalayan-rapture` — it keys the asset paths and the panel.)
 export const HIMALAYAN_RAPTURE: Store = {
   slug: 'himalayan-rapture',
-  name: 'Himalayan Rapture',
-  tagline: 'Books & apparel from the mountains',
-  intro:
-    'Himalayan Rapture leads with the book of the same name — a collection of the mountain writings of the late Hari Dang (1935–2016). The store also carries a small run of apparel inspired by expeditions across the Himalaya. Made to be read closely, and worn hard.',
-  hero: '/shop/himalayan-rapture/book-1.jpg',
+  name: 'Books / Merch',
+  hero: '/shop/himalayan-rapture/tshirt-back.jpg',
   accent: '#6B8FB4',
   fit: 'contain',
   products: [
@@ -122,10 +130,10 @@ export const HIMALAYAN_RAPTURE: Store = {
       name: 'Himalayan Rapture — The Mountain Writings of Hari Dang',
       description:
         'A collection of the mountain writings of the late Hari Dang (1935–2016). Based on a book-length manuscript written in the 1960s as “The Himalayan Vision” but never published, this volume gathers his first college-era visits to Bandarpunch (1953, 1955), an adventure around Chiring We in Kumaon (1956), two expeditions to the Nanda Devi sanctuary (1960, 1961), his epic account of being benighted at the highest camp on the second Indian expedition to Everest (1962), and the last of three expeditions to then-unclimbed Jaonli in Garhwal with schoolboys (1966). Added to this are his thoughts on introducing young people to adventure, on Himalayan wildlife, and — an odd one out — a poem from a trip to Lahaul, the only record of the 1964 climb of M5 in the Mulkila range. From the vantage of later years, often spent in Landour looking out at the Garhwal Himalaya, he writes about what mountains meant to him, and why they should now be “unclimbed.”',
+      price: '₹750',
       images: [
         '/shop/himalayan-rapture/book-1.jpg',
         '/shop/himalayan-rapture/book-2.jpg',
-        '/shop/himalayan-rapture/book-3.jpg',
       ],
       tag: 'New',
     },
@@ -134,6 +142,7 @@ export const HIMALAYAN_RAPTURE: Store = {
       name: 'Flowers of the Western Himalayas — Rupin Dang',
       description:
         'A field guide and photographic study of the wild flowers of the western Himalaya by Rupin Dang. Written for hikers, naturalists and armchair travellers, the book pairs Rupin\'s photographs from decades of expedition work with clear notes on where and when each species is found — from the meadows of Kashmir and Himachal through Uttarakhand and into the high alpine.',
+      price: '₹1,200',
       images: [
         '/shop/himalayan-rapture/flowers-1.jpg',
       ],
@@ -142,10 +151,12 @@ export const HIMALAYAN_RAPTURE: Store = {
       id: 'hr-tee-01',
       name: 'Himalayan Rapture Field Tee',
       description:
-        'A small run of tees inspired by expeditions across the Himalaya — printed front and back with our mountain motif. Made to be worn hard.',
+        'A small run of tees inspired by expeditions across the Himalaya — printed front and back with our mountain motif.',
+      price: '₹400',
+      // Back first — the printed mountain graphic is the side worth leading with.
       images: [
-        '/shop/himalayan-rapture/tshirt-front.jpg',
         '/shop/himalayan-rapture/tshirt-back.jpg',
+        '/shop/himalayan-rapture/tshirt-front.jpg',
       ],
     },
   ],

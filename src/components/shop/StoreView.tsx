@@ -2,7 +2,7 @@
 
 import { useState } from 'react'
 import { motion } from 'framer-motion'
-import { ArrowLeft, X } from 'lucide-react'
+import { ArrowLeft, ChevronLeft, ChevronRight, X } from 'lucide-react'
 import type { Store, ShopProduct } from './data'
 
 // Reusable "inside the store" view. Header with back-to-selector, a product
@@ -37,16 +37,14 @@ export default function StoreView({
           </button>
           <div className="flex flex-col gap-3 sm:flex-row sm:items-end sm:justify-between sm:gap-8">
             <div>
-              <p className="text-[0.55rem] font-semibold uppercase tracking-[0.28em]" style={{ color: store.accent }}>
-                Store 0{store.slug === 'olive-wood' ? '1' : '2'}
-              </p>
-              <h1 className="mt-1 font-light leading-none text-white"
+              <h1 className="font-light leading-none text-white"
                 style={{ fontFamily: "'Cormorant Garamond', serif", fontSize: 'clamp(2.4rem, 6vw, 3.4rem)' }}>
                 {store.name}
               </h1>
-              <p className="mt-2 text-sm text-white/45 sm:text-base">{store.tagline}</p>
             </div>
-            <p className="max-w-md text-[0.82rem] leading-relaxed text-white/50">{store.intro}</p>
+            {store.intro && (
+              <p className="max-w-md text-[0.82rem] leading-relaxed text-white/50">{store.intro}</p>
+            )}
           </div>
         </motion.header>
 
@@ -137,11 +135,12 @@ function ProductLightbox({
       className="fixed inset-0 z-[70] flex items-center justify-center p-4"
       initial={{ opacity: 0 }} animate={{ opacity: 1 }} exit={{ opacity: 0 }}
       transition={{ duration: 0.2 }}
-      onClick={onClose}
     >
-      <div className="absolute inset-0 bg-black/80 backdrop-blur-sm" />
+      {/* Close lives on the backdrop itself rather than the full-screen wrapper.
+          With it on the wrapper, any click that missed a control by a pixel
+          bubbled up and shut the modal — easy to do with the small arrows. */}
+      <div className="absolute inset-0 bg-black/80 backdrop-blur-sm" onClick={onClose} />
       <motion.div
-        onClick={e => e.stopPropagation()}
         initial={{ scale: 0.96, opacity: 0 }} animate={{ scale: 1, opacity: 1 }}
         transition={{ duration: 0.25, ease: [0.16, 1, 0.3, 1] }}
         className="relative grid w-full max-w-4xl overflow-hidden rounded-2xl border border-white/10 bg-[#0d0d0d] sm:grid-cols-2"
@@ -157,14 +156,40 @@ function ProductLightbox({
           {/* eslint-disable-next-line @next/next/no-img-element */}
           <img src={product.images[idx]} alt={product.name} className={`h-full w-full ${fit === 'contain' ? 'object-contain p-4' : 'object-cover'}`} />
           {product.images.length > 1 && (
-            <div className="absolute bottom-3 left-1/2 flex -translate-x-1/2 gap-2">
-              {product.images.map((_, i) => (
-                <button key={i} onClick={() => setIdx(i)} aria-label={`Photo ${i + 1}`}
-                  className={`h-1.5 w-6 rounded-full transition-all ${i === idx ? '' : 'bg-white/25 hover:bg-white/50'}`}
-                  style={i === idx ? { background: accent } : undefined}
-                />
-              ))}
-            </div>
+            <>
+              {/* Arrows + counter are always visible (not hover-only): on a pale
+                  product shot the old bare dots were effectively invisible, so
+                  there was no sign a second photo existed. */}
+              <button
+                onClick={() => setIdx(i => (i - 1 + product.images.length) % product.images.length)}
+                aria-label="Previous photo"
+                className="absolute left-2 top-1/2 z-10 flex h-10 w-10 -translate-y-1/2 items-center justify-center rounded-full border border-white/20 bg-black/60 text-white shadow-lg backdrop-blur-sm transition-colors hover:bg-black/85"
+              >
+                <ChevronLeft size={18} />
+              </button>
+              <button
+                onClick={() => setIdx(i => (i + 1) % product.images.length)}
+                aria-label="Next photo"
+                className="absolute right-2 top-1/2 z-10 flex h-10 w-10 -translate-y-1/2 items-center justify-center rounded-full border border-white/20 bg-black/60 text-white shadow-lg backdrop-blur-sm transition-colors hover:bg-black/85"
+              >
+                <ChevronRight size={18} />
+              </button>
+
+              {/* Counter — states plainly how many photos there are */}
+              <span className="absolute left-3 top-3 z-10 rounded-full bg-black/65 px-2.5 py-1 text-[0.62rem] font-semibold tabular-nums text-white/90 backdrop-blur-sm">
+                {idx + 1} / {product.images.length}
+              </span>
+
+              {/* Dot rail on a dark pill so it reads on light images too */}
+              <div className="absolute bottom-3 left-1/2 z-10 flex -translate-x-1/2 items-center gap-2 rounded-full bg-black/65 px-3 py-2 backdrop-blur-sm">
+                {product.images.map((_, i) => (
+                  <button key={i} onClick={() => setIdx(i)} aria-label={`Photo ${i + 1}`}
+                    className={`h-2 w-7 rounded-full transition-all ${i === idx ? '' : 'bg-white/40 hover:bg-white/70'}`}
+                    style={i === idx ? { background: accent } : undefined}
+                  />
+                ))}
+              </div>
+            </>
           )}
         </div>
         <div className="flex flex-col justify-between gap-4 overflow-y-auto p-6 sm:p-8">

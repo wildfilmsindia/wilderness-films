@@ -50,6 +50,27 @@ function GalleryCard({ card, index }: { card: GalleryCard; index: number }) {
   const isInView = useInView(ref, { once: true, margin: '-60px' })
   const [hovered, setHovered] = useState(false)
 
+  // Thumbnail fallback chain: custom art → YouTube maxres → YouTube hq.
+  // Held in state rather than mutated on the DOM node, because this component
+  // re-renders on hover and React would reset an imperatively-set `src`.
+  const sources = [
+    ...(card.customThumb ? [card.customThumb] : []),
+    thumbUrl(card.videoId),
+    thumbFallback(card.videoId),
+  ]
+  const [srcIdx, setSrcIdx] = useState(0)
+  const nextSource = () => setSrcIdx(i => Math.min(i + 1, sources.length - 1))
+  const imgRef = useRef<HTMLImageElement>(null)
+
+  // The <img> is server-rendered, so a broken source can finish failing before
+  // React hydrates and attaches onError — that event is then lost and the card
+  // stays blank. Re-check the element once on mount to catch those.
+  useEffect(() => {
+    const el = imgRef.current
+    if (el?.complete && el.naturalWidth <= 120) nextSource()
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [srcIdx])
+
   return (
     <motion.div
       ref={ref}
@@ -81,9 +102,16 @@ function GalleryCard({ card, index }: { card: GalleryCard; index: number }) {
       <div className="wfi-gallery-img" style={{ position: 'relative', height: 'clamp(160px, 45vw, 230px)', overflow: 'hidden' }}>
         {/* Thumbnail — custom image takes priority over YouTube auto-thumb */}
         <img
-          src={card.customThumb ?? thumbUrl(card.videoId)}
+          ref={imgRef}
+          src={sources[srcIdx]}
           alt={card.title}
-          onError={(e) => { (e.currentTarget as HTMLImageElement).src = thumbFallback(card.videoId) }}
+          onError={nextSource}
+          onLoad={(e) => {
+            // YouTube answers 200 OK with a 120×90 grey placeholder when a video
+            // has no maxresdefault, so onError never fires — the card just shows
+            // a blank grey box. Detect it by size and step down the chain.
+            if ((e.currentTarget as HTMLImageElement).naturalWidth <= 120) nextSource()
+          }}
           style={{
             position: 'absolute',
             inset: '-5%',
@@ -204,12 +232,20 @@ export default function WildlifeSection() {
     if (!el) return
 
     const onWheel = (e: WheelEvent) => {
-      // Only intercept horizontal scroll intent (trackpad side-swipe).
-      // Vertical scroll (deltaY dominant) passes through to the page untouched.
       if (Math.abs(e.deltaX) > Math.abs(e.deltaY)) {
+        // Horizontal intent (trackpad side-swipe) — drive the row.
         e.preventDefault()
         el.scrollLeft += e.deltaX
+        return
       }
+      // Vertical intent. We cannot simply let this bubble: because this element
+      // scrolls on X but not Y, browsers redirect a vertical wheel into
+      // horizontal scrolling, so the page freezes while the pointer is over the
+      // row. Take the event and scroll the page ourselves instead.
+      e.preventDefault()
+      // deltaMode 1 = lines, 2 = pages; normalise both to pixels.
+      const scale = e.deltaMode === 1 ? 16 : e.deltaMode === 2 ? window.innerHeight : 1
+      window.scrollBy({ top: e.deltaY * scale, behavior: 'auto' })
     }
 
     el.addEventListener('wheel', onWheel, { passive: false })

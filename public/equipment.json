@@ -23,8 +23,8 @@
     "sold": false,
     "description": "Brand new Canon XF-205 camera Full HD video camera with all supplied accessories",
     "images": [
-      "/equipment/img/45569-1.jpg",
-      "/equipment/img/45569-2.jpg"
+      "/equipment/img/wfi-27-1.jpg",
+      "/equipment/img/wfi-27-2.jpg"
     ],
     "brand": "Canon"
   },
@@ -36,8 +36,8 @@
     "sold": false,
     "description": "Brand new Canon XF 105 Full HD video camera with sharp lens and superb video quality - with all accessories",
     "images": [
-      "/equipment/img/45567-1.jpg",
-      "/equipment/img/45567-2.jpg"
+      "/equipment/img/wfi-26-1.jpg",
+      "/equipment/img/wfi-26-2.jpg"
     ],
     "brand": "Canon"
   },
@@ -259,26 +259,9 @@
     "sold": false,
     "description": "Fujinon XK6 PL 6K/8K lenses of 20-120 including servo grips",
     "images": [
-      "/equipment/img/43631-1.jpg",
-      "/equipment/img/43631-2.jpg",
-      "/equipment/img/43631-3.jpg"
+      "/equipment/img/wfi-28-1.jpg"
     ],
     "brand": "Fujinon"
-  },
-  {
-    "name": "Fujinon XK6 PL (20-120)",
-    "cat": "Cameras",
-    "cond": "Used",
-    "url": "https://kitplus.com/for-sale/lenses-36/fujinon/fujinon-xk6-pl-20-120/43600",
-    "sold": false,
-    "description": "Fujinon XK6 PL lens 20-120 4K with servo grip - works on the Blackmagic 12K camera and the Sony FX9",
-    "images": [
-      "/equipment/img/43600-1.jpg",
-      "/equipment/img/43600-2.jpg",
-      "/equipment/img/43600-3.jpg"
-    ],
-    "brand": "Fujinon",
-    "mount": "PL"
   },
   {
     "name": "Genus Matte Box for 4x4 and 4x5.6 Filters",
@@ -332,11 +315,7 @@
     "url": "https://kitplus.com/for-sale/cameras-and-accessories-1/canon/kj10ex45b-irse-s-23-portable-eng-10x-semi-servo-zoom-lens/41885",
     "sold": false,
     "images": [
-      "/equipment/img/41885-1.jpg",
-      "/equipment/img/41885-2.jpg",
-      "/equipment/img/41885-3.jpg",
-      "/equipment/img/41885-4.jpg",
-      "/equipment/img/41885-5.jpg"
+      "/equipment/img/wfi-23-1.jpg"
     ],
     "brand": "Canon"
   },
@@ -360,12 +339,11 @@
     "url": "https://kitplus.com/for-sale/lenses-36/arri/alura-zoom-155-45-lens-pl-mount/41870",
     "sold": false,
     "images": [
-      "/equipment/img/41870-1.jpg",
-      "/equipment/img/41870-2.jpg",
-      "/equipment/img/41870-3.jpg",
-      "/equipment/img/41870-4.jpg",
-      "/equipment/img/41870-5.jpg",
-      "/equipment/img/41870-6.jpg"
+      "/equipment/img/wfi-16-1.jpg",
+      "/equipment/img/wfi-16-2.jpg",
+      "/equipment/img/wfi-16-3.jpg",
+      "/equipment/img/wfi-16-4.jpg",
+      "/equipment/img/wfi-16-5.jpg"
     ],
     "brand": "ARRI",
     "mount": "PL"
@@ -393,7 +371,13 @@
     "sold": false,
     "description": "Canon FJS Prime Lens Set HDEC - 5mm, 9mm, 14mm, 24mm, 35mm, 55mm (one set)",
     "images": [
-      "/equipment/img/41231-1.jpg"
+      "/equipment/img/wfi-20-1.jpg",
+      "/equipment/img/wfi-20-2.jpg",
+      "/equipment/img/wfi-20-3.jpg",
+      "/equipment/img/wfi-20-4.jpg",
+      "/equipment/img/wfi-20-5.jpg",
+      "/equipment/img/wfi-20-6.jpg",
+      "/equipment/img/wfi-20-7.jpg"
     ],
     "brand": "Canon"
   },
@@ -511,23 +495,6 @@
     "brand": "Fujinon"
   },
   {
-    "name": "Canon FD Lens 300mm PL Mount with Case and 2x Extender",
-    "cat": "Lenses",
-    "cond": "Used",
-    "url": "https://kitplus.com/for-sale/lenses-36/canon/fd-lens-300-mm-pl-mount-with-case-and-2x-extender/40965",
-    "sold": false,
-    "description": "Canon FD lens 300mm PL mount, with case and 2x extender",
-    "images": [
-      "/equipment/img/40965-1.jpg",
-      "/equipment/img/40965-2.jpg",
-      "/equipment/img/40965-3.jpg",
-      "/equipment/img/40965-4.jpg",
-      "/equipment/img/40965-5.jpg"
-    ],
-    "brand": "Canon",
-    "mount": "PL"
-  },
-  {
     "name": "Skaterscope B4 Mount Micro Lens",
     "cat": "Lenses",
     "cond": "Used",
@@ -583,8 +550,8 @@
     "sold": false,
     "description": "Canon CJ14EX4.3 IASE 4K UHD 2/3\" 14x Portable Full Servo Zoom Lens",
     "images": [
-      "/equipment/img/40738-1.jpg",
-      "/equipment/img/40738-2.jpg"
+      "/equipment/img/wfi-19-1.jpg",
+      "/equipment/img/wfi-19-2.jpg"
     ],
     "brand": "Canon"
   },
@@ -630,10 +597,10 @@
     "sold": false,
     "description": "Fujinon 20x BERM lenses available - brand new",
     "images": [
-      "/equipment/img/40496-1.jpg",
-      "/equipment/img/40496-2.jpg",
-      "/equipment/img/40496-3.jpg",
-      "/equipment/img/40496-4.jpg"
+      "/equipment/img/wfi-24-1.jpg",
+      "/equipment/img/wfi-24-2.jpg",
+      "/equipment/img/wfi-24-3.jpg",
+      "/equipment/img/wfi-24-4.jpg"
     ],
     "brand": "Fujinon"
   },
@@ -715,12 +682,10 @@
     "sold": false,
     "description": "Canon HJ17e X 7.6 B IRSE semi servo HD lens with 2x doubler",
     "images": [
-      "/equipment/img/40344-1.jpg",
-      "/equipment/img/40344-2.jpg",
-      "/equipment/img/40344-3.jpg",
-      "/equipment/img/40344-4.jpg",
-      "/equipment/img/40344-5.jpg",
-      "/equipment/img/40344-6.jpg"
+      "/equipment/img/wfi-21-1.jpg",
+      "/equipment/img/wfi-21-2.jpg",
+      "/equipment/img/wfi-21-3.jpg",
+      "/equipment/img/wfi-21-4.jpg"
     ],
     "brand": "Canon"
   },
@@ -802,12 +767,11 @@
     "sold": false,
     "description": "Angenieux Optimo Style 25-250 PL zoom lens in pristine condition, with Pelican hard case. Comes fully serviced from Angenieux",
     "images": [
-      "/equipment/img/40173-1.jpg",
-      "/equipment/img/40173-2.jpg",
-      "/equipment/img/40173-3.jpg",
-      "/equipment/img/40173-4.jpg",
-      "/equipment/img/40173-5.jpg",
-      "/equipment/img/40173-6.jpg"
+      "/equipment/img/wfi-15-1.jpg",
+      "/equipment/img/wfi-15-2.jpg",
+      "/equipment/img/wfi-15-3.jpg",
+      "/equipment/img/wfi-15-4.jpg",
+      "/equipment/img/wfi-15-5.jpg"
     ],
     "brand": "Angénieux",
     "mount": "PL"
@@ -1408,40 +1372,6 @@
     "brand": "Sony"
   },
   {
-    "name": "Canon FD 300mm T2.8 PL",
-    "cat": "Lenses",
-    "cond": "Used",
-    "url": "https://kitplus.com/for-sale/lenses-36/canon/fd-300-mm-t28-pl/32226",
-    "sold": false,
-    "description": "Canon FD 300mm T2.8 PL lens (plus 2x teleconvertor). Comes with its own hard case",
-    "images": [
-      "/equipment/img/32226-1.jpg",
-      "/equipment/img/32226-2.jpg",
-      "/equipment/img/32226-3.jpg",
-      "/equipment/img/32226-4.jpg",
-      "/equipment/img/32226-5.jpg"
-    ],
-    "brand": "Canon",
-    "mount": "PL"
-  },
-  {
-    "name": "Canon HDec FJS Lenses (Set of 6)",
-    "cat": "Lenses",
-    "cond": "Used",
-    "url": "https://kitplus.com/for-sale/lenses-36/canon/hdec-fjs-lenses/32225",
-    "sold": false,
-    "description": "Set of 6 lenses almost new condition B4 mount 3/4\" prime lens from Canon is a FJS prime lens set",
-    "images": [
-      "/equipment/img/32225-1.jpg",
-      "/equipment/img/32225-2.jpg",
-      "/equipment/img/32225-3.jpg",
-      "/equipment/img/32225-4.jpg",
-      "/equipment/img/32225-5.jpg",
-      "/equipment/img/32225-6.jpg"
-    ],
-    "brand": "Canon"
-  },
-  {
     "name": "Sony PDW700 XDCAM",
     "cat": "Cameras",
     "cond": "Used",
@@ -1475,12 +1405,10 @@
     "sold": false,
     "description": "ARRI Alura Zoom Fujinon 30-80 PL lens in excellent condition. Comes with hard shipping case",
     "images": [
-      "/equipment/img/32220-1.jpg",
-      "/equipment/img/32220-2.jpg",
-      "/equipment/img/32220-3.jpg",
-      "/equipment/img/32220-4.jpg",
-      "/equipment/img/32220-5.jpg",
-      "/equipment/img/32220-6.jpg"
+      "/equipment/img/wfi-14-1.jpg",
+      "/equipment/img/wfi-14-2.jpg",
+      "/equipment/img/wfi-14-3.jpg",
+      "/equipment/img/wfi-14-4.jpg"
     ],
     "brand": "ARRI",
     "mount": "PL"
@@ -1654,21 +1582,6 @@
     "mount": "B4"
   },
   {
-    "name": "Canon HJ22ex7.6B IASE A",
-    "cat": "Lenses",
-    "cond": "Used",
-    "url": "https://kitplus.com/for-sale/lenses-36/canon/hj22ex76b-iase-a/31789",
-    "sold": false,
-    "description": "Canon HJ22ex7.6B IASE A HD lens B4 mount 2/3\" lens in sterling condition",
-    "images": [
-      "/equipment/img/31789-1.jpg",
-      "/equipment/img/31789-2.jpg",
-      "/equipment/img/31789-3.jpg",
-      "/equipment/img/31789-4.jpg"
-    ],
-    "brand": "Canon"
-  },
-  {
     "name": "Fujinon 85-300 PL",
     "cat": "Lenses",
     "cond": "Used",
@@ -1676,9 +1589,10 @@
     "sold": false,
     "description": "Fujinon 85-300 PL lens with servo grip unit ZK3.5x85-SAFB. Excellent used condition",
     "images": [
-      "/equipment/img/31939-1.jpg",
-      "/equipment/img/31939-2.jpg",
-      "/equipment/img/31939-3.jpg"
+      "/equipment/img/wfi-25-1.jpg",
+      "/equipment/img/wfi-25-2.jpg",
+      "/equipment/img/wfi-25-3.jpg",
+      "/equipment/img/wfi-25-4.jpg"
     ],
     "brand": "Fujinon",
     "mount": "PL"
@@ -1778,10 +1692,9 @@
     "sold": false,
     "description": "Canon 4K CJ12 x 4.3 wide angle lens in excellent like-brand-new condition",
     "images": [
-      "/equipment/img/31829-1.jpg",
-      "/equipment/img/31829-2.jpg",
-      "/equipment/img/31829-3.jpg",
-      "/equipment/img/31829-4.jpg"
+      "/equipment/img/wfi-17-1.jpg",
+      "/equipment/img/wfi-17-2.jpg",
+      "/equipment/img/wfi-17-3.jpg"
     ],
     "brand": "Canon"
   },
@@ -1802,28 +1715,12 @@
     "sold": false,
     "description": "Canon HJ22 x 7.6 B IASE FULL servo HD zoom lens. Serviced by Canon and in decent working condition",
     "images": [
-      "/equipment/img/31784-1.jpg",
-      "/equipment/img/31784-2.jpg",
-      "/equipment/img/31784-3.jpg",
-      "/equipment/img/31784-4.jpg"
+      "/equipment/img/wfi-22-1.jpg",
+      "/equipment/img/wfi-22-2.jpg",
+      "/equipment/img/wfi-22-3.jpg",
+      "/equipment/img/wfi-22-4.jpg"
     ],
     "brand": "Canon"
-  },
-  {
-    "name": "Fujinon 20x BERM Lenses with 2x Doubler",
-    "cat": "Lenses",
-    "cond": "New",
-    "url": "https://kitplus.com/for-sale/lenses-36/fujinon/20x-berm-lenses-with-2x-doubler/31781",
-    "sold": false,
-    "description": "Fujinon A20 X 8.6 BERM-SD lens. Brand new Standard Definition lens that can also be used in HD",
-    "images": [
-      "/equipment/img/31781-1.jpg",
-      "/equipment/img/31781-2.jpg",
-      "/equipment/img/31781-3.jpg",
-      "/equipment/img/31781-4.jpg",
-      "/equipment/img/31781-5.jpg"
-    ],
-    "brand": "Fujinon"
   },
   {
     "name": "Fujinon 85-300 PL Mount ZK3.5 x 85 with Servo Grip",
@@ -2068,11 +1965,10 @@
     "sold": false,
     "description": "TWO Canon 300mm f/2.8 lenses with 2x extenders and metal hard cases. Both come with B4 mounts and are in good condition",
     "images": [
-      "/equipment/img/31318-1.jpg",
-      "/equipment/img/31318-2.jpg",
-      "/equipment/img/31318-3.jpg",
-      "/equipment/img/31318-4.jpg",
-      "/equipment/img/31318-5.jpg"
+      "/equipment/img/wfi-18-1.jpg",
+      "/equipment/img/wfi-18-2.jpg",
+      "/equipment/img/wfi-18-3.jpg",
+      "/equipment/img/wfi-18-4.jpg"
     ],
     "brand": "Canon"
   },
