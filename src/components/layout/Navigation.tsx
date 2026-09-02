@@ -59,7 +59,9 @@ export default function Navigation() {
         </Link>
 
         {/* Desktop nav */}
-        <div className="hidden md:flex items-center gap-7">
+        {/* Tighter gap at md — the links sit at 14px, which overflows a 768px
+            viewport at the roomier lg spacing. */}
+        <div className="hidden md:flex items-center gap-4 lg:gap-7">
           {NAV_LINKS.map((link) => (
             <NavLink
               key={link.label}
@@ -77,7 +79,7 @@ export default function Navigation() {
             target="_blank"
             rel="noopener noreferrer"
             className="btn-primary text-xs py-3 px-6"
-            style={{ fontSize: '0.7rem' }}
+            style={{ fontSize: '0.825rem' }}
           >
             Enter The Archive
           </a>
@@ -221,7 +223,7 @@ function NavLink({
     return (
       <a
         href={resolvedHref}
-        className="relative font-body text-xs uppercase"
+        className="relative font-body text-sm uppercase"
         style={sharedStyle}
         onMouseEnter={() => setHovered(true)}
         onMouseLeave={() => setHovered(false)}
@@ -235,7 +237,7 @@ function NavLink({
   return (
     <Link
       href={resolvedHref}
-      className="relative font-body text-xs uppercase"
+      className="relative font-body text-sm uppercase"
       style={sharedStyle}
       onMouseEnter={() => setHovered(true)}
       onMouseLeave={() => setHovered(false)}

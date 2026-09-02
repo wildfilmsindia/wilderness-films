@@ -115,14 +115,10 @@ export default function ShopSelector() {
 
             {/* Text */}
             <div className="relative z-10 flex h-full flex-col justify-end p-6 sm:p-12">
-              <p className="text-[0.58rem] font-semibold uppercase tracking-[0.32em]" style={{ color: store01.accent }}>
-                Store 01
-              </p>
-              <h2 className="mt-2 font-light leading-none text-white"
+              <h2 className="font-light leading-none text-white"
                 style={{ fontFamily: "'Cormorant Garamond', serif", fontSize: 'clamp(2rem, 5.5vw, 4.4rem)' }}>
                 {store01.name}
               </h2>
-              <p className="mt-3 max-w-md text-sm text-white/75 sm:text-base">{store01.tagline}</p>
               <span className="mt-6 inline-flex items-center gap-2 text-[0.68rem] font-semibold uppercase tracking-[0.18em] transition-transform group-hover:translate-x-1"
                 style={{ color: store01.accent }}>
                 Enter store <ArrowRight size={14} />
@@ -162,14 +158,10 @@ export default function ShopSelector() {
             }} />
 
             <div className="relative z-10 flex h-full flex-col items-start justify-end p-6 sm:items-end sm:p-12 sm:text-right">
-              <p className="text-[0.58rem] font-semibold uppercase tracking-[0.32em]" style={{ color: store02.accent }}>
-                Store 02
-              </p>
-              <h2 className="mt-2 font-light leading-none text-white"
+              <h2 className="font-light leading-none text-white"
                 style={{ fontFamily: "'Cormorant Garamond', serif", fontSize: 'clamp(2rem, 5.5vw, 4.4rem)' }}>
                 {store02.name}
               </h2>
-              <p className="mt-3 max-w-md text-sm text-white/75 sm:text-base">{store02.tagline}</p>
               <span className="mt-6 inline-flex items-center gap-2 text-[0.68rem] font-semibold uppercase tracking-[0.18em] transition-transform group-hover:-translate-x-1"
                 style={{ color: store02.accent }}>
                 Enter store <ArrowRight size={14} />
