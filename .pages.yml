@@ -1,0 +1,151 @@
+# Pages CMS configuration — https://pagescms.org
+# Gives a web form for editing the site without touching code.
+# Sign in at app.pagescms.org with GitHub, pick this repository.
+
+media:
+  - name: equipment-photos
+    label: Equipment photos
+    input: public/equipment/img
+    output: /equipment/img
+    extensions: [jpg, jpeg, png, webp]
+  - name: shop-photos
+    label: Shop photos
+    input: public/shop
+    output: /shop
+    extensions: [jpg, jpeg, png, webp]
+
+content:
+  # ── Equipment catalogue ───────────────────────────────────────────
+  - name: equipment
+    label: Equipment
+    type: file
+    path: public/equipment.json
+    list: true
+    view:
+      fields: [name, cat, brand, sold]
+      primary: name
+    fields:
+      - name: name
+        label: Item name
+        type: string
+        required: true
+      - name: cat
+        label: Category
+        type: select
+        required: true
+        options:
+          values:
+            - Lenses
+            - Cameras
+            - Recorders & Playback
+            - Monitors
+            - Tripods
+            - Matte Box
+            - Accessories
+            - Viewfinders
+            - Power & Charging
+            - Studio & Broadcast
+            - Audio
+            - Lighting
+      - name: brand
+        label: Brand
+        type: string
+      - name: cond
+        label: Condition
+        type: select
+        default: Used
+        options:
+          values: [New, Used]
+      - name: description
+        label: Description
+        type: text
+        description: One or two sentences shown on the item page.
+      - name: images
+        label: Photos
+        type: image
+        list: true
+        options:
+          media: equipment-photos
+        description: First photo is the one shown on the catalogue card.
+      - name: sold
+        label: Sold
+        type: boolean
+        default: false
+      - name: mount
+        label: Mount (optional)
+        type: string
+      - name: url
+        label: Source listing URL (optional)
+        type: string
+
+  # ── Shop: both stores ─────────────────────────────────────────────
+  - name: shop
+    label: Shop stores
+    type: file
+    path: src/data/shop.json
+    fields:
+      - name: stores
+        label: Stores
+        type: object
+        list: true
+        fields:
+          - name: slug
+            label: Slug (do not change)
+            type: string
+            required: true
+          - name: name
+            label: Store name
+            type: string
+            required: true
+          - name: intro
+            label: Intro text
+            type: text
+          - name: hero
+            label: Storefront hero image
+            type: image
+            options:
+              media: shop-photos
+          - name: heroSlideshow
+            label: Storefront slideshow images
+            type: image
+            list: true
+            options:
+              media: shop-photos
+          - name: accent
+            label: Accent colour (hex)
+            type: string
+          - name: fit
+            label: Photo fit
+            type: select
+            options:
+              values: [contain, cover]
+          - name: products
+            label: Products
+            type: object
+            list: true
+            fields:
+              - name: id
+                label: ID (must be unique)
+                type: string
+                required: true
+              - name: name
+                label: Product name
+                type: string
+                required: true
+              - name: description
+                label: Description
+                type: text
+              - name: price
+                label: Price
+                type: string
+                description: 'Free text, e.g. ₹1,200. Leave blank for "Enquire for price".'
+              - name: images
+                label: Photos
+                type: image
+                list: true
+                options:
+                  media: shop-photos
+              - name: tag
+                label: Badge (optional)
+                type: string
+                description: 'Small corner label, e.g. New or Handmade.'
