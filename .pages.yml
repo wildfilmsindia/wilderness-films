@@ -3,10 +3,15 @@
 # Sign in at app.pagescms.org with GitHub, pick this repository.
 
 media:
+  # Uploads go to a dedicated subfolder, not the main image directory.
+  # The main directory holds 1000+ files and the picker had to enumerate all
+  # of them (downloading each full-size JPEG to draw a thumbnail), which made
+  # it very slow. Pointing at a small folder keeps it instant. Existing photos
+  # stay where they are and every path already in equipment.json still works.
   - name: equipment-photos
     label: Equipment photos
-    input: public/equipment/img
-    output: /equipment/img
+    input: public/equipment/img/uploads
+    output: /equipment/img/uploads
     extensions: [jpg, jpeg, png, webp]
   - name: shop-photos
     label: Shop photos
