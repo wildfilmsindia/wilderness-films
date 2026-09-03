@@ -68,7 +68,7 @@
       "/equipment/img/lenses-arri/45524-2.jpg",
       "/equipment/img/lenses-arri/45524-3.jpg"
     ],
-    "brand": "ARRI/Zeiss"
+    "brand": "ARRI"
   },
   {
     "name": "ARRI Zeiss Ultra Prime 20mm T1.9 Cinema Lens",
@@ -82,7 +82,7 @@
       "/equipment/img/lenses-arri/45523-2.jpg",
       "/equipment/img/lenses-arri/45523-3.jpg"
     ],
-    "brand": "ARRI/Zeiss"
+    "brand": "ARRI"
   },
   {
     "name": "ARRI Zeiss Ultra Prime 8R T2.8 Cinema Lens",
@@ -96,7 +96,7 @@
       "/equipment/img/lenses-arri/45522-2.jpg",
       "/equipment/img/lenses-arri/45522-3.jpg"
     ],
-    "brand": "ARRI/Zeiss"
+    "brand": "ARRI"
   },
   {
     "name": "ARRI Zeiss Ultra Prime 14mm T1.9 Cinema Lens",
@@ -110,7 +110,7 @@
       "/equipment/img/lenses-arri/45521-2.jpg",
       "/equipment/img/lenses-arri/45521-3.jpg"
     ],
-    "brand": "ARRI/Zeiss"
+    "brand": "ARRI"
   },
   {
     "name": "ARRI Zeiss Ultra Prime 10mm T2.1 Cinema Lens",
@@ -124,7 +124,7 @@
       "/equipment/img/lenses-arri/45520-2.jpg",
       "/equipment/img/lenses-arri/45520-3.jpg"
     ],
-    "brand": "ARRI/Zeiss"
+    "brand": "ARRI"
   },
   {
     "name": "ARRI Zeiss Ultra Prime Set - 16, 24, 32, 50, 85 & 100mm",
@@ -141,7 +141,7 @@
       "/equipment/img/lenses-arri/45519-5.jpg",
       "/equipment/img/lenses-arri/45519-6.jpg"
     ],
-    "brand": "ARRI/Zeiss"
+    "brand": "ARRI"
   },
   {
     "name": "ARRI Ultra Prime LDS 180mm",
@@ -200,7 +200,8 @@
       "/equipment/img/lenses-other/45484-4.jpg",
       "/equipment/img/lenses-other/45484-5.jpg",
       "/equipment/img/lenses-other/45484-6.jpg"
-    ]
+    ],
+    "brand": "Optar"
   },
   {
     "name": "Kowa Vintage Film Lenses 40mm, 50mm, 75mm, 100mm",
@@ -234,7 +235,7 @@
       "/equipment/img/lenses-other/wfi-61-5.jpg",
       "/equipment/img/lenses-other/wfi-61-6.jpg"
     ],
-    "brand": "Angénieux"
+    "brand": "Angenieux"
   },
   {
     "name": "Sony FX9 6K Sensor 4K Recording Broadcast Camera",
@@ -333,7 +334,7 @@
     "images": [
       "/equipment/img/lenses-other/41871-1.jpg"
     ],
-    "brand": "Angénieux",
+    "brand": "Angenieux",
     "mount": "PL"
   },
   {
@@ -446,7 +447,7 @@
       "/equipment/img/lenses-other/41003-1.jpg",
       "/equipment/img/lenses-other/41003-2.jpg"
     ],
-    "brand": "Zeiss",
+    "brand": "Carl Zeiss",
     "mount": "PL"
   },
   {
@@ -790,7 +791,7 @@
       "/equipment/img/lenses-other/wfi-15-4.jpg",
       "/equipment/img/lenses-other/wfi-15-5.jpg"
     ],
-    "brand": "Angénieux",
+    "brand": "Angenieux",
     "mount": "PL"
   },
   {
@@ -1231,7 +1232,7 @@
       "/equipment/img/cameras-other/33441-4.jpg",
       "/equipment/img/cameras-other/33441-5.jpg"
     ],
-    "brand": "Arriflex"
+    "brand": "ARRI"
   },
   {
     "name": "Sony SRW1 with SRPC1 Processor Unit",
@@ -1309,7 +1310,7 @@
     "url": "https://kitplus.com/for-sale/lenses-36/single-ultra/prime-lenses-8-10-12-14-16-20-24-28-32-40-50-65-85-100-135-and-180-mm/32889",
     "sold": false,
     "description": "Single Ultra prime lenses for US$3990+ each: 8, 10, 12, 14, 16, 20, 24, 28, 32, 40, 50, 65, 85, 100, 135 and 180mm",
-    "brand": "Zeiss"
+    "brand": "Carl Zeiss"
   },
   {
     "name": "Sony PMW 500 XDCAM (HD)",
@@ -1327,7 +1328,7 @@
     "url": "https://kitplus.com/for-sale/lenses-36/angenieux/hr-zoom-25-250-pl-mount/32789",
     "sold": false,
     "description": "Angenieux 25-250 HR Zoom lens in PL mount",
-    "brand": "Angénieux",
+    "brand": "Angenieux",
     "mount": "PL"
   },
   {
@@ -1448,7 +1449,7 @@
     "cond": "Used",
     "url": "https://kitplus.com/for-sale/lenses-36/zeiss/21-100-lightweight-zoom-lwz/32093",
     "sold": false,
-    "brand": "Zeiss"
+    "brand": "Carl Zeiss"
   },
   {
     "name": "Sony BC-L100CE and BC-L120 Lithium-Ion Battery Chargers",
@@ -1742,7 +1743,7 @@
     "url": "https://kitplus.com/for-sale/lenses-36/zeiss/supreme-prime/31827",
     "sold": false,
     "description": "Zeiss Supreme Prime 6 Lenses in pristine condition. Carl Zeiss Supreme Prime 25, 29, 35, 50, 85 and 100mm lens set",
-    "brand": "Zeiss"
+    "brand": "Carl Zeiss"
   },
   {
     "name": "Canon HJ22 x 7.6 B IASE Full Servo HD Zoom Lens",
@@ -1812,7 +1813,7 @@
     "url": "https://kitplus.com/for-sale/cameras-and-accessories-1/arriflex/arriflex-16-srii-high-speed-arri-super-16-camera-with-viewfinder-etc/31802",
     "sold": false,
     "description": "Arriflex 16 SRII High Speed Arri Super 16 camera with viewfinder, etc.",
-    "brand": "Arriflex"
+    "brand": "ARRI"
   },
   {
     "name": "Zeiss Supreme Prime 6 Lenses (Set 2)",
@@ -1821,7 +1822,7 @@
     "url": "https://kitplus.com/for-sale/lenses-36/zeiss/supreme-prime-6-lenses/31800",
     "sold": false,
     "description": "Zeiss Supreme Prime 6 Lenses in pristine condition. Carl Zeiss Supreme Prime 25, 29, 35, 50, 85 and 100mm lens set",
-    "brand": "Zeiss"
+    "brand": "Carl Zeiss"
   },
   {
     "name": "Canon CN20x50 (50-1000mm PL Lens with 1.5x Tele-Convertor)",
@@ -1858,7 +1859,7 @@
     "url": "https://kitplus.com/for-sale/lenses-36/zeiss/pl-mount-lightweight-21-100-zoom/31512",
     "sold": false,
     "description": "Zeiss PL mount Lightweight 21-100 zoom for sale, in sterling like-new condition, with field shipping hard case included",
-    "brand": "Zeiss",
+    "brand": "Carl Zeiss",
     "mount": "PL"
   },
   {
@@ -2017,7 +2018,7 @@
     "url": "https://kitplus.com/for-sale/lenses-36/angenieux/hr-zoom-for-super-16-pl-mount-115-138-mm-hr/31270",
     "sold": false,
     "description": "Angenieux HR zoom for Super 16 PL mount. 11.5 - 138mm HR",
-    "brand": "Angénieux",
+    "brand": "Angenieux",
     "mount": "PL"
   },
   {
@@ -2036,7 +2037,7 @@
     "url": "https://kitplus.com/for-sale/lenses-36/angenieux/25-250-optimo-style-dp/31243",
     "sold": false,
     "description": "Angenieux 25-250 Optimo Style (DP) /i PL lens in pristine condition",
-    "brand": "Angénieux"
+    "brand": "Angenieux"
   },
   {
     "name": "Carl Zeiss PL Mount Supreme Prime 29mm",
@@ -2130,7 +2131,8 @@
     "cat": "Matte Box",
     "cond": "Used",
     "url": "https://kitplus.com/for-sale/accessories-35/matte-box-with-rods-make-an-offer/matte-box-with-rods-make-an-offer/31212",
-    "sold": false
+    "sold": false,
+    "brand": "Unbranded"
   },
   {
     "name": "VCSC Digital 2000 Video Tap Accessory",
@@ -2154,7 +2156,8 @@
     "cond": "Used",
     "url": "https://kitplus.com/for-sale/accessories-35/super/16-camera-magazine/31209",
     "sold": false,
-    "description": "Additional Super 16 camera magazine"
+    "description": "Additional Super 16 camera magazine",
+    "brand": "Unbranded"
   },
   {
     "name": "ARRI 35III with Viewfinder and Accessories (35mm PL)",
@@ -2179,7 +2182,7 @@
     "cond": "Used",
     "url": "https://kitplus.com/for-sale/lenses-36/angenieux/12-120/31205",
     "sold": false,
-    "brand": "Angénieux"
+    "brand": "Angenieux"
   },
   {
     "name": "Zeiss S16 Zoom 10-100 T1/8",
@@ -2188,7 +2191,7 @@
     "url": "https://kitplus.com/for-sale/lenses-36/zeiss/s16-zoom-10-100-t18/31204",
     "sold": false,
     "description": "10-100 T1/8 Zeiss S16 zoom",
-    "brand": "Zeiss"
+    "brand": "Carl Zeiss"
   },
   {
     "name": "ARRI 16 SR2 HS Super 16 PL Camera Body",
@@ -2215,7 +2218,7 @@
     "cond": "Used",
     "url": "https://kitplus.com/for-sale/lenses-36/arriflex/carl-zeiss-super-16-prime-lenses-and-zoom-lens-pl-mount-set/31191",
     "sold": false,
-    "brand": "Arriflex",
+    "brand": "ARRI",
     "mount": "PL"
   },
   {
@@ -2225,7 +2228,7 @@
     "url": "https://kitplus.com/for-sale/lenses-36/super/16-pl-mount-prime-lens-set/31190",
     "sold": false,
     "description": "Super 16 PL mount Kinoptik TEGEA Paris 5.7mm T/1.8, Carl Zeiss Distagon 9.5mm, 12mm, 16mm, 25mm T/1.2",
-    "brand": "Zeiss",
+    "brand": "Carl Zeiss",
     "mount": "PL"
   },
   {
@@ -2373,7 +2376,7 @@
     "url": "https://kitplus.com/for-sale/accessories-35/arriflex/sr-2-and-sr-2sr3/31141",
     "sold": false,
     "description": "Arriflex SR 2 HS and Arriflex SR3 HS Package",
-    "brand": "Arriflex"
+    "brand": "ARRI"
   },
   {
     "name": "Fujinon HA14 X 4.5 BERM-M58B Semi Servo Zoom Lens",
@@ -2530,7 +2533,7 @@
     "url": "https://kitplus.com/for-sale/accessories-35/arri-super-16-cameras/arri-super-16/30265",
     "sold": false,
     "description": "Arri Super 16 camera Arriflex 16 SR3 with HS Time Code and SR Advanced features. 2 cameras available",
-    "brand": "Arriflex"
+    "brand": "ARRI"
   },
   {
     "name": "Vinten 250 Heavy Duty 150mm Bowl Size Tripod",
@@ -2647,7 +2650,7 @@
     "url": "https://kitplus.com/for-sale/lenses-36/angenieux/optimo-24-290-pl-zoom/29929",
     "sold": false,
     "description": "Angenieux Optimo 24-290 used lenses available. Will include servicing prior to despatch",
-    "brand": "Angénieux",
+    "brand": "Angenieux",
     "mount": "PL"
   },
   {
@@ -2666,7 +2669,7 @@
     "url": "https://kitplus.com/for-sale/accessories-35/arriflex/435-es-35-mm-film-camera-with-pl-mount/29570",
     "sold": false,
     "description": "Arriflex 435 ES 35mm film camera with PL mount (4 perf / perforation), with AVF-2 anamorphic viewfinder",
-    "brand": "Arriflex",
+    "brand": "ARRI",
     "mount": "PL"
   },
   {
@@ -2781,7 +2784,7 @@
     "url": "https://kitplus.com/for-sale/lenses-36/zeiss/master-prime-lenses/29365",
     "sold": false,
     "description": "Zeiss Master Prime lenses Set of 6 used lenses, with Zeiss servicing completed",
-    "brand": "Zeiss"
+    "brand": "Carl Zeiss"
   },
   {
     "name": "Sony XDCAM XAVC FX9",
@@ -2816,7 +2819,7 @@
     "url": "https://kitplus.com/for-sale/lenses-36/angenieux/hr-zoom-115-138-mm-t23/26720",
     "sold": false,
     "description": "Angenieux HR Zoom 11.5 - 138mm T2.3",
-    "brand": "Angénieux"
+    "brand": "Angenieux"
   },
   {
     "name": "Carl Zeiss Master Prime Lenses (Full Set)",
@@ -3068,7 +3071,7 @@
     "name": "Zeiss DigiPrime 135mm Lens",
     "cat": "Lenses",
     "cond": "Used",
-    "brand": "Zeiss",
+    "brand": "Carl Zeiss",
     "model": "DigiPrime 135mm",
     "mount": "B4",
     "images": [
@@ -3083,7 +3086,7 @@
     "name": "Zeiss DigiPrime 10mm Lens",
     "cat": "Lenses",
     "cond": "Used",
-    "brand": "Zeiss",
+    "brand": "Carl Zeiss",
     "model": "DigiPrime 10mm",
     "mount": "B4",
     "images": [
@@ -3413,7 +3416,7 @@
       "/equipment/img/studio-broadcast/wfi-86-5.jpg",
       "/equipment/img/studio-broadcast/wfi-86-6.jpg"
     ],
-    "brand": "Wilderness Films India"
+    "brand": "Unbranded"
   },
   {
     "name": "ARRI 600, Sachtler 300 and 600 Cool Light, LED Light Kit",
@@ -4097,7 +4100,7 @@
       "/equipment/img/matte-box/wfi-133-5.jpg",
       "/equipment/img/matte-box/wfi-133-6.jpg"
     ],
-    "brand": "Wilderness Films India"
+    "brand": "Unbranded"
   },
   {
     "name": "Matte Box MB-15",
@@ -4113,7 +4116,7 @@
       "/equipment/img/matte-box/wfi-134-5.jpg",
       "/equipment/img/matte-box/wfi-134-6.jpg"
     ],
-    "brand": "Wilderness Films India"
+    "brand": "Unbranded"
   },
   {
     "name": "EF Mount for Zeiss CP.2 Lens",
