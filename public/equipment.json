@@ -1466,12 +1466,12 @@
     "sold": false,
     "description": "Carl Zeiss Ultra Prime PL mount lenses 16, 24, 32, 50, 85 and 135mm",
     "images": [
-      "/equipment/img/lenses-carl-zeiss/32075-1.jpg",
-      "/equipment/img/lenses-carl-zeiss/32075-2.jpg",
-      "/equipment/img/lenses-carl-zeiss/32075-3.jpg",
-      "/equipment/img/lenses-carl-zeiss/32075-4.jpg",
-      "/equipment/img/lenses-carl-zeiss/32075-5.jpg",
-      "/equipment/img/lenses-carl-zeiss/32075-6.jpg"
+      "/equipment/img/lenses-carl-zeiss/wfi-147-1.jpg",
+      "/equipment/img/lenses-carl-zeiss/wfi-147-2.jpg",
+      "/equipment/img/lenses-carl-zeiss/wfi-147-3.jpg",
+      "/equipment/img/lenses-carl-zeiss/wfi-147-4.jpg",
+      "/equipment/img/lenses-carl-zeiss/wfi-147-5.jpg",
+      "/equipment/img/lenses-carl-zeiss/wfi-147-6.jpg"
     ],
     "brand": "Carl Zeiss",
     "mount": "PL"
@@ -2169,7 +2169,14 @@
     "url": "https://kitplus.com/for-sale/lenses-36/arriflex/carl-zeiss-super-16-prime-lenses-and-zoom-lens-pl-mount-set/31191",
     "sold": false,
     "brand": "ARRI",
-    "mount": "PL"
+    "mount": "PL",
+    "images": [
+      "/equipment/img/lenses-arri/wfi-149-1.jpg",
+      "/equipment/img/lenses-arri/wfi-149-2.jpg",
+      "/equipment/img/lenses-arri/wfi-149-3.jpg",
+      "/equipment/img/lenses-arri/wfi-149-4.jpg",
+      "/equipment/img/lenses-arri/wfi-149-5.jpg"
+    ]
   },
   {
     "name": "Super 16 PL Mount Prime Lens Set (Kinoptik/Zeiss)",
@@ -2444,7 +2451,12 @@
     "url": "https://kitplus.com/for-sale/accessories-35/arri-super-16-cameras/arri-super-16/30265",
     "sold": false,
     "description": "Arri Super 16 camera Arriflex 16 SR3 with HS Time Code and SR Advanced features. 2 cameras available",
-    "brand": "ARRI"
+    "brand": "ARRI",
+    "images": [
+      "/equipment/img/cameras-other/wfi-150-1.jpg",
+      "/equipment/img/cameras-other/wfi-150-2.jpg",
+      "/equipment/img/cameras-other/wfi-150-3.jpg"
+    ]
   },
   {
     "name": "Vinten 250 Heavy Duty 150mm Bowl Size Tripod",
@@ -2561,7 +2573,12 @@
     "sold": false,
     "description": "Angenieux Optimo 24-290 used lenses available. Will include servicing prior to despatch",
     "brand": "Angenieux",
-    "mount": "PL"
+    "mount": "PL",
+    "images": [
+      "/equipment/img/lenses-other/wfi-148-1.jpg",
+      "/equipment/img/lenses-other/wfi-148-2.jpg",
+      "/equipment/img/lenses-other/wfi-148-3.jpg"
+    ]
   },
   {
     "name": "ARRI 4x4 Matte Box",
@@ -2694,7 +2711,12 @@
     "url": "https://kitplus.com/for-sale/lenses-36/zeiss/master-prime-lenses/29365",
     "sold": false,
     "description": "Zeiss Master Prime lenses Set of 6 used lenses, with Zeiss servicing completed",
-    "brand": "Carl Zeiss"
+    "brand": "Carl Zeiss",
+    "images": [
+      "/equipment/img/lenses-carl-zeiss/wfi-151-1.jpg",
+      "/equipment/img/lenses-carl-zeiss/wfi-151-2.jpg",
+      "/equipment/img/lenses-carl-zeiss/wfi-151-3.jpg"
+    ]
   },
   {
     "name": "Sony XDCAM XAVC FX9",
