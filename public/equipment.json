@@ -1495,15 +1495,6 @@
     "mount": "PL"
   },
   {
-    "name": "Canon HJ11x4.7B-III KLL-SC T2.1",
-    "cat": "Lenses",
-    "cond": "New",
-    "url": "https://kitplus.com/for-sale/lenses-36/canon/hj11x47b-iii-kll-sc-t21/32073",
-    "sold": false,
-    "description": "Canon HJ11x4.7B-III KLL-SC T2.1 Film Style wide angle lens in brand new sterling condition",
-    "brand": "Canon"
-  },
-  {
     "name": "Sony PDW700 XDCAM Full HD Camcorder",
     "cat": "Cameras",
     "cond": "Used",
@@ -1838,16 +1829,6 @@
     "sold": false,
     "description": "Sony F5 camera with ProRes, 4K and viewfinder",
     "brand": "Sony"
-  },
-  {
-    "name": "Zeiss PL Mount Lightweight 21-100 Zoom",
-    "cat": "Lenses",
-    "cond": "Used",
-    "url": "https://kitplus.com/for-sale/lenses-36/zeiss/pl-mount-lightweight-21-100-zoom/31512",
-    "sold": false,
-    "description": "Zeiss PL mount Lightweight 21-100 zoom for sale, in sterling like-new condition, with field shipping hard case included",
-    "brand": "Carl Zeiss",
-    "mount": "PL"
   },
   {
     "name": "Sony 512GB S55 Series SRMemory Card",
@@ -2282,15 +2263,6 @@
     "brand": "Sony"
   },
   {
-    "name": "Sony PVM 20L2 MD/ST High Resolution CRT Monitor",
-    "cat": "Monitors",
-    "cond": "New",
-    "url": "https://kitplus.com/for-sale/monitors-87/monitor/pvm-20l2-mdst-is-a-high-resolution-crt-monitor/31185",
-    "sold": false,
-    "description": "Brand new 21\" monitor PVM 20L2 MD/ST is a high resolution CRT monitor for broadcast and medical purposes",
-    "brand": "Sony"
-  },
-  {
     "name": "Vinten Tripods and Heads PT520",
     "cat": "Tripods",
     "cond": "Used",
@@ -2616,16 +2588,6 @@
       "/equipment/img/tripods/wfi-176-5.jpg",
       "/equipment/img/tripods/wfi-176-6.jpg"
     ]
-  },
-  {
-    "name": "Carl Zeiss PL Mount Ultra Prime Lenses 180mm",
-    "cat": "Lenses",
-    "cond": "Used",
-    "url": "https://kitplus.com/for-sale/lenses-36/carl/zeiss-pl-mount-ultra-prime-lenses-of-180-mm-focal-length/29997",
-    "sold": false,
-    "description": "3 nos. Carl Zeiss PL mount Ultra prime lenses of 180mm focal length",
-    "brand": "Carl Zeiss",
-    "mount": "PL"
   },
   {
     "name": "NIKON 8mm PL Mount",
@@ -4506,5 +4468,50 @@
       "/equipment/img/tripods/wfi-189-6.jpg"
     ],
     "brand": "Ronford Baker"
+  },
+  {
+    "name": "Vinten Vision 5 Tripod",
+    "cat": "Tripods",
+    "cond": "Used",
+    "sold": false,
+    "description": "Vinten Vision 5 tripod system with fluid head and legs.",
+    "images": [
+      "/equipment/img/tripods/wfi-190-1.jpg",
+      "/equipment/img/tripods/wfi-190-2.jpg",
+      "/equipment/img/tripods/wfi-190-3.jpg",
+      "/equipment/img/tripods/wfi-190-4.jpg",
+      "/equipment/img/tripods/wfi-190-5.jpg"
+    ],
+    "brand": "Vinten"
+  },
+  {
+    "name": "Vinten Vision 20 Tripod",
+    "cat": "Tripods",
+    "cond": "Used",
+    "sold": false,
+    "description": "Vinten Vision 20 tripod with fluid head and legs.",
+    "images": [
+      "/equipment/img/tripods/wfi-191-1.jpg",
+      "/equipment/img/tripods/wfi-191-2.jpg",
+      "/equipment/img/tripods/wfi-191-3.jpg",
+      "/equipment/img/tripods/wfi-191-4.jpg",
+      "/equipment/img/tripods/wfi-191-5.jpg"
+    ],
+    "brand": "Vinten"
+  },
+  {
+    "name": "Vinten Vision 100 Tripod",
+    "cat": "Tripods",
+    "cond": "Used",
+    "sold": false,
+    "description": "Vinten Vision 100 heavy duty tripod with fluid head and legs.",
+    "images": [
+      "/equipment/img/tripods/wfi-192-1.jpg",
+      "/equipment/img/tripods/wfi-192-2.jpg",
+      "/equipment/img/tripods/wfi-192-3.jpg",
+      "/equipment/img/tripods/wfi-192-4.jpg",
+      "/equipment/img/tripods/wfi-192-5.jpg"
+    ],
+    "brand": "Vinten"
   }
 ]
