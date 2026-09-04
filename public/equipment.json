@@ -4045,5 +4045,75 @@
       "/equipment/img/lenses-fujinon/wfi-137-1.jpg"
     ],
     "brand": "Fujinon"
+  },
+  {
+    "name": "ARRI Alura Studio Zoom 45-250mm PL Lens",
+    "cat": "Lenses",
+    "cond": "Used",
+    "sold": false,
+    "description": "ARRI Alura Studio Zoom 45-250mm PL mount lens, built by Fujinon. Made in Japan.",
+    "images": [
+      "/equipment/img/lenses-arri/wfi-140-1.jpg",
+      "/equipment/img/lenses-arri/wfi-140-2.jpg",
+      "/equipment/img/lenses-arri/wfi-140-3.jpg",
+      "/equipment/img/lenses-arri/wfi-140-4.jpg",
+      "/equipment/img/lenses-arri/wfi-140-5.jpg",
+      "/equipment/img/lenses-arri/wfi-140-6.jpg"
+    ],
+    "brand": "ARRI"
+  },
+  {
+    "name": "Sachtler 300W Location Lights",
+    "cat": "Lighting",
+    "cond": "Used",
+    "sold": false,
+    "description": "Sachtler 300W tungsten location lights with barn doors and stands.",
+    "images": [
+      "/equipment/img/lighting/wfi-141-1.jpg",
+      "/equipment/img/lighting/wfi-141-2.jpg",
+      "/equipment/img/lighting/wfi-141-3.jpg",
+      "/equipment/img/lighting/wfi-141-4.jpg",
+      "/equipment/img/lighting/wfi-141-5.jpg",
+      "/equipment/img/lighting/wfi-141-6.jpg"
+    ],
+    "brand": "Sachtler"
+  },
+  {
+    "name": "Sachtler 600W Location Lights",
+    "cat": "Lighting",
+    "cond": "Used",
+    "sold": false,
+    "description": "Sachtler 600W tungsten location lights with barn doors.",
+    "images": [
+      "/equipment/img/lighting/wfi-142-1.jpg",
+      "/equipment/img/lighting/wfi-142-2.jpg",
+      "/equipment/img/lighting/wfi-142-3.jpg"
+    ],
+    "brand": "Sachtler"
+  },
+  {
+    "name": "LED Panel Lights",
+    "cat": "Lighting",
+    "cond": "Used",
+    "sold": false,
+    "description": "Portable LED panel lights for location and interview work.",
+    "images": [
+      "/equipment/img/lighting/wfi-143-1.jpg",
+      "/equipment/img/lighting/wfi-143-2.jpg",
+      "/equipment/img/lighting/wfi-143-3.jpg"
+    ],
+    "brand": "Miscellaneous"
+  },
+  {
+    "name": "Softbox 1000W Light",
+    "cat": "Lighting",
+    "cond": "Used",
+    "sold": false,
+    "description": "1000W softbox light for diffused studio and interview lighting.",
+    "images": [
+      "/equipment/img/lighting/wfi-144-1.jpg",
+      "/equipment/img/lighting/wfi-144-2.jpg"
+    ],
+    "brand": "Miscellaneous"
   }
 ]
