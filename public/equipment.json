@@ -516,7 +516,7 @@
       "/equipment/img/lenses-other/40964-5.jpg",
       "/equipment/img/lenses-other/40964-6.jpg"
     ],
-    "brand": "Skaterscope",
+    "brand": "Miscellaneous",
     "mount": "B4"
   },
   {
@@ -1295,15 +1295,6 @@
     "brand": "Canon"
   },
   {
-    "name": "Canon KJ20x8.2B KRSD HDGC HD Lens with MS-15 Servo Controls",
-    "cat": "Lenses",
-    "cond": "Used",
-    "url": "https://kitplus.com/for-sale/lenses-36/canon/kj20x82b-krsd-hdgc-hd-lens-with-canon-ms-15-zoom-and-focus-servo-controls/32891",
-    "sold": false,
-    "description": "2 sets of Canon KJ20x8.2B KRSD HDGC HD lens with Canon MS-15 zoom and focus servo controls",
-    "brand": "Canon"
-  },
-  {
     "name": "Zeiss Ultra Prime Single Lenses 8-180mm",
     "cat": "Lenses",
     "cond": "Used",
@@ -1311,25 +1302,6 @@
     "sold": false,
     "description": "Single Ultra prime lenses for US$3990+ each: 8, 10, 12, 14, 16, 20, 24, 28, 32, 40, 50, 65, 85, 100, 135 and 180mm",
     "brand": "Carl Zeiss"
-  },
-  {
-    "name": "Sony PMW 500 XDCAM (HD)",
-    "cat": "Cameras",
-    "cond": "Used",
-    "url": "https://kitplus.com/for-sale/hd-39/sony/pmw-500-xdcam/32791",
-    "sold": false,
-    "description": "Sony PMW 500 XDCAM Full HD camera body with Sony HDVF20a high resolution viewfinder",
-    "brand": "Sony"
-  },
-  {
-    "name": "Angenieux HR Zoom 25-250 PL Mount",
-    "cat": "Lenses",
-    "cond": "Used",
-    "url": "https://kitplus.com/for-sale/lenses-36/angenieux/hr-zoom-25-250-pl-mount/32789",
-    "sold": false,
-    "description": "Angenieux 25-250 HR Zoom lens in PL mount",
-    "brand": "Angenieux",
-    "mount": "PL"
   },
   {
     "name": "Professional Canon and Fujinon HD Lenses for Video and Studio Cameras",
@@ -1650,7 +1622,7 @@
       "/equipment/img/accessories/31933-5.jpg",
       "/equipment/img/accessories/31933-6.jpg"
     ],
-    "brand": "WMT Agile"
+    "brand": "Mobile Viewpoint"
   },
   {
     "name": "Cooke S4i Mini PL Lenses f/2.8: 18, 40, 65, 135mm",
@@ -1761,16 +1733,6 @@
     "brand": "Canon"
   },
   {
-    "name": "Fujinon 85-300 PL Mount ZK3.5 x 85 with Servo Grip",
-    "cat": "Lenses",
-    "cond": "Used",
-    "url": "https://kitplus.com/for-sale/lenses-36/fujinon/85-300-pl-mount-zk35-x-85-zk35x85-safb-pl-mount-85-300-zoom-with-servo-grip/31786",
-    "sold": false,
-    "description": "Fujinon 85-300 PL mount ZK3.5 x 85 - SAFB with servo grip and Fujinon protective filter",
-    "brand": "Fujinon",
-    "mount": "PL"
-  },
-  {
     "name": "Vinten Pro Touch / Vinten 5 LF Tripods",
     "cat": "Tripods",
     "cond": "Used",
@@ -1786,15 +1748,6 @@
       "/equipment/img/tripods/31790-6.jpg"
     ],
     "brand": "Vinten"
-  },
-  {
-    "name": "ARRI Master Prime Carl Zeiss 18, 25, 35, 50, 75, 100",
-    "cat": "Lenses",
-    "cond": "Used",
-    "url": "https://kitplus.com/for-sale/lenses-36/arri/master-prime-carl-zeiss-1825355075100/31724",
-    "sold": false,
-    "description": "6 lens Master Prime set in very good condition",
-    "brand": "ARRI"
   },
   {
     "name": "Cooke S4i PL Lenses: 14, 18, 25, 32, 50, 75, 100mm",
@@ -2031,15 +1984,6 @@
     "brand": "Optar"
   },
   {
-    "name": "Angenieux 25-250 Optimo Style (DP)",
-    "cat": "Lenses",
-    "cond": "Used",
-    "url": "https://kitplus.com/for-sale/lenses-36/angenieux/25-250-optimo-style-dp/31243",
-    "sold": false,
-    "description": "Angenieux 25-250 Optimo Style (DP) /i PL lens in pristine condition",
-    "brand": "Angenieux"
-  },
-  {
     "name": "Carl Zeiss PL Mount Supreme Prime 29mm",
     "cat": "Lenses",
     "cond": "Used",
@@ -2132,7 +2076,7 @@
     "cond": "Used",
     "url": "https://kitplus.com/for-sale/accessories-35/matte-box-with-rods-make-an-offer/matte-box-with-rods-make-an-offer/31212",
     "sold": false,
-    "brand": "Unbranded"
+    "brand": "Miscellaneous"
   },
   {
     "name": "VCSC Digital 2000 Video Tap Accessory",
@@ -2157,7 +2101,7 @@
     "url": "https://kitplus.com/for-sale/accessories-35/super/16-camera-magazine/31209",
     "sold": false,
     "description": "Additional Super 16 camera magazine",
-    "brand": "Unbranded"
+    "brand": "Miscellaneous"
   },
   {
     "name": "ARRI 35III with Viewfinder and Accessories (35mm PL)",
@@ -2307,36 +2251,6 @@
     "brand": "Fujinon"
   },
   {
-    "name": "RED 17-50 PL Zoom Lens",
-    "cat": "Lenses",
-    "cond": "Used",
-    "url": "https://kitplus.com/for-sale/lenses-36/red/17-50-pl-zoom-lens/31170",
-    "sold": false,
-    "description": "RED 17-50 PL zoom lens with front and back caps",
-    "brand": "RED",
-    "mount": "PL"
-  },
-  {
-    "name": "ARRI Alura Zoom Fujinon 30-80 PL Lens (Alternate)",
-    "cat": "Lenses",
-    "cond": "Used",
-    "url": "https://kitplus.com/for-sale/lenses-36/arri-alura-zoom-fujinon-30-80-pl-lens/arri-alura-zoom-fujinon-30-80-pl-lens/31146",
-    "sold": false,
-    "description": "Arri Alura Zoom Fujinon 30-80 PL lens in excellent condition. Comes with hard shipping case",
-    "brand": "Fujinon",
-    "mount": "PL"
-  },
-  {
-    "name": "ARRI Alura Zoom 15.5-45 Lens PL Mount (Alternate)",
-    "cat": "Lenses",
-    "cond": "Used",
-    "url": "https://kitplus.com/for-sale/lenses-36/arri-alura/zoom-155-45-lens-pl-mount/31145",
-    "sold": false,
-    "description": "Arri Alura zoom 15.5-45 lens PL mount, in great condition",
-    "brand": "ARRI",
-    "mount": "PL"
-  },
-  {
     "name": "Canon C300 Mk2 4K PL Mount Camera",
     "cat": "Cameras",
     "cond": "Used",
@@ -2377,15 +2291,6 @@
     "sold": false,
     "description": "Arriflex SR 2 HS and Arriflex SR3 HS Package",
     "brand": "ARRI"
-  },
-  {
-    "name": "Fujinon HA14 X 4.5 BERM-M58B Semi Servo Zoom Lens",
-    "cat": "Lenses",
-    "cond": "Used",
-    "url": "https://kitplus.com/for-sale/filters-42/fujinon/ha14-x-45-berm-m58b-semi-servo-zoom-lens/31137",
-    "sold": false,
-    "description": "Fujinon HA14 X 4.5 BERM-M58B semi servo zoom lens, in excellent condition",
-    "brand": "Fujinon"
   },
   {
     "name": "ARRI 35 III Film Cameras for 35mm Film",
@@ -2543,15 +2448,6 @@
     "sold": false,
     "description": "Vinten 250 heavy duty 150mm bowl size tripod head and legs, in good working order",
     "brand": "Vinten"
-  },
-  {
-    "name": "Sony HDC F950",
-    "cat": "Cameras",
-    "cond": "Used",
-    "url": "https://kitplus.com/for-sale/cameras-and-accessories-1/sony/hdc-f950/30182",
-    "sold": false,
-    "description": "Sony HDC F950 camera with Cine Alta features, HDVF 20a viewfinder, and 4:4:4 output",
-    "brand": "Sony"
   },
   {
     "name": "Ikegami 727P HD Studio Camera (Brand New)",
@@ -2822,15 +2718,6 @@
     "brand": "Angenieux"
   },
   {
-    "name": "Carl Zeiss Master Prime Lenses (Full Set)",
-    "cat": "Lenses",
-    "cond": "Used",
-    "url": "https://kitplus.com/for-sale/lenses-36/carl-zeiss/master-prime-lenses/22003",
-    "sold": false,
-    "description": "Carl Zeiss Master Prime lenses",
-    "brand": "Carl Zeiss"
-  },
-  {
     "name": "ARRI 16 SR3 Advanced HD High Speed Camera with Magazine",
     "cat": "Cameras",
     "cond": "Used",
@@ -2856,15 +2743,6 @@
     "sold": false,
     "brand": "GL Optics",
     "mount": "PL"
-  },
-  {
-    "name": "Sony F5 4K Cameras (5 units)",
-    "cat": "Cameras",
-    "cond": "Used",
-    "url": "https://kitplus.com/for-sale/cameras-and-accessories-1/unknown-manufacturer/f5-4k-cameras/20554",
-    "sold": false,
-    "description": "5 nos. high specification Sony F5 4K cameras for sale, with RAW recording",
-    "brand": "Sony"
   },
   {
     "name": "Sony Digi Beta DVW 250 VTRs",
@@ -2987,7 +2865,7 @@
     "name": "Century Precision Optics Series 2000 Canon 200mm Lens",
     "cat": "Lenses",
     "cond": "Used",
-    "brand": "Century Precision Optics",
+    "brand": "Canon",
     "images": [
       "/equipment/img/lenses-other/wfi-04-1.jpg",
       "/equipment/img/lenses-other/wfi-04-2.jpg",
@@ -3246,7 +3124,7 @@
       "/equipment/img/studio-broadcast/wfi-74-2.jpg",
       "/equipment/img/studio-broadcast/wfi-74-3.jpg"
     ],
-    "brand": "Folsom"
+    "brand": "Sony"
   },
   {
     "name": "Sony DPS-V77 Multi-Effect Processor",
@@ -3301,7 +3179,7 @@
       "/equipment/img/studio-broadcast/wfi-78-1.jpg",
       "/equipment/img/studio-broadcast/wfi-78-2.jpg"
     ],
-    "brand": "VADA"
+    "brand": "Miscellaneous"
   },
   {
     "name": "FOR.A VTW-600 Video Typewriter",
@@ -3416,7 +3294,7 @@
       "/equipment/img/studio-broadcast/wfi-86-5.jpg",
       "/equipment/img/studio-broadcast/wfi-86-6.jpg"
     ],
-    "brand": "Unbranded"
+    "brand": "Miscellaneous"
   },
   {
     "name": "ARRI 600, Sachtler 300 and 600 Cool Light, LED Light Kit",
@@ -4100,7 +3978,7 @@
       "/equipment/img/matte-box/wfi-133-5.jpg",
       "/equipment/img/matte-box/wfi-133-6.jpg"
     ],
-    "brand": "Unbranded"
+    "brand": "ARRI"
   },
   {
     "name": "Matte Box MB-15",
@@ -4116,7 +3994,7 @@
       "/equipment/img/matte-box/wfi-134-5.jpg",
       "/equipment/img/matte-box/wfi-134-6.jpg"
     ],
-    "brand": "Unbranded"
+    "brand": "ARRI"
   },
   {
     "name": "EF Mount for Zeiss CP.2 Lens",
