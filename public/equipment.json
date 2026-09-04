@@ -4314,5 +4314,197 @@
       "/equipment/img/lighting/wfi-146-2.jpg"
     ],
     "brand": "Aultra"
+  },
+  {
+    "name": "XEEN 14mm, 35mm and 50mm T3.1 Cinema Lens Set",
+    "cat": "Lenses",
+    "cond": "Used",
+    "sold": false,
+    "description": "Set of three XEEN T3.1 cinema prime lenses — 14mm, 35mm and 50mm, PL mount.",
+    "images": [
+      "/equipment/img/lenses-other/wfi-178-1.jpg",
+      "/equipment/img/lenses-other/wfi-178-2.jpg",
+      "/equipment/img/lenses-other/wfi-178-3.jpg",
+      "/equipment/img/lenses-other/wfi-178-4.jpg",
+      "/equipment/img/lenses-other/wfi-178-5.jpg",
+      "/equipment/img/lenses-other/wfi-178-6.jpg"
+    ],
+    "brand": "Xeen"
+  },
+  {
+    "name": "Cooke S4/i 15-40mm T2 PL Zoom Lens",
+    "cat": "Lenses",
+    "cond": "Used",
+    "sold": false,
+    "description": "Cooke Optics S4/i 15-40mm T2 PL mount zoom lens.",
+    "images": [
+      "/equipment/img/lenses-other/wfi-179-1.jpg",
+      "/equipment/img/lenses-other/wfi-179-2.jpg",
+      "/equipment/img/lenses-other/wfi-179-3.jpg",
+      "/equipment/img/lenses-other/wfi-179-4.jpg",
+      "/equipment/img/lenses-other/wfi-179-5.jpg",
+      "/equipment/img/lenses-other/wfi-179-6.jpg"
+    ],
+    "brand": "Cooke"
+  },
+  {
+    "name": "Borescope Lens for Close-up Macro",
+    "cat": "Lenses",
+    "cond": "Used",
+    "sold": false,
+    "description": "Borescope probe lens for extreme close-up and macro cinematography.",
+    "images": [
+      "/equipment/img/lenses-other/wfi-180-1.jpg",
+      "/equipment/img/lenses-other/wfi-180-2.jpg",
+      "/equipment/img/lenses-other/wfi-180-3.jpg",
+      "/equipment/img/lenses-other/wfi-180-4.jpg",
+      "/equipment/img/lenses-other/wfi-180-5.jpg",
+      "/equipment/img/lenses-other/wfi-180-6.jpg"
+    ],
+    "brand": "Miscellaneous"
+  },
+  {
+    "name": "Fujinon XA17 Lens",
+    "cat": "Lenses",
+    "cond": "Used",
+    "sold": false,
+    "description": "Fujinon XA17 broadcast zoom lens.",
+    "images": [
+      "/equipment/img/lenses-fujinon/wfi-181-1.jpg",
+      "/equipment/img/lenses-fujinon/wfi-181-2.jpg",
+      "/equipment/img/lenses-fujinon/wfi-181-3.jpg",
+      "/equipment/img/lenses-fujinon/wfi-181-4.jpg",
+      "/equipment/img/lenses-fujinon/wfi-181-5.jpg",
+      "/equipment/img/lenses-fujinon/wfi-181-6.jpg"
+    ],
+    "brand": "Fujinon"
+  },
+  {
+    "name": "Schneider Lens with Ikegami Adaptor",
+    "cat": "Lenses",
+    "cond": "Used",
+    "sold": false,
+    "description": "Schneider lens supplied with an Ikegami camera adaptor.",
+    "images": [
+      "/equipment/img/lenses-other/wfi-182-1.jpg",
+      "/equipment/img/lenses-other/wfi-182-2.jpg",
+      "/equipment/img/lenses-other/wfi-182-3.jpg",
+      "/equipment/img/lenses-other/wfi-182-4.jpg",
+      "/equipment/img/lenses-other/wfi-182-5.jpg",
+      "/equipment/img/lenses-other/wfi-182-6.jpg"
+    ],
+    "brand": "Schneider"
+  },
+  {
+    "name": "Canon BG2-2034 Accessory Adaptor",
+    "cat": "Accessories",
+    "cond": "Used",
+    "sold": false,
+    "description": "Canon BG2-2034 accessory adaptor for broadcast lenses.",
+    "images": [
+      "/equipment/img/accessories/wfi-183-1.jpg",
+      "/equipment/img/accessories/wfi-183-2.jpg",
+      "/equipment/img/accessories/wfi-183-3.jpg",
+      "/equipment/img/accessories/wfi-183-4.jpg",
+      "/equipment/img/accessories/wfi-183-5.jpg",
+      "/equipment/img/accessories/wfi-183-6.jpg"
+    ],
+    "brand": "Canon"
+  },
+  {
+    "name": "JVC GY-HM200 Camcorder",
+    "cat": "Cameras",
+    "cond": "Used",
+    "sold": false,
+    "description": "JVC GY-HM200 handheld 4K camcorder.",
+    "images": [
+      "/equipment/img/cameras-other/wfi-184-1.jpg",
+      "/equipment/img/cameras-other/wfi-184-2.jpg",
+      "/equipment/img/cameras-other/wfi-184-3.jpg",
+      "/equipment/img/cameras-other/wfi-184-4.jpg",
+      "/equipment/img/cameras-other/wfi-184-5.jpg",
+      "/equipment/img/cameras-other/wfi-184-6.jpg"
+    ],
+    "brand": "JVC"
+  },
+  {
+    "name": "Sony DSR-500 DVCAM Camcorder",
+    "cat": "Cameras",
+    "cond": "Used",
+    "sold": false,
+    "description": "Sony DSR-500 professional DVCAM camcorder.",
+    "images": [
+      "/equipment/img/cameras-sony/wfi-185-1.jpg",
+      "/equipment/img/cameras-sony/wfi-185-2.jpg",
+      "/equipment/img/cameras-sony/wfi-185-3.jpg",
+      "/equipment/img/cameras-sony/wfi-185-4.jpg",
+      "/equipment/img/cameras-sony/wfi-185-5.jpg",
+      "/equipment/img/cameras-sony/wfi-185-6.jpg"
+    ],
+    "brand": "Sony"
+  },
+  {
+    "name": "Sony PMW-EX3 Camcorder",
+    "cat": "Cameras",
+    "cond": "Used",
+    "sold": false,
+    "description": "Sony PMW-EX3 XDCAM EX handheld camcorder with interchangeable lens mount.",
+    "images": [
+      "/equipment/img/cameras-sony/wfi-186-1.jpg",
+      "/equipment/img/cameras-sony/wfi-186-2.jpg",
+      "/equipment/img/cameras-sony/wfi-186-3.jpg",
+      "/equipment/img/cameras-sony/wfi-186-4.jpg",
+      "/equipment/img/cameras-sony/wfi-186-5.jpg",
+      "/equipment/img/cameras-sony/wfi-186-6.jpg"
+    ],
+    "brand": "Sony"
+  },
+  {
+    "name": "Sony HSC-300 Camera with HSCU-300 Control Unit",
+    "cat": "Cameras",
+    "cond": "Used",
+    "sold": false,
+    "description": "Sony HSC-300 broadcast camera head with matching HSCU-300 camera control unit.",
+    "images": [
+      "/equipment/img/cameras-sony/wfi-187-1.jpg",
+      "/equipment/img/cameras-sony/wfi-187-2.jpg",
+      "/equipment/img/cameras-sony/wfi-187-3.jpg",
+      "/equipment/img/cameras-sony/wfi-187-4.jpg",
+      "/equipment/img/cameras-sony/wfi-187-5.jpg",
+      "/equipment/img/cameras-sony/wfi-187-6.jpg"
+    ],
+    "brand": "Sony"
+  },
+  {
+    "name": "Sound Devices 664 Field Mixer and Recorder",
+    "cat": "Audio",
+    "cond": "Used",
+    "sold": false,
+    "description": "Sound Devices 664 six-channel portable field production mixer with integrated recorder.",
+    "images": [
+      "/equipment/img/audio/wfi-188-1.jpg",
+      "/equipment/img/audio/wfi-188-2.jpg",
+      "/equipment/img/audio/wfi-188-3.jpg",
+      "/equipment/img/audio/wfi-188-4.jpg",
+      "/equipment/img/audio/wfi-188-5.jpg",
+      "/equipment/img/audio/wfi-188-6.jpg"
+    ],
+    "brand": "Sound Devices"
+  },
+  {
+    "name": "Ronford Baker Tripod Legs",
+    "cat": "Tripods",
+    "cond": "Used",
+    "sold": false,
+    "description": "Ronford Baker professional tripod legs, tall and mid-level.",
+    "images": [
+      "/equipment/img/tripods/wfi-189-1.jpg",
+      "/equipment/img/tripods/wfi-189-2.jpg",
+      "/equipment/img/tripods/wfi-189-3.jpg",
+      "/equipment/img/tripods/wfi-189-4.jpg",
+      "/equipment/img/tripods/wfi-189-5.jpg",
+      "/equipment/img/tripods/wfi-189-6.jpg"
+    ],
+    "brand": "Ronford Baker"
   }
 ]
