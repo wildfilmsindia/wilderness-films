@@ -2143,8 +2143,16 @@
     "cond": "Used",
     "url": "https://kitplus.com/for-sale/accessories-35/super/16-camera-magazine/31209",
     "sold": false,
-    "description": "Additional Super 16 camera magazine",
-    "brand": "Miscellaneous"
+    "description": "Super 16 camera magazine, Arriflex 16SR type.",
+    "brand": "Miscellaneous",
+    "images": [
+      "/equipment/img/accessories/wfi-211-1.jpg",
+      "/equipment/img/accessories/wfi-211-2.jpg",
+      "/equipment/img/accessories/wfi-211-3.jpg",
+      "/equipment/img/accessories/wfi-211-4.jpg",
+      "/equipment/img/accessories/wfi-211-5.jpg",
+      "/equipment/img/accessories/wfi-211-6.jpg"
+    ]
   },
   {
     "name": "ARRI 35III with Viewfinder and Accessories (35mm PL)",
@@ -4588,5 +4596,36 @@
       "/equipment/img/tripods/wfi-192-5.jpg"
     ],
     "brand": "Vinten"
+  },
+  {
+    "name": "Sennheiser Shotgun Microphones (Pair, Cased)",
+    "cat": "Audio",
+    "cond": "Used",
+    "sold": false,
+    "description": "Pair of Sennheiser shotgun microphones, supplied in fitted cases.",
+    "images": [
+      "/equipment/img/audio/wfi-212-1.jpg",
+      "/equipment/img/audio/wfi-212-2.jpg",
+      "/equipment/img/audio/wfi-212-3.jpg",
+      "/equipment/img/audio/wfi-212-4.jpg",
+      "/equipment/img/audio/wfi-212-5.jpg"
+    ],
+    "brand": "Sennheiser"
+  },
+  {
+    "name": "Panasonic AJ-HD1400 DVCPRO HD Video Cassette Recorder",
+    "cat": "Recorders & Playback",
+    "cond": "Used",
+    "sold": false,
+    "description": "Panasonic AJ-HD1400 DVCPRO HD digital video cassette recorder with M-cassette adapter.",
+    "images": [
+      "/equipment/img/recorders-playback/wfi-213-1.jpg",
+      "/equipment/img/recorders-playback/wfi-213-2.jpg",
+      "/equipment/img/recorders-playback/wfi-213-3.jpg",
+      "/equipment/img/recorders-playback/wfi-213-4.jpg",
+      "/equipment/img/recorders-playback/wfi-213-5.jpg",
+      "/equipment/img/recorders-playback/wfi-213-6.jpg"
+    ],
+    "brand": "Panasonic"
   }
 ]
