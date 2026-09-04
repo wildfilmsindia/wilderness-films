@@ -2020,7 +2020,15 @@
     "sold": false,
     "description": "Carl Zeiss PL mount Supreme Prime 29mm new lens",
     "brand": "Carl Zeiss",
-    "mount": "PL"
+    "mount": "PL",
+    "images": [
+      "/equipment/img/lenses-carl-zeiss/wfi-204-1.jpg",
+      "/equipment/img/lenses-carl-zeiss/wfi-204-2.jpg",
+      "/equipment/img/lenses-carl-zeiss/wfi-204-3.jpg",
+      "/equipment/img/lenses-carl-zeiss/wfi-204-4.jpg",
+      "/equipment/img/lenses-carl-zeiss/wfi-204-5.jpg",
+      "/equipment/img/lenses-carl-zeiss/wfi-204-6.jpg"
+    ]
   },
   {
     "name": "Carl Zeiss Supreme Prime SIX Lens Kit",
@@ -2145,7 +2153,15 @@
     "url": "https://kitplus.com/for-sale/accessories-35/arri/35iii-with-viewfinder-and-accessories-35-mm-pl/31207",
     "sold": false,
     "brand": "ARRI",
-    "mount": "PL"
+    "mount": "PL",
+    "images": [
+      "/equipment/img/cameras-other/wfi-206-1.jpg",
+      "/equipment/img/cameras-other/wfi-206-2.jpg",
+      "/equipment/img/cameras-other/wfi-206-3.jpg",
+      "/equipment/img/cameras-other/wfi-206-4.jpg",
+      "/equipment/img/cameras-other/wfi-206-5.jpg",
+      "/equipment/img/cameras-other/wfi-206-6.jpg"
+    ]
   },
   {
     "name": "ARRI SR2 HS with Video Assist Accessories",
@@ -2176,7 +2192,15 @@
     "url": "https://kitplus.com/for-sale/lenses-36/zeiss/s16-zoom-10-100-t18/31204",
     "sold": false,
     "description": "10-100 T1/8 Zeiss S16 zoom",
-    "brand": "Carl Zeiss"
+    "brand": "Carl Zeiss",
+    "images": [
+      "/equipment/img/lenses-carl-zeiss/wfi-202-1.jpg",
+      "/equipment/img/lenses-carl-zeiss/wfi-202-2.jpg",
+      "/equipment/img/lenses-carl-zeiss/wfi-202-3.jpg",
+      "/equipment/img/lenses-carl-zeiss/wfi-202-4.jpg",
+      "/equipment/img/lenses-carl-zeiss/wfi-202-5.jpg",
+      "/equipment/img/lenses-carl-zeiss/wfi-202-6.jpg"
+    ]
   },
   {
     "name": "ARRI 16 SR2 HS Super 16 PL Camera Body",
@@ -2260,7 +2284,11 @@
     "url": "https://kitplus.com/for-sale/monitors-87/sony/pvm-9044qm-9-monitor-is-a-high-reoslution-component-crt-monitor/31187",
     "sold": false,
     "description": "Sony PVM 9044QM 9\" monitor is a high resolution component CRT monitor for field use",
-    "brand": "Sony"
+    "brand": "Sony",
+    "images": [
+      "/equipment/img/monitors/wfi-205-1.jpg",
+      "/equipment/img/monitors/wfi-205-2.jpg"
+    ]
   },
   {
     "name": "Vinten Tripods and Heads PT520",
@@ -2301,7 +2329,15 @@
     "url": "https://kitplus.com/for-sale/lenses-36/fujinon/ha42-x-97-with-full-servo-zoom-and-focus-controls/31171",
     "sold": false,
     "description": "Fujinon HA42 X 9.7 with full servo zoom and focus controls and local supporter. No OIS feature. Serviced by Fujinon India",
-    "brand": "Fujinon"
+    "brand": "Fujinon",
+    "images": [
+      "/equipment/img/lenses-fujinon/wfi-200-1.jpg",
+      "/equipment/img/lenses-fujinon/wfi-200-2.jpg",
+      "/equipment/img/lenses-fujinon/wfi-200-3.jpg",
+      "/equipment/img/lenses-fujinon/wfi-200-4.jpg",
+      "/equipment/img/lenses-fujinon/wfi-200-5.jpg",
+      "/equipment/img/lenses-fujinon/wfi-200-6.jpg"
+    ]
   },
   {
     "name": "Canon C300 Mk2 4K PL Mount Camera",
@@ -2351,7 +2387,15 @@
     "url": "https://kitplus.com/for-sale/accessories-35/arriflex/sr-2-and-sr-2sr3/31141",
     "sold": false,
     "description": "Arriflex SR 2 HS and Arriflex SR3 HS Package",
-    "brand": "ARRI"
+    "brand": "ARRI",
+    "images": [
+      "/equipment/img/cameras-other/wfi-207-1.jpg",
+      "/equipment/img/cameras-other/wfi-207-2.jpg",
+      "/equipment/img/cameras-other/wfi-207-3.jpg",
+      "/equipment/img/cameras-other/wfi-207-4.jpg",
+      "/equipment/img/cameras-other/wfi-207-5.jpg",
+      "/equipment/img/cameras-other/wfi-207-6.jpg"
+    ]
   },
   {
     "name": "ARRI 35 III Film Cameras for 35mm Film",
@@ -2394,7 +2438,15 @@
     "url": "https://kitplus.com/for-sale/accessories-35/oconnor/2060-hd-150-mm-bowl-size-tripod-head-and-base-plate/31020",
     "sold": false,
     "description": "O'Connor 2060 HD 150mm bowl size tripod head and base plate, with panning rod, in used condition",
-    "brand": "O'Connor"
+    "brand": "O'Connor",
+    "images": [
+      "/equipment/img/tripods/wfi-210-1.jpg",
+      "/equipment/img/tripods/wfi-210-2.jpg",
+      "/equipment/img/tripods/wfi-210-3.jpg",
+      "/equipment/img/tripods/wfi-210-4.jpg",
+      "/equipment/img/tripods/wfi-210-5.jpg",
+      "/equipment/img/tripods/wfi-210-6.jpg"
+    ]
   },
   {
     "name": "Sony LMD-1530W LCD Monitor with HDMI and HD-SDI",
@@ -2484,7 +2536,15 @@
     "url": "https://kitplus.com/for-sale/lenses-36/fujinon/a20x86brm-sd-lens/30270",
     "sold": false,
     "description": "Fujinon A20x8.6BRM-SD lens 2/3\" bayonet mount lens for professional video cameras. Good condition. Works in SD and HD modes",
-    "brand": "Fujinon"
+    "brand": "Fujinon",
+    "images": [
+      "/equipment/img/lenses-fujinon/wfi-201-1.jpg",
+      "/equipment/img/lenses-fujinon/wfi-201-2.jpg",
+      "/equipment/img/lenses-fujinon/wfi-201-3.jpg",
+      "/equipment/img/lenses-fujinon/wfi-201-4.jpg",
+      "/equipment/img/lenses-fujinon/wfi-201-5.jpg",
+      "/equipment/img/lenses-fujinon/wfi-201-6.jpg"
+    ]
   },
   {
     "name": "Canon MS 210D / MS15 / SS41 IASD Zoom and Servo Kits",
@@ -2597,7 +2657,14 @@
     "sold": false,
     "description": "Nikon 8mm PL lens for professional film wide angle work. Modified by Oppenheimer Camera, Seattle, USA",
     "brand": "Nikon",
-    "mount": "PL"
+    "mount": "PL",
+    "images": [
+      "/equipment/img/lenses-other/wfi-203-1.jpg",
+      "/equipment/img/lenses-other/wfi-203-2.jpg",
+      "/equipment/img/lenses-other/wfi-203-3.jpg",
+      "/equipment/img/lenses-other/wfi-203-4.jpg",
+      "/equipment/img/lenses-other/wfi-203-5.jpg"
+    ]
   },
   {
     "name": "Carl Zeiss Master Prime PL Mount Lenses",
@@ -2680,7 +2747,15 @@
     "cond": "Used",
     "url": "https://kitplus.com/for-sale/lenses-36/canon/j9x52-wide-angle-zoom-lens/29404",
     "sold": false,
-    "brand": "Canon"
+    "brand": "Canon",
+    "images": [
+      "/equipment/img/lenses-canon/wfi-208-1.jpg",
+      "/equipment/img/lenses-canon/wfi-208-2.jpg",
+      "/equipment/img/lenses-canon/wfi-208-3.jpg",
+      "/equipment/img/lenses-canon/wfi-208-4.jpg",
+      "/equipment/img/lenses-canon/wfi-208-5.jpg",
+      "/equipment/img/lenses-canon/wfi-208-6.jpg"
+    ]
   },
   {
     "name": "Canon YJ12x6.5 Wide Angle Zoom Lens",
