@@ -3311,22 +3311,6 @@
     "brand": "Miscellaneous"
   },
   {
-    "name": "ARRI 600, Sachtler 300 and 600 Cool Light, LED Light Kit",
-    "cat": "Lighting",
-    "cond": "Used",
-    "sold": false,
-    "description": "Lighting package: ARRI 600 fresnel, Sachtler 300 and 600 cool lights, and LED panels.",
-    "images": [
-      "/equipment/img/lighting/wfi-87-1.jpg",
-      "/equipment/img/lighting/wfi-87-2.jpg",
-      "/equipment/img/lighting/wfi-87-3.jpg",
-      "/equipment/img/lighting/wfi-87-4.jpg",
-      "/equipment/img/lighting/wfi-87-5.jpg",
-      "/equipment/img/lighting/wfi-87-6.jpg"
-    ],
-    "brand": "ARRI"
-  },
-  {
     "name": "DedoLight HMI Par 400D",
     "cat": "Lighting",
     "cond": "Used",
@@ -4115,5 +4099,30 @@
       "/equipment/img/lighting/wfi-144-2.jpg"
     ],
     "brand": "Miscellaneous"
+  },
+  {
+    "name": "ARRI 600 Fresnel Light",
+    "cat": "Lighting",
+    "cond": "Used",
+    "sold": false,
+    "description": "ARRI 600 tungsten fresnel light with barn doors and stand.",
+    "images": [
+      "/equipment/img/lighting/wfi-145-1.jpg",
+      "/equipment/img/lighting/wfi-145-2.jpg",
+      "/equipment/img/lighting/wfi-145-3.jpg"
+    ],
+    "brand": "ARRI"
+  },
+  {
+    "name": "Aultra Cool Light Soft Panel",
+    "cat": "Lighting",
+    "cond": "Used",
+    "sold": false,
+    "description": "Aultra soft light panel with yoke mount, for even diffused fill lighting.",
+    "images": [
+      "/equipment/img/lighting/wfi-146-1.jpg",
+      "/equipment/img/lighting/wfi-146-2.jpg"
+    ],
+    "brand": "Aultra"
   }
 ]
