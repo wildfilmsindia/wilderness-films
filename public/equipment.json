@@ -2581,15 +2581,6 @@
     ]
   },
   {
-    "name": "ARRI 4x4 Matte Box",
-    "cat": "Matte Box",
-    "cond": "Used",
-    "url": "https://kitplus.com/for-sale/cameras-and-accessories-1/arri/arri-4x4-matte-box/29637",
-    "sold": false,
-    "description": "4X4 professional Arriflex matte box for camera filters, for use with professional film cameras",
-    "brand": "ARRI"
-  },
-  {
     "name": "Arriflex 435 ES 35mm Film Camera with PL Mount",
     "cat": "Cameras",
     "cond": "Used",
@@ -3886,11 +3877,11 @@
     "brand": "Glidecam"
   },
   {
-    "name": "Arriflex MB-20 Matte Box",
+    "name": "ARRI MB-20 4x4 Matte Box",
     "cat": "Matte Box",
     "cond": "Used",
     "sold": false,
-    "description": "Arriflex MB-20 professional matte box with filter stages and French flag.",
+    "description": "ARRI MB-20 professional 4x4 matte box with filter stages and French flag.",
     "images": [
       "/equipment/img/matte-box/wfi-125-1.jpg",
       "/equipment/img/matte-box/wfi-125-2.jpg",
