@@ -1337,7 +1337,12 @@
     "sold": false,
     "description": "Carl Zeiss Distagon Super Speed lens T1.2 16mm lens for Super 16 PL mount",
     "brand": "Carl Zeiss",
-    "mount": "PL"
+    "mount": "PL",
+    "images": [
+      "/equipment/img/lenses-carl-zeiss/wfi-156-1.jpg",
+      "/equipment/img/lenses-carl-zeiss/wfi-156-2.jpg",
+      "/equipment/img/lenses-carl-zeiss/wfi-156-3.jpg"
+    ]
   },
   {
     "name": "Phantom 2K Gold HD Ultra Slow Motion Camera (PL Mount)",
@@ -1421,7 +1426,12 @@
     "cond": "Used",
     "url": "https://kitplus.com/for-sale/lenses-36/zeiss/21-100-lightweight-zoom-lwz/32093",
     "sold": false,
-    "brand": "Carl Zeiss"
+    "brand": "Carl Zeiss",
+    "images": [
+      "/equipment/img/lenses-carl-zeiss/wfi-152-1.jpg",
+      "/equipment/img/lenses-carl-zeiss/wfi-152-2.jpg",
+      "/equipment/img/lenses-carl-zeiss/wfi-152-3.jpg"
+    ]
   },
   {
     "name": "Sony BC-L100CE and BC-L120 Lithium-Ion Battery Chargers",
@@ -1439,7 +1449,15 @@
     "url": "https://kitplus.com/for-sale/lenses-36/carl-zeiss/carl-zeiss-distagon-super-speed-lens/32077",
     "sold": false,
     "description": "Carl Zeiss Distagon Super Speed lens",
-    "brand": "Carl Zeiss"
+    "brand": "Carl Zeiss",
+    "images": [
+      "/equipment/img/lenses-carl-zeiss/wfi-153-1.jpg",
+      "/equipment/img/lenses-carl-zeiss/wfi-153-2.jpg",
+      "/equipment/img/lenses-carl-zeiss/wfi-153-3.jpg",
+      "/equipment/img/lenses-carl-zeiss/wfi-153-4.jpg",
+      "/equipment/img/lenses-carl-zeiss/wfi-153-5.jpg",
+      "/equipment/img/lenses-carl-zeiss/wfi-153-6.jpg"
+    ]
   },
   {
     "name": "Carl Zeiss Master Primes Lens Set 16, 25, 35, 50, 75, 100mm",
@@ -1715,7 +1733,15 @@
     "url": "https://kitplus.com/for-sale/lenses-36/zeiss/supreme-prime/31827",
     "sold": false,
     "description": "Zeiss Supreme Prime 6 Lenses in pristine condition. Carl Zeiss Supreme Prime 25, 29, 35, 50, 85 and 100mm lens set",
-    "brand": "Carl Zeiss"
+    "brand": "Carl Zeiss",
+    "images": [
+      "/equipment/img/lenses-carl-zeiss/wfi-160-1.jpg",
+      "/equipment/img/lenses-carl-zeiss/wfi-160-2.jpg",
+      "/equipment/img/lenses-carl-zeiss/wfi-160-3.jpg",
+      "/equipment/img/lenses-carl-zeiss/wfi-160-4.jpg",
+      "/equipment/img/lenses-carl-zeiss/wfi-160-5.jpg",
+      "/equipment/img/lenses-carl-zeiss/wfi-160-6.jpg"
+    ]
   },
   {
     "name": "Canon HJ22 x 7.6 B IASE Full Servo HD Zoom Lens",
@@ -1766,7 +1792,15 @@
     "url": "https://kitplus.com/for-sale/cameras-and-accessories-1/arriflex/arriflex-16-srii-high-speed-arri-super-16-camera-with-viewfinder-etc/31802",
     "sold": false,
     "description": "Arriflex 16 SRII High Speed Arri Super 16 camera with viewfinder, etc.",
-    "brand": "ARRI"
+    "brand": "ARRI",
+    "images": [
+      "/equipment/img/cameras-other/wfi-161-1.jpg",
+      "/equipment/img/cameras-other/wfi-161-2.jpg",
+      "/equipment/img/cameras-other/wfi-161-3.jpg",
+      "/equipment/img/cameras-other/wfi-161-4.jpg",
+      "/equipment/img/cameras-other/wfi-161-5.jpg",
+      "/equipment/img/cameras-other/wfi-161-6.jpg"
+    ]
   },
   {
     "name": "Zeiss Supreme Prime 6 Lenses (Set 2)",
@@ -1849,7 +1883,15 @@
     "url": "https://kitplus.com/for-sale/hd-39/sony/nex-fs700-full-hd-camera-units-with-viewfinders/31466",
     "sold": false,
     "description": "Sony NEX FS700 Full HD camera units with viewfinders. Can record in Full HD and also do extreme moderate slow motion recording",
-    "brand": "Sony"
+    "brand": "Sony",
+    "images": [
+      "/equipment/img/cameras-sony/wfi-167-1.jpg",
+      "/equipment/img/cameras-sony/wfi-167-2.jpg",
+      "/equipment/img/cameras-sony/wfi-167-3.jpg",
+      "/equipment/img/cameras-sony/wfi-167-4.jpg",
+      "/equipment/img/cameras-sony/wfi-167-5.jpg",
+      "/equipment/img/cameras-sony/wfi-167-6.jpg"
+    ]
   },
   {
     "name": "Optex Macro 200mm Lens",
@@ -1892,7 +1934,13 @@
     "url": "https://kitplus.com/for-sale/cameras-and-accessories-1/panasonic/aj-hdc27e/31432",
     "sold": false,
     "description": "Panasonic AJ-HDC27E Varicam Variable Frame DVC Pro HD camera camcorder with HD High Definition viewfinder",
-    "brand": "Panasonic"
+    "brand": "Panasonic",
+    "images": [
+      "/equipment/img/cameras-other/wfi-169-1.jpg",
+      "/equipment/img/cameras-other/wfi-169-2.jpg",
+      "/equipment/img/cameras-other/wfi-169-3.jpg",
+      "/equipment/img/cameras-other/wfi-169-4.jpg"
+    ]
   },
   {
     "name": "Carl Zeiss Master Prime Lens Set (PL Mount) 18, 25, 35, 50, 75, 100mm",
@@ -2018,7 +2066,13 @@
     "url": "https://kitplus.com/for-sale/viewfinders-78/sony/dxc-537apk-3-ccd-hyper-had/31223",
     "sold": false,
     "description": "Sony DXC 537APK 3 CCD Hyper HAD (Hole Accumulated Diode) colour camera with viewfinder",
-    "brand": "Sony"
+    "brand": "Sony",
+    "images": [
+      "/equipment/img/cameras-sony/wfi-168-1.jpg",
+      "/equipment/img/cameras-sony/wfi-168-2.jpg",
+      "/equipment/img/cameras-sony/wfi-168-3.jpg",
+      "/equipment/img/cameras-sony/wfi-168-4.jpg"
+    ]
   },
   {
     "name": "M2 Redrock Micro Nikon Cinema Lens Adaptor",
@@ -2195,7 +2249,13 @@
     "url": "https://kitplus.com/for-sale/mixers-31/sqn/4s-audio-mixer/31189",
     "sold": false,
     "description": "SQN 4S Series II and IIIa field audio mixers",
-    "brand": "SQN"
+    "brand": "SQN",
+    "images": [
+      "/equipment/img/audio/wfi-172-1.jpg",
+      "/equipment/img/audio/wfi-172-2.jpg",
+      "/equipment/img/audio/wfi-172-3.jpg",
+      "/equipment/img/audio/wfi-172-4.jpg"
+    ]
   },
   {
     "name": "Sony PVM-14M2E 14\" Broadcast Monitor",
@@ -2237,7 +2297,15 @@
     "url": "https://kitplus.com/for-sale/tripods-96/vinten/tripods-and-heads-legs-are-marked-as-pt520/31177",
     "sold": false,
     "description": "Pro Touch from Vinten tripods and heads. Legs are marked as PT520",
-    "brand": "Vinten"
+    "brand": "Vinten",
+    "images": [
+      "/equipment/img/tripods/wfi-175-1.jpg",
+      "/equipment/img/tripods/wfi-175-2.jpg",
+      "/equipment/img/tripods/wfi-175-3.jpg",
+      "/equipment/img/tripods/wfi-175-4.jpg",
+      "/equipment/img/tripods/wfi-175-5.jpg",
+      "/equipment/img/tripods/wfi-175-6.jpg"
+    ]
   },
   {
     "name": "Chrosziel MB 602 Matte Box for 6.6 x 6.6 Filters",
@@ -2285,7 +2353,15 @@
     "url": "https://kitplus.com/for-sale/accessories-35/sony/f5-camera-which-has-4k-and-prores-also/31143",
     "sold": false,
     "description": "Sony F5 camera which has 4K and ProRes also. In good working order",
-    "brand": "Sony"
+    "brand": "Sony",
+    "images": [
+      "/equipment/img/cameras-sony/wfi-165-1.jpg",
+      "/equipment/img/cameras-sony/wfi-165-2.jpg",
+      "/equipment/img/cameras-sony/wfi-165-3.jpg",
+      "/equipment/img/cameras-sony/wfi-165-4.jpg",
+      "/equipment/img/cameras-sony/wfi-165-5.jpg",
+      "/equipment/img/cameras-sony/wfi-165-6.jpg"
+    ]
   },
   {
     "name": "ARRI 35 III, 2C, 435 ES, SR2 HS, SR3 HS Film Cameras",
@@ -2329,7 +2405,15 @@
     "url": "https://kitplus.com/for-sale/accessories-35/vinten/vinten-6-tripod-head-and-vinten-8-tripod-head-and-legs/31071",
     "sold": false,
     "description": "Vinten 6 tripod head and Vinten 8 tripod head and legs. Good camera load bearing capacity",
-    "brand": "Vinten"
+    "brand": "Vinten",
+    "images": [
+      "/equipment/img/tripods/wfi-173-1.jpg",
+      "/equipment/img/tripods/wfi-173-2.jpg",
+      "/equipment/img/tripods/wfi-173-3.jpg",
+      "/equipment/img/tripods/wfi-173-4.jpg",
+      "/equipment/img/tripods/wfi-173-5.jpg",
+      "/equipment/img/tripods/wfi-173-6.jpg"
+    ]
   },
   {
     "name": "O'Connor 2060 HD 150mm Bowl Size Tripod Head",
@@ -2465,7 +2549,15 @@
     "url": "https://kitplus.com/for-sale/accessories-35/vinten/250-heavy-duty-150-mm-bowl-size-tripod/30235",
     "sold": false,
     "description": "Vinten 250 heavy duty 150mm bowl size tripod head and legs, in good working order",
-    "brand": "Vinten"
+    "brand": "Vinten",
+    "images": [
+      "/equipment/img/tripods/wfi-174-1.jpg",
+      "/equipment/img/tripods/wfi-174-2.jpg",
+      "/equipment/img/tripods/wfi-174-3.jpg",
+      "/equipment/img/tripods/wfi-174-4.jpg",
+      "/equipment/img/tripods/wfi-174-5.jpg",
+      "/equipment/img/tripods/wfi-174-6.jpg"
+    ]
   },
   {
     "name": "Ikegami 727P HD Studio Camera (Brand New)",
@@ -2474,7 +2566,12 @@
     "url": "https://kitplus.com/for-sale/cameras-and-accessories-1/ikegami/727p-hd-studio-camera-brand-new/30181",
     "sold": false,
     "description": "Ikegami 727P HD studio camera. Brand new",
-    "brand": "Ikegami"
+    "brand": "Ikegami",
+    "images": [
+      "/equipment/img/cameras-other/wfi-170-1.jpg",
+      "/equipment/img/cameras-other/wfi-170-2.jpg",
+      "/equipment/img/cameras-other/wfi-170-3.jpg"
+    ]
   },
   {
     "name": "Sony F5 4K Cameras",
@@ -2510,7 +2607,15 @@
     "url": "https://kitplus.com/for-sale/accessories-35/sachtler/video-25-plus-tripod-head-carbon-fiber-legs-and-replacement-spreader-for-sale-as-a-set/30024",
     "sold": false,
     "description": "Sachtler Video 25 Plus tripod head, carbon fiber legs and replacement spreader for sale, as a set",
-    "brand": "Sachtler"
+    "brand": "Sachtler",
+    "images": [
+      "/equipment/img/tripods/wfi-176-1.jpg",
+      "/equipment/img/tripods/wfi-176-2.jpg",
+      "/equipment/img/tripods/wfi-176-3.jpg",
+      "/equipment/img/tripods/wfi-176-4.jpg",
+      "/equipment/img/tripods/wfi-176-5.jpg",
+      "/equipment/img/tripods/wfi-176-6.jpg"
+    ]
   },
   {
     "name": "Carl Zeiss PL Mount Ultra Prime Lenses 180mm",
@@ -2588,7 +2693,15 @@
     "sold": false,
     "description": "Arriflex 435 ES 35mm film camera with PL mount (4 perf / perforation), with AVF-2 anamorphic viewfinder",
     "brand": "ARRI",
-    "mount": "PL"
+    "mount": "PL",
+    "images": [
+      "/equipment/img/cameras-other/wfi-163-1.jpg",
+      "/equipment/img/cameras-other/wfi-163-2.jpg",
+      "/equipment/img/cameras-other/wfi-163-3.jpg",
+      "/equipment/img/cameras-other/wfi-163-4.jpg",
+      "/equipment/img/cameras-other/wfi-163-5.jpg",
+      "/equipment/img/cameras-other/wfi-163-6.jpg"
+    ]
   },
   {
     "name": "Canon HJ11x4.7 KLL-SC Wide Angle Film Style HD Zoom Lens",
@@ -2613,7 +2726,14 @@
     "cond": "Used",
     "url": "https://kitplus.com/for-sale/lenses-36/canon/yj12x65-wide-angle-zoom-lens-us950/29403",
     "sold": false,
-    "brand": "Canon"
+    "brand": "Canon",
+    "images": [
+      "/equipment/img/lenses-canon/wfi-158-1.jpg",
+      "/equipment/img/lenses-canon/wfi-158-2.jpg",
+      "/equipment/img/lenses-canon/wfi-158-3.jpg",
+      "/equipment/img/lenses-canon/wfi-158-4.jpg",
+      "/equipment/img/lenses-canon/wfi-158-5.jpg"
+    ]
   },
   {
     "name": "Alesis XT20 ADAT Type II 20 Bit Digital Audio Recorder",
@@ -2657,7 +2777,12 @@
     "sold": false,
     "description": "Carl Zeiss Distagon Super Speed lens T1.2 12mm lens for Super 16 PL mount",
     "brand": "Carl Zeiss",
-    "mount": "PL"
+    "mount": "PL",
+    "images": [
+      "/equipment/img/lenses-carl-zeiss/wfi-154-1.jpg",
+      "/equipment/img/lenses-carl-zeiss/wfi-154-2.jpg",
+      "/equipment/img/lenses-carl-zeiss/wfi-154-3.jpg"
+    ]
   },
   {
     "name": "Carl Zeiss Arriflex Super 16 PL 11-110mm Zoom Lens T2.2",
@@ -2676,7 +2801,12 @@
     "sold": false,
     "description": "Carl Zeiss Distagon Super Speed lens T1.2 25mm lens for Super 16 PL mount",
     "brand": "Carl Zeiss",
-    "mount": "PL"
+    "mount": "PL",
+    "images": [
+      "/equipment/img/lenses-carl-zeiss/wfi-155-1.jpg",
+      "/equipment/img/lenses-carl-zeiss/wfi-155-2.jpg",
+      "/equipment/img/lenses-carl-zeiss/wfi-155-3.jpg"
+    ]
   },
   {
     "name": "Sony AXS-R5 Portable Memory Recorder",
@@ -2715,7 +2845,15 @@
     "cond": "Used",
     "url": "https://kitplus.com/for-sale/cameras-and-accessories-1/sony/xdcam-xavc-fx9/27219",
     "sold": false,
-    "brand": "Sony"
+    "brand": "Sony",
+    "images": [
+      "/equipment/img/cameras-sony/wfi-166-1.jpg",
+      "/equipment/img/cameras-sony/wfi-166-2.jpg",
+      "/equipment/img/cameras-sony/wfi-166-3.jpg",
+      "/equipment/img/cameras-sony/wfi-166-4.jpg",
+      "/equipment/img/cameras-sony/wfi-166-5.jpg",
+      "/equipment/img/cameras-sony/wfi-166-6.jpg"
+    ]
   },
   {
     "name": "Canon C500MkII 4K Full Frame Sensor EF Mount Camera",
@@ -2725,7 +2863,15 @@
     "sold": false,
     "description": "Canon C500MkII 4K Full Frame sensor EF mount camera in showroom condition",
     "brand": "Canon",
-    "mount": "EF"
+    "mount": "EF",
+    "images": [
+      "/equipment/img/cameras-other/wfi-171-1.jpg",
+      "/equipment/img/cameras-other/wfi-171-2.jpg",
+      "/equipment/img/cameras-other/wfi-171-3.jpg",
+      "/equipment/img/cameras-other/wfi-171-4.jpg",
+      "/equipment/img/cameras-other/wfi-171-5.jpg",
+      "/equipment/img/cameras-other/wfi-171-6.jpg"
+    ]
   },
   {
     "name": "Canon CJ24EX7.5 IASE 4K UHD 2/3\" Portable Lens",
@@ -2733,7 +2879,13 @@
     "cond": "Used",
     "url": "https://kitplus.com/for-sale/lenses-36/canon/cj24ex75-iase-4k-uhd-23/22488",
     "sold": false,
-    "brand": "Canon"
+    "brand": "Canon",
+    "images": [
+      "/equipment/img/lenses-canon/wfi-159-1.jpg",
+      "/equipment/img/lenses-canon/wfi-159-2.jpg",
+      "/equipment/img/lenses-canon/wfi-159-3.jpg",
+      "/equipment/img/lenses-canon/wfi-159-4.jpg"
+    ]
   },
   {
     "name": "Angenieux HR Zoom 11.5-138mm T2.3",
@@ -2742,7 +2894,15 @@
     "url": "https://kitplus.com/for-sale/lenses-36/angenieux/hr-zoom-115-138-mm-t23/26720",
     "sold": false,
     "description": "Angenieux HR Zoom 11.5 - 138mm T2.3",
-    "brand": "Angenieux"
+    "brand": "Angenieux",
+    "images": [
+      "/equipment/img/lenses-other/wfi-157-1.jpg",
+      "/equipment/img/lenses-other/wfi-157-2.jpg",
+      "/equipment/img/lenses-other/wfi-157-3.jpg",
+      "/equipment/img/lenses-other/wfi-157-4.jpg",
+      "/equipment/img/lenses-other/wfi-157-5.jpg",
+      "/equipment/img/lenses-other/wfi-157-6.jpg"
+    ]
   },
   {
     "name": "ARRI 16 SR3 Advanced HD High Speed Camera with Magazine",
@@ -2751,7 +2911,15 @@
     "url": "https://kitplus.com/for-sale/cameras-and-accessories-1/arri/16-sr3-advanced-hd-high-speed-camera-with-magazine/6150",
     "sold": false,
     "description": "Arriflex 16 SR3 Advanced HD High Speed camera with magazine",
-    "brand": "ARRI"
+    "brand": "ARRI",
+    "images": [
+      "/equipment/img/cameras-other/wfi-162-1.jpg",
+      "/equipment/img/cameras-other/wfi-162-2.jpg",
+      "/equipment/img/cameras-other/wfi-162-3.jpg",
+      "/equipment/img/cameras-other/wfi-162-4.jpg",
+      "/equipment/img/cameras-other/wfi-162-5.jpg",
+      "/equipment/img/cameras-other/wfi-162-6.jpg"
+    ]
   },
   {
     "name": "ARRI 435 Xtreme with AVF-2 Anamorphic Viewfinder",
@@ -2760,7 +2928,11 @@
     "url": "https://kitplus.com/for-sale/cameras-and-accessories-1/arri/435-xtreme-arri-avf-2-anamorphic-viewfinder/5991",
     "sold": false,
     "description": "Arriflex 435 Xtreme Arri AVF-2 Anamorphic viewfinder, with tripod base plate and magazine",
-    "brand": "ARRI"
+    "brand": "ARRI",
+    "images": [
+      "/equipment/img/cameras-other/wfi-164-1.jpg",
+      "/equipment/img/cameras-other/wfi-164-2.jpg"
+    ]
   },
   {
     "name": "GL Optics Compact Zoom 70-200 PL Mount",
@@ -2796,7 +2968,12 @@
     "url": "https://kitplus.com/for-sale/cameras-and-accessories-1/red/v-mount-battery-plate-adaptor/20119",
     "sold": false,
     "description": "V-Mount Battery Plate adaptor for use with RED Helium or Dragon",
-    "brand": "RED"
+    "brand": "RED",
+    "images": [
+      "/equipment/img/power-charging/wfi-177-1.jpg",
+      "/equipment/img/power-charging/wfi-177-2.jpg",
+      "/equipment/img/power-charging/wfi-177-3.jpg"
+    ]
   },
   {
     "name": "Canon CJ45",
