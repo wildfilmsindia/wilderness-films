@@ -2126,7 +2126,13 @@
     "cond": "Used",
     "url": "https://kitplus.com/for-sale/lenses-36/angenieux/12-120/31205",
     "sold": false,
-    "brand": "Angenieux"
+    "brand": "Angenieux",
+    "images": [
+      "/equipment/img/lenses-other/wfi-138-1.jpg",
+      "/equipment/img/lenses-other/wfi-138-2.jpg",
+      "/equipment/img/lenses-other/wfi-138-3.jpg",
+      "/equipment/img/lenses-other/wfi-138-4.jpg"
+    ]
   },
   {
     "name": "Zeiss S16 Zoom 10-100 T1/8",
@@ -2522,7 +2528,15 @@
     "sold": false,
     "description": "18, 25, 35, 50, 75 and 100mm lenses. Three sets available with optional extra focal lengths of 14, 16, 40, 65 and 150mm",
     "brand": "Carl Zeiss",
-    "mount": "PL"
+    "mount": "PL",
+    "images": [
+      "/equipment/img/lenses-carl-zeiss/wfi-139-1.jpg",
+      "/equipment/img/lenses-carl-zeiss/wfi-139-2.jpg",
+      "/equipment/img/lenses-carl-zeiss/wfi-139-3.jpg",
+      "/equipment/img/lenses-carl-zeiss/wfi-139-4.jpg",
+      "/equipment/img/lenses-carl-zeiss/wfi-139-5.jpg",
+      "/equipment/img/lenses-carl-zeiss/wfi-139-6.jpg"
+    ]
   },
   {
     "name": "Optika Elite 8mm T1.2 Aperture Super 16 Lens",
