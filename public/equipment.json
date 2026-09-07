@@ -4962,5 +4962,20 @@
       "/equipment/img/tripods/wfi-262-6.jpg"
     ],
     "brand": "Sachtler"
+  },
+  {
+    "name": "Nikon AF Nikkor 70-300mm f/4-5.6G Lens",
+    "cat": "Lenses",
+    "cond": "Used",
+    "sold": false,
+    "description": "Nikon AF Nikkor 70-300mm f/4-5.6G telephoto zoom lens, F mount.",
+    "images": [
+      "/equipment/img/lenses-other/wfi-270-1.jpg",
+      "/equipment/img/lenses-other/wfi-270-2.jpg",
+      "/equipment/img/lenses-other/wfi-270-3.jpg",
+      "/equipment/img/lenses-other/wfi-270-4.jpg",
+      "/equipment/img/lenses-other/wfi-270-5.jpg"
+    ],
+    "brand": "Nikon"
   }
 ]
