@@ -2015,24 +2015,6 @@
     "brand": "Ikegami"
   },
   {
-    "name": "ARRI 35 III Camera Body with Super 16 Lenses and 16SR2 HS",
-    "cat": "Cameras",
-    "cond": "Used",
-    "url": "https://kitplus.com/for-sale/accessories-35/arri/35-iii-camera-body-and-some-super-16-lenses-16sr2-hs-camera-body-with-one-magazine-arri-35-iii-35-mm-film-camera-body-with-viewfinder/31215",
-    "sold": false,
-    "description": "ARRI 35 III camera body and some Super 16 lenses, 16SR2 HS camera body with one magazine, Arri 35 III 35mm film camera body with viewfinder",
-    "brand": "ARRI"
-  },
-  {
-    "name": "ARRI 35 III 35mm Film Camera Body with Viewfinder and Magazine",
-    "cat": "Cameras",
-    "cond": "Used",
-    "url": "https://kitplus.com/for-sale/accessories-35/arri/35-iii-35-mm-film-camera-body-with-viewfinder-and-one-magazine/31214",
-    "sold": false,
-    "description": "Arri 35 III 35mm film camera body with viewfinder and one magazine",
-    "brand": "ARRI"
-  },
-  {
     "name": "Media Logic 5 Digit Speed Control",
     "cat": "Accessories",
     "cond": "Used",
@@ -2099,14 +2081,6 @@
     ]
   },
   {
-    "name": "ARRI SR2 HS with Video Assist Accessories",
-    "cat": "Cameras",
-    "cond": "Used",
-    "url": "https://kitplus.com/for-sale/accessories-35/arri/sr2-hs-with-video-assist-accessories/31206",
-    "sold": false,
-    "brand": "ARRI"
-  },
-  {
     "name": "Angenieux 12-120",
     "cat": "Lenses",
     "cond": "Used",
@@ -2136,16 +2110,6 @@
       "/equipment/img/lenses-carl-zeiss/wfi-202-5.jpg",
       "/equipment/img/lenses-carl-zeiss/wfi-202-6.jpg"
     ]
-  },
-  {
-    "name": "ARRI 16 SR2 HS Super 16 PL Camera Body",
-    "cat": "Cameras",
-    "cond": "Used",
-    "url": "https://kitplus.com/for-sale/accessories-35/arri/16-sr2-hs-super-16-pl-camera-body/31203",
-    "sold": false,
-    "description": "Arri 16 SR2 HS Super 16 PL camera body. Some of the video assist/tap accessories",
-    "brand": "ARRI",
-    "mount": "PL"
   },
   {
     "name": "Carl Zeiss Supreme Prime 25, 29, 35, 50, 85, 100mm Lens Set",
@@ -2290,12 +2254,12 @@
     ]
   },
   {
-    "name": "ARRI 35 III, 2C, 435 ES, SR2 HS, SR3 HS Film Cameras",
+    "name": "ARRI 35mm and Super 16 Film Cameras",
     "cat": "Cameras",
     "cond": "Used",
     "url": "https://kitplus.com/for-sale/accessories-35/arri/35-iii-2c-435-es-sr2-hs-sr3-hs-sr2-hs/31142",
     "sold": false,
-    "description": "ARRI 35 III, 2C, 435 ES, SR2 HS, SR3 HS, SR2 HS film cameras for sale",
+    "description": "ARRI film camera bodies and kit — 35 III, 2C, 435 ES, SR2 HS and SR3 HS. Individual bodies with serial numbers are listed separately. Please enquire for availability and configuration.",
     "brand": "ARRI"
   },
   {
