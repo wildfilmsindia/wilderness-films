@@ -106,9 +106,8 @@
     "sold": false,
     "description": "ARRI Zeiss Ultra Prime 14mm T1.9 - a versatile ultra-wide cinema lens with outstanding sharpness and minimal distortion",
     "images": [
-      "/equipment/img/lenses-arri/45521-1.jpg",
-      "/equipment/img/lenses-arri/45521-2.jpg",
-      "/equipment/img/lenses-arri/45521-3.jpg"
+      "/equipment/img/lenses-carl-zeiss/wfi-215-1.jpg",
+      "/equipment/img/lenses-carl-zeiss/wfi-215-2.jpg"
     ],
     "brand": "ARRI"
   },
@@ -3035,7 +3034,10 @@
     "url": "https://kitplus.com/for-sale/lenses-36/arri/ultra-prime/12182",
     "sold": false,
     "description": "Zeiss Ultra Prime Lens Set",
-    "brand": "ARRI"
+    "brand": "ARRI",
+    "images": [
+      "/equipment/img/lenses-carl-zeiss/wfi-214-1.jpg"
+    ]
   },
   {
     "name": "Fujinon HA13 X 4.5 BERM Wide Angle HD Zoom Lens",
@@ -4627,5 +4629,30 @@
       "/equipment/img/recorders-playback/wfi-213-6.jpg"
     ],
     "brand": "Panasonic"
+  },
+  {
+    "name": "MTO Maksutov 1000mm f/10 Mirror Lens (1958)",
+    "cat": "Lenses",
+    "cond": "Used",
+    "sold": false,
+    "description": "1958 MTO Maksutov Grand Prix 1000mm f/10 catadioptric mirror lens.",
+    "images": [
+      "/equipment/img/lenses-other/wfi-216-1.jpg",
+      "/equipment/img/lenses-other/wfi-216-2.jpg",
+      "/equipment/img/lenses-other/wfi-216-3.jpg",
+      "/equipment/img/lenses-other/wfi-216-4.jpg"
+    ],
+    "brand": "MTO"
+  },
+  {
+    "name": "ARRI Alexa Mini Camera",
+    "cat": "Cameras",
+    "cond": "Used",
+    "sold": false,
+    "description": "ARRI Alexa Mini compact digital cinema camera.",
+    "images": [
+      "/equipment/img/cameras-other/wfi-217-1.jpg"
+    ],
+    "brand": "ARRI"
   }
 ]
