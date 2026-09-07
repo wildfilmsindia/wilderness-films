@@ -4882,5 +4882,37 @@
       "/equipment/img/lenses-canon/wfi-242-6.jpg"
     ],
     "brand": "Canon"
+  },
+  {
+    "name": "Vinten Vision 22 Fluid Head with Tripod Legs",
+    "cat": "Tripods",
+    "cond": "Used",
+    "sold": false,
+    "description": "Vinten Vision 22 fluid head with pan bar, on tripod legs.",
+    "images": [
+      "/equipment/img/tripods/wfi-250-1.jpg",
+      "/equipment/img/tripods/wfi-250-2.jpg",
+      "/equipment/img/tripods/wfi-250-3.jpg",
+      "/equipment/img/tripods/wfi-250-4.jpg",
+      "/equipment/img/tripods/wfi-250-5.jpg",
+      "/equipment/img/tripods/wfi-250-6.jpg"
+    ],
+    "brand": "Vinten"
+  },
+  {
+    "name": "Fujinon Super Wide TV Zoom Lens (Wide Power)",
+    "cat": "Lenses",
+    "cond": "Used",
+    "sold": false,
+    "description": "Fujinon Super Wide TV zoom lens with Wide Power servo grip and lens hood.",
+    "images": [
+      "/equipment/img/lenses-fujinon/wfi-251-1.jpg",
+      "/equipment/img/lenses-fujinon/wfi-251-2.jpg",
+      "/equipment/img/lenses-fujinon/wfi-251-3.jpg",
+      "/equipment/img/lenses-fujinon/wfi-251-4.jpg",
+      "/equipment/img/lenses-fujinon/wfi-251-5.jpg",
+      "/equipment/img/lenses-fujinon/wfi-251-6.jpg"
+    ],
+    "brand": "Fujinon"
   }
 ]
