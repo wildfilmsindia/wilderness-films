@@ -1361,23 +1361,6 @@
     "brand": "Sony"
   },
   {
-    "name": "Sony PDW700 XDCAM",
-    "cat": "Cameras",
-    "cond": "Used",
-    "url": "https://kitplus.com/for-sale/cameras-and-accessories-1/sony/pdw700-xdcam/32224",
-    "sold": false,
-    "description": "Sony PDW700 XDCAM 2/3\" bayonet mount professional Blu Ray XDCAM disc based recording system",
-    "images": [
-      "/equipment/img/cameras-sony/32224-1.jpg",
-      "/equipment/img/cameras-sony/32224-2.jpg",
-      "/equipment/img/cameras-sony/32224-3.jpg",
-      "/equipment/img/cameras-sony/32224-4.jpg",
-      "/equipment/img/cameras-sony/32224-5.jpg",
-      "/equipment/img/cameras-sony/32224-6.jpg"
-    ],
-    "brand": "Sony"
-  },
-  {
     "name": "Fujinon UA23X7.6BERD-S10 4K Premier Tele Lens with Full Servo and 2x Extender",
     "cat": "Lenses",
     "cond": "Used",
@@ -1651,24 +1634,6 @@
     "sold": false,
     "description": "6 lens sets x 2 Cooke S4i sets (2 such sets available)",
     "brand": "Cooke"
-  },
-  {
-    "name": "Fujinon Premier Cabrio PL Lens 25-300 Zoom (New)",
-    "cat": "Lenses",
-    "cond": "New",
-    "url": "https://kitplus.com/for-sale/lenses-36/fujinon/premier-cabrio-pl-lens-25-300-zoom/31831",
-    "sold": false,
-    "description": "Fujinon Premier Cabrio PL lens 25-300 zoom",
-    "images": [
-      "/equipment/img/lenses-fujinon/31831-1.jpg",
-      "/equipment/img/lenses-fujinon/31831-2.jpg",
-      "/equipment/img/lenses-fujinon/31831-3.jpg",
-      "/equipment/img/lenses-fujinon/31831-4.jpg",
-      "/equipment/img/lenses-fujinon/31831-5.jpg",
-      "/equipment/img/lenses-fujinon/31831-6.jpg"
-    ],
-    "brand": "Fujinon",
-    "mount": "PL"
   },
   {
     "name": "Fujinon ZK3.5x85-SAFB PL Mount 85-300 Zoom with Servo Grip",
