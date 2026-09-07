@@ -1105,36 +1105,19 @@
     "brand": "Panasonic"
   },
   {
-    "name": "Sony PMW F5 Camera with 4K Recording and 350 Viewfinder",
+    "name": "Sony PMW-F5 4K Cinema Camera",
     "cat": "Cameras",
     "cond": "Used",
     "url": "https://kitplus.com/for-sale/hd-39/sony/pmw-f5-camera-with-4k-recording-and-350-viewfinder/33984",
     "sold": false,
-    "description": "Sony PMW F5 camera with 4K recording and 350 viewfinder and top plate / side panels accessories",
+    "description": "Sony PMW-F5 Super 35 4K cinema camera with ProRes and RAW recording. Supplied with 350 or 100 viewfinder, top plate and side panel accessories. Several units available — please enquire for quantity and configuration.",
     "images": [
       "/equipment/img/cameras-sony/33984-1.jpg",
       "/equipment/img/cameras-sony/33984-2.jpg",
-      "/equipment/img/cameras-sony/33984-3.jpg",
-      "/equipment/img/cameras-sony/33984-4.jpg",
-      "/equipment/img/cameras-sony/33984-5.jpg",
-      "/equipment/img/cameras-sony/33984-6.jpg"
-    ],
-    "brand": "Sony"
-  },
-  {
-    "name": "Sony PMW F5 Camera with 350 Viewfinder",
-    "cat": "Cameras",
-    "cond": "Used",
-    "url": "https://kitplus.com/for-sale/hd-39/sony/pmw-f5-camera-with-350-viewfinder/33983",
-    "sold": false,
-    "description": "Sony PMW F5 camera with 350 viewfinder and top plate / side panels accessories",
-    "images": [
       "/equipment/img/cameras-sony/33983-1.jpg",
       "/equipment/img/cameras-sony/33983-2.jpg",
-      "/equipment/img/cameras-sony/33983-3.jpg",
-      "/equipment/img/cameras-sony/33983-4.jpg",
-      "/equipment/img/cameras-sony/33983-5.jpg",
-      "/equipment/img/cameras-sony/33983-6.jpg"
+      "/equipment/img/cameras-sony/wfi-165-1.jpg",
+      "/equipment/img/cameras-sony/wfi-165-2.jpg"
     ],
     "brand": "Sony"
   },
@@ -1812,24 +1795,6 @@
     "mount": "PL"
   },
   {
-    "name": "THREE Sony F5 Cameras with 4K",
-    "cat": "Cameras",
-    "cond": "Used",
-    "url": "https://kitplus.com/for-sale/cameras-and-accessories-1/three-sony/f5-cameras-for-sale-with-4k-two-with-100-and-1-with-350-viewfinders/31625",
-    "sold": false,
-    "description": "Sony F5 cameras for sale with 4K, two with 100 and 1 with 350 viewfinders",
-    "brand": "Sony"
-  },
-  {
-    "name": "Sony F5 Camera",
-    "cat": "Cameras",
-    "cond": "Used",
-    "url": "https://kitplus.com/for-sale/cameras-and-accessories-1/sony/f5-camera/31624",
-    "sold": false,
-    "description": "Sony F5 camera with ProRes, 4K and viewfinder",
-    "brand": "Sony"
-  },
-  {
     "name": "Sony 512GB S55 Series SRMemory Card",
     "cat": "Recorders & Playback",
     "cond": "Used",
@@ -2362,23 +2327,6 @@
     ]
   },
   {
-    "name": "Sony F5 Camera with 4K and ProRes",
-    "cat": "Cameras",
-    "cond": "Used",
-    "url": "https://kitplus.com/for-sale/accessories-35/sony/f5-camera-which-has-4k-and-prores-also/31143",
-    "sold": false,
-    "description": "Sony F5 camera which has 4K and ProRes also. In good working order",
-    "brand": "Sony",
-    "images": [
-      "/equipment/img/cameras-sony/wfi-165-1.jpg",
-      "/equipment/img/cameras-sony/wfi-165-2.jpg",
-      "/equipment/img/cameras-sony/wfi-165-3.jpg",
-      "/equipment/img/cameras-sony/wfi-165-4.jpg",
-      "/equipment/img/cameras-sony/wfi-165-5.jpg",
-      "/equipment/img/cameras-sony/wfi-165-6.jpg"
-    ]
-  },
-  {
     "name": "ARRI 35 III, 2C, 435 ES, SR2 HS, SR3 HS Film Cameras",
     "cat": "Cameras",
     "cond": "Used",
@@ -2617,15 +2565,6 @@
       "/equipment/img/cameras-other/wfi-170-2.jpg",
       "/equipment/img/cameras-other/wfi-170-3.jpg"
     ]
-  },
-  {
-    "name": "Sony F5 4K Cameras",
-    "cat": "Cameras",
-    "cond": "Used",
-    "url": "https://kitplus.com/for-sale/cameras-and-accessories-1/sony/f5-4k-cameras/30180",
-    "sold": false,
-    "description": "4 nos. high specification Sony F5 4K cameras for sale, with RAW recording",
-    "brand": "Sony"
   },
   {
     "name": "Canon EOS C300 Mark II 4K PL Mount Camera",
@@ -3068,15 +3007,6 @@
     "sold": false,
     "brand": "Canon",
     "mount": "PL"
-  },
-  {
-    "name": "Sony F5 Cameras (6 units)",
-    "cat": "Cameras",
-    "cond": "Used",
-    "url": "https://kitplus.com/for-sale/accessories-35/sony/sony-f5-cameras/29392",
-    "sold": false,
-    "description": "6 units of Sony F5 cameras; each comes with a 350 viewfinder and has 4K",
-    "brand": "Sony"
   },
   {
     "name": "Fujinon ESM-D52B High-Speed Digital Zoom Servo Module",
