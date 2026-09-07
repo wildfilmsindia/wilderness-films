@@ -4914,5 +4914,53 @@
       "/equipment/img/lenses-fujinon/wfi-251-6.jpg"
     ],
     "brand": "Fujinon"
+  },
+  {
+    "name": "Sennheiser MKH 50 P48 Microphone with SKP 500 G2 Transmitter",
+    "cat": "Audio",
+    "cond": "Used",
+    "sold": false,
+    "description": "Sennheiser MKH 50 P48 supercardioid condenser microphone with SKP 500 G2 plug-on transmitter, shock mount and pouch, in a fitted case.",
+    "images": [
+      "/equipment/img/audio/wfi-260-1.jpg",
+      "/equipment/img/audio/wfi-260-2.jpg",
+      "/equipment/img/audio/wfi-260-3.jpg",
+      "/equipment/img/audio/wfi-260-4.jpg",
+      "/equipment/img/audio/wfi-260-5.jpg",
+      "/equipment/img/audio/wfi-260-6.jpg"
+    ],
+    "brand": "Sennheiser"
+  },
+  {
+    "name": "Sony Handycam 3CCD DV Camcorder",
+    "cat": "Cameras",
+    "cond": "Used",
+    "sold": false,
+    "description": "Sony Handycam 3CCD DV camcorder with progressive scan, 48x digital zoom and precision LCD monitor.",
+    "images": [
+      "/equipment/img/cameras-sony/wfi-261-1.jpg",
+      "/equipment/img/cameras-sony/wfi-261-2.jpg",
+      "/equipment/img/cameras-sony/wfi-261-3.jpg",
+      "/equipment/img/cameras-sony/wfi-261-4.jpg",
+      "/equipment/img/cameras-sony/wfi-261-5.jpg",
+      "/equipment/img/cameras-sony/wfi-261-6.jpg"
+    ],
+    "brand": "Sony"
+  },
+  {
+    "name": "Sachtler Carbon Fibre Tripod with Fluid Head",
+    "cat": "Tripods",
+    "cond": "Used",
+    "sold": false,
+    "description": "Sachtler carbon fibre tripod legs with fluid head, spreader and pan bar.",
+    "images": [
+      "/equipment/img/tripods/wfi-262-1.jpg",
+      "/equipment/img/tripods/wfi-262-2.jpg",
+      "/equipment/img/tripods/wfi-262-3.jpg",
+      "/equipment/img/tripods/wfi-262-4.jpg",
+      "/equipment/img/tripods/wfi-262-5.jpg",
+      "/equipment/img/tripods/wfi-262-6.jpg"
+    ],
+    "brand": "Sachtler"
   }
 ]
