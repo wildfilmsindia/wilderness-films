@@ -4834,5 +4834,53 @@
       "/equipment/img/lenses-canon/wfi-233-6.jpg"
     ],
     "brand": "Canon"
+  },
+  {
+    "name": "Sony DXC-D55WSP Digital Video Camera (No. 401043)",
+    "cat": "Cameras",
+    "cond": "Used",
+    "sold": false,
+    "description": "Sony DXC-D55WSP 3-CCD digital video camera, made in UK. Serial no. 401043.",
+    "images": [
+      "/equipment/img/cameras-sony/wfi-240-1.jpg",
+      "/equipment/img/cameras-sony/wfi-240-2.jpg",
+      "/equipment/img/cameras-sony/wfi-240-3.jpg",
+      "/equipment/img/cameras-sony/wfi-240-4.jpg",
+      "/equipment/img/cameras-sony/wfi-240-5.jpg",
+      "/equipment/img/cameras-sony/wfi-240-6.jpg"
+    ],
+    "brand": "Sony"
+  },
+  {
+    "name": "Sony Camcorder with Fujinon XA16x8A Zoom Lens",
+    "cat": "Cameras",
+    "cond": "Used",
+    "sold": false,
+    "description": "Sony broadcast camcorder fitted with a Fujinon XA16x8A 1:1.9 zoom lens and viewfinder.",
+    "images": [
+      "/equipment/img/cameras-sony/wfi-241-1.jpg",
+      "/equipment/img/cameras-sony/wfi-241-2.jpg",
+      "/equipment/img/cameras-sony/wfi-241-3.jpg",
+      "/equipment/img/cameras-sony/wfi-241-4.jpg",
+      "/equipment/img/cameras-sony/wfi-241-5.jpg",
+      "/equipment/img/cameras-sony/wfi-241-6.jpg"
+    ],
+    "brand": "Sony"
+  },
+  {
+    "name": "Canon Vintage Telephoto Lens (No. 72700)",
+    "cat": "Lenses",
+    "cond": "Used",
+    "sold": false,
+    "description": "Vintage Canon telephoto lens with hood, marked Canon Camera Co. Japan. Serial no. 72700.",
+    "images": [
+      "/equipment/img/lenses-canon/wfi-242-1.jpg",
+      "/equipment/img/lenses-canon/wfi-242-2.jpg",
+      "/equipment/img/lenses-canon/wfi-242-3.jpg",
+      "/equipment/img/lenses-canon/wfi-242-4.jpg",
+      "/equipment/img/lenses-canon/wfi-242-5.jpg",
+      "/equipment/img/lenses-canon/wfi-242-6.jpg"
+    ],
+    "brand": "Canon"
   }
 ]
