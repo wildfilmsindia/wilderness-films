@@ -1744,8 +1744,16 @@
     "cond": "Used",
     "url": "https://kitplus.com/for-sale/lenses-36/zeiss/supreme-prime-6-lenses/31800",
     "sold": false,
-    "description": "Zeiss Supreme Prime 6 Lenses in pristine condition. Carl Zeiss Supreme Prime 25, 29, 35, 50, 85 and 100mm lens set",
-    "brand": "Carl Zeiss"
+    "description": "Second set of Zeiss Supreme Prime lenses, PL mount, T1.5. A separate set from our other Supreme Prime kit — please enquire for the focal lengths and condition of each.",
+    "brand": "Carl Zeiss",
+    "images": [
+      "/equipment/img/lenses-carl-zeiss/wfi-273-1.jpg",
+      "/equipment/img/lenses-carl-zeiss/wfi-273-2.jpg",
+      "/equipment/img/lenses-carl-zeiss/wfi-273-3.jpg",
+      "/equipment/img/lenses-carl-zeiss/wfi-273-4.jpg",
+      "/equipment/img/lenses-carl-zeiss/wfi-273-5.jpg",
+      "/equipment/img/lenses-carl-zeiss/wfi-273-6.jpg"
+    ]
   },
   {
     "name": "Canon CN20x50 (50-1000mm PL Lens with 1.5x Tele-Convertor)",
