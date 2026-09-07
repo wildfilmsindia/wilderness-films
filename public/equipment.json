@@ -4774,5 +4774,65 @@
       "/equipment/img/cameras-other/wfi-227-4.jpg"
     ],
     "brand": "Arriflex"
+  },
+  {
+    "name": "Sony ECM-77B Electret Condenser Microphones",
+    "cat": "Audio",
+    "cond": "Used",
+    "sold": false,
+    "description": "Sony ECM-77B electret condenser lavalier microphones, supplied in fitted cases with accessories.",
+    "images": [
+      "/equipment/img/audio/wfi-230-1.jpg",
+      "/equipment/img/audio/wfi-230-2.jpg",
+      "/equipment/img/audio/wfi-230-3.jpg",
+      "/equipment/img/audio/wfi-230-4.jpg",
+      "/equipment/img/audio/wfi-230-5.jpg",
+      "/equipment/img/audio/wfi-230-6.jpg"
+    ],
+    "brand": "Sony"
+  },
+  {
+    "name": "Sony DVW-M2000P Digital Betacam Recorder",
+    "cat": "Recorders & Playback",
+    "cond": "Used",
+    "sold": false,
+    "description": "Sony DVW-M2000P digital videocassette recorder, playing Betacam SP, Betacam SX, MPEG IMX and Digital Betacam.",
+    "images": [
+      "/equipment/img/recorders-playback/wfi-231-1.jpg",
+      "/equipment/img/recorders-playback/wfi-231-2.jpg",
+      "/equipment/img/recorders-playback/wfi-231-3.jpg",
+      "/equipment/img/recorders-playback/wfi-231-4.jpg"
+    ],
+    "brand": "Sony"
+  },
+  {
+    "name": "Sony VA-500P VTR Playback Adaptor",
+    "cat": "Recorders & Playback",
+    "cond": "Used",
+    "sold": false,
+    "description": "Sony VA-500P VTR playback adaptor with four-channel audio playback level control and Dolby NR.",
+    "images": [
+      "/equipment/img/recorders-playback/wfi-232-1.jpg",
+      "/equipment/img/recorders-playback/wfi-232-2.jpg",
+      "/equipment/img/recorders-playback/wfi-232-3.jpg",
+      "/equipment/img/recorders-playback/wfi-232-4.jpg"
+    ],
+    "brand": "Sony"
+  },
+  {
+    "name": "Canon HDxs Broadcast Zoom Lens (S/No. 0161699)",
+    "cat": "Lenses",
+    "cond": "Used",
+    "sold": false,
+    "description": "Canon HDxs broadcast zoom lens with servo grip. Serial no. 0161699.",
+    "images": [
+      "/equipment/img/lenses-canon/wfi-233-1.jpg",
+      "/equipment/img/lenses-canon/wfi-233-2.jpg",
+      "/equipment/img/lenses-canon/wfi-233-3.jpg",
+      "/equipment/img/lenses-canon/wfi-233-4.jpg",
+      "/equipment/img/lenses-canon/wfi-233-5.jpg",
+      "/equipment/img/lenses-canon/wfi-233-6.jpg"
+    ],
+    "brand": "Canon"
   }
 ]
