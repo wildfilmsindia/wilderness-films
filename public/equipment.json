@@ -4654,5 +4654,125 @@
       "/equipment/img/cameras-other/wfi-217-1.jpg"
     ],
     "brand": "ARRI"
+  },
+  {
+    "name": "Arriflex 435 Camera Body (S/No. 7447)",
+    "cat": "Cameras",
+    "cond": "Used",
+    "sold": false,
+    "description": "Arriflex 435 35mm film camera body. Serial no. 7447.",
+    "images": [
+      "/equipment/img/cameras-other/wfi-220-1.jpg",
+      "/equipment/img/cameras-other/wfi-220-2.jpg",
+      "/equipment/img/cameras-other/wfi-220-3.jpg",
+      "/equipment/img/cameras-other/wfi-220-4.jpg",
+      "/equipment/img/cameras-other/wfi-220-5.jpg",
+      "/equipment/img/cameras-other/wfi-220-6.jpg"
+    ],
+    "brand": "Arriflex"
+  },
+  {
+    "name": "Arriflex 35 III Camera Body, Unit 2 (S/No. 40700)",
+    "cat": "Cameras",
+    "cond": "Used",
+    "sold": false,
+    "description": "Arriflex 35 III 35mm film camera body, unit 2. Serial no. 40700.",
+    "images": [
+      "/equipment/img/cameras-other/wfi-221-1.jpg",
+      "/equipment/img/cameras-other/wfi-221-2.jpg",
+      "/equipment/img/cameras-other/wfi-221-3.jpg",
+      "/equipment/img/cameras-other/wfi-221-4.jpg",
+      "/equipment/img/cameras-other/wfi-221-5.jpg"
+    ],
+    "brand": "Arriflex"
+  },
+  {
+    "name": "Arriflex 35 III Camera Body, Unit 1 (S/No. 40687)",
+    "cat": "Cameras",
+    "cond": "Used",
+    "sold": false,
+    "description": "Arriflex 35 III 35mm film camera body, unit 1. Serial no. 40687.",
+    "images": [
+      "/equipment/img/cameras-other/wfi-222-1.jpg",
+      "/equipment/img/cameras-other/wfi-222-2.jpg",
+      "/equipment/img/cameras-other/wfi-222-3.jpg",
+      "/equipment/img/cameras-other/wfi-222-4.jpg",
+      "/equipment/img/cameras-other/wfi-222-5.jpg"
+    ],
+    "brand": "Arriflex"
+  },
+  {
+    "name": "Arriflex IIC 35mm Camera Body (S/No. C8107)",
+    "cat": "Cameras",
+    "cond": "Used",
+    "sold": false,
+    "description": "Arriflex IIC 35mm film camera body with hand crank. Serial no. C8107.",
+    "images": [
+      "/equipment/img/cameras-other/wfi-223-1.jpg",
+      "/equipment/img/cameras-other/wfi-223-2.jpg",
+      "/equipment/img/cameras-other/wfi-223-3.jpg",
+      "/equipment/img/cameras-other/wfi-223-4.jpg"
+    ],
+    "brand": "Arriflex"
+  },
+  {
+    "name": "Arriflex 35mm Camera Body (S/No. 13619)",
+    "cat": "Cameras",
+    "cond": "Used",
+    "sold": false,
+    "description": "Arriflex 35mm film camera body. Serial no. 13619.",
+    "images": [
+      "/equipment/img/cameras-other/wfi-224-1.jpg",
+      "/equipment/img/cameras-other/wfi-224-2.jpg",
+      "/equipment/img/cameras-other/wfi-224-3.jpg",
+      "/equipment/img/cameras-other/wfi-224-4.jpg"
+    ],
+    "brand": "Arriflex"
+  },
+  {
+    "name": "Arriflex 16 SR2 Camera Body (S/No. 75432H)",
+    "cat": "Cameras",
+    "cond": "Used",
+    "sold": false,
+    "description": "Arriflex 16 SR2 Super 16 camera body. Serial no. 75432H.",
+    "images": [
+      "/equipment/img/cameras-other/wfi-225-1.jpg",
+      "/equipment/img/cameras-other/wfi-225-2.jpg",
+      "/equipment/img/cameras-other/wfi-225-3.jpg",
+      "/equipment/img/cameras-other/wfi-225-4.jpg",
+      "/equipment/img/cameras-other/wfi-225-5.jpg",
+      "/equipment/img/cameras-other/wfi-225-6.jpg"
+    ],
+    "brand": "Arriflex"
+  },
+  {
+    "name": "Arriflex 16 SR3 Camera Body (S/No. 1340)",
+    "cat": "Cameras",
+    "cond": "Used",
+    "sold": false,
+    "description": "Arriflex 16 SR3 Super 16 camera body. Serial no. 1340.",
+    "images": [
+      "/equipment/img/cameras-other/wfi-226-1.jpg",
+      "/equipment/img/cameras-other/wfi-226-2.jpg",
+      "/equipment/img/cameras-other/wfi-226-3.jpg",
+      "/equipment/img/cameras-other/wfi-226-4.jpg",
+      "/equipment/img/cameras-other/wfi-226-5.jpg",
+      "/equipment/img/cameras-other/wfi-226-6.jpg"
+    ],
+    "brand": "Arriflex"
+  },
+  {
+    "name": "Arriflex 35 III Camera Body, Unit 3 (S/No. 41631)",
+    "cat": "Cameras",
+    "cond": "Used",
+    "sold": false,
+    "description": "Arriflex 35 III 35mm film camera body, unit 3. Serial no. 41631.",
+    "images": [
+      "/equipment/img/cameras-other/wfi-227-1.jpg",
+      "/equipment/img/cameras-other/wfi-227-2.jpg",
+      "/equipment/img/cameras-other/wfi-227-3.jpg",
+      "/equipment/img/cameras-other/wfi-227-4.jpg"
+    ],
+    "brand": "Arriflex"
   }
 ]
