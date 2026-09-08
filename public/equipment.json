@@ -4848,5 +4848,52 @@
       "/equipment/img/lenses-other/wfi-270-5.jpg"
     ],
     "brand": "Nikon"
+  },
+  {
+    "name": "Grass Valley Group GVG 100 Video Production Switcher",
+    "cat": "Studio & Broadcast",
+    "brand": "Grass Valley",
+    "cond": "Used",
+    "sold": false,
+    "description": "Grass Valley Group GVG 100 video production switcher, comprising the control panel and its rack-mount electronics frame.",
+    "images": [
+      "/equipment/img/studio-broadcast/wfi-286-1.jpg",
+      "/equipment/img/studio-broadcast/wfi-286-2.jpg"
+    ]
+  },
+  {
+    "name": "Sony GV-HD700E HDV Digital Videocassette Recorder",
+    "cat": "Recorders & Playback",
+    "brand": "Sony",
+    "cond": "Used",
+    "sold": false,
+    "description": "Sony GV-HD700E portable HDV digital videocassette recorder with built-in LCD monitor, supplied with power adaptor.",
+    "images": [
+      "/equipment/img/recorders-playback/wfi-287-1.jpg",
+      "/equipment/img/recorders-playback/wfi-287-2.jpg",
+      "/equipment/img/recorders-playback/wfi-287-3.jpg",
+      "/equipment/img/recorders-playback/wfi-287-4.jpg"
+    ]
+  },
+  {
+    "name": "RED Dragon 6K Camera with REDMAG Media and Reader",
+    "cat": "Cameras",
+    "brand": "RED",
+    "cond": "Used",
+    "sold": false,
+    "description": "RED Dragon camera body with REDMAG 1.8 inch card reader, two REDMAG SSD modules and power supply.",
+    "images": [
+      "/equipment/img/cameras-other/wfi-288-1.jpg",
+      "/equipment/img/cameras-other/wfi-288-2.jpg",
+      "/equipment/img/cameras-other/wfi-288-3.jpg",
+      "/equipment/img/cameras-other/wfi-288-4.jpg",
+      "/equipment/img/cameras-other/wfi-288-5.jpg",
+      "/equipment/img/cameras-other/wfi-288-6.jpg",
+      "/equipment/img/cameras-other/wfi-288-7.jpg",
+      "/equipment/img/cameras-other/wfi-288-8.jpg",
+      "/equipment/img/cameras-other/wfi-288-9.jpg",
+      "/equipment/img/cameras-other/wfi-288-10.jpg",
+      "/equipment/img/cameras-other/wfi-288-11.jpg"
+    ]
   }
 ]
