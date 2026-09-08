@@ -4912,5 +4912,23 @@
       "/equipment/img/lenses-arri/wfi-290-1.jpg",
       "/equipment/img/lenses-arri/wfi-290-2.jpg"
     ]
+  },
+  {
+    "name": "GL Optics Compact Zoom 70-200mm PL Mount",
+    "cat": "Lenses",
+    "brand": "GL Optics",
+    "cond": "Used",
+    "sold": false,
+    "description": "GL Optics Compact Zoom Series 70-200mm PL mount rehoused zoom lens, with cine-style geared focus and iris rings and a detachable focus lever.",
+    "images": [
+      "/equipment/img/lenses-other/wfi-291-1.jpg",
+      "/equipment/img/lenses-other/wfi-291-2.jpg",
+      "/equipment/img/lenses-other/wfi-291-3.jpg",
+      "/equipment/img/lenses-other/wfi-291-4.jpg",
+      "/equipment/img/lenses-other/wfi-291-5.jpg",
+      "/equipment/img/lenses-other/wfi-291-6.jpg",
+      "/equipment/img/lenses-other/wfi-291-7.jpg",
+      "/equipment/img/lenses-other/wfi-291-8.jpg"
+    ]
   }
 ]
