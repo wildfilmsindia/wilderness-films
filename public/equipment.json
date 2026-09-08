@@ -1398,7 +1398,12 @@
     "url": "https://kitplus.com/for-sale/batteries-74/sony/bc-l100ce-and-bc-l120-lithium-ion-battery-chargers/32079",
     "sold": false,
     "description": "Sony BC-L100CE and BC-L120 Lithium-Ion battery chargers with four ports for V-mount Sony Li-Ion batteries",
-    "brand": "Sony"
+    "brand": "Sony",
+    "images": [
+      "/equipment/img/power-charging/wfi-285-1.jpg",
+      "/equipment/img/power-charging/wfi-285-2.jpg",
+      "/equipment/img/power-charging/wfi-285-3.jpg"
+    ]
   },
   {
     "name": "Carl Zeiss Distagon Super Speed Lens Set",
@@ -2604,15 +2609,6 @@
     ]
   },
   {
-    "name": "Canon HJ11x4.7 KLL-SC Wide Angle Film Style HD Zoom Lens",
-    "cat": "Lenses",
-    "cond": "Used",
-    "url": "https://kitplus.com/for-sale/lenses-36/canon/hj11x47-kll-sc-wide-angle-film-style-hd-zoom-lens-with-t-stops-and-low-focus-breathing/29408",
-    "sold": false,
-    "description": "Canon HJ11x4.7 KLL-SC wide angle Film Style HD zoom lens with T stops and low focus breathing",
-    "brand": "Canon"
-  },
-  {
     "name": "Canon J9x5.2 Wide Angle Zoom Lens",
     "cat": "Lenses",
     "cond": "Used",
@@ -2851,13 +2847,30 @@
     ]
   },
   {
-    "name": "GL Optics Compact Zoom 70-200 PL Mount",
+    "name": "Zeiss Compact Zoom CZ.2 70-200mm PL Mount",
     "cat": "Lenses",
     "cond": "Used",
     "url": "https://kitplus.com/for-sale/lenses-36/unknown-manufacturer/optics-compact-zoom-70-200-pl-mount/15025",
     "sold": false,
-    "brand": "GL Optics",
-    "mount": "PL"
+    "brand": "Carl Zeiss",
+    "mount": "PL",
+    "images": [
+      "/equipment/img/lenses-carl-zeiss/wfi-284-1.jpg",
+      "/equipment/img/lenses-carl-zeiss/wfi-284-2.jpg",
+      "/equipment/img/lenses-carl-zeiss/wfi-284-3.jpg",
+      "/equipment/img/lenses-carl-zeiss/wfi-284-4.jpg",
+      "/equipment/img/lenses-carl-zeiss/wfi-284-5.jpg",
+      "/equipment/img/lenses-carl-zeiss/wfi-284-6.jpg",
+      "/equipment/img/lenses-carl-zeiss/wfi-284-7.jpg",
+      "/equipment/img/lenses-carl-zeiss/wfi-284-8.jpg",
+      "/equipment/img/lenses-carl-zeiss/wfi-284-9.jpg",
+      "/equipment/img/lenses-carl-zeiss/wfi-284-10.jpg",
+      "/equipment/img/lenses-carl-zeiss/wfi-284-11.jpg",
+      "/equipment/img/lenses-carl-zeiss/wfi-284-12.jpg",
+      "/equipment/img/lenses-carl-zeiss/wfi-284-13.jpg",
+      "/equipment/img/lenses-carl-zeiss/wfi-284-14.jpg"
+    ],
+    "description": "Zeiss Compact Zoom CZ.2 70-200mm T2.9 PL mount zoom lens, supplied in its Zeiss case."
   },
   {
     "name": "Sony Digi Beta DVW 250 VTRs",
@@ -2929,15 +2942,6 @@
       "/equipment/img/lenses-fujinon/wfi-58-4.jpg",
       "/equipment/img/lenses-fujinon/wfi-58-5.jpg"
     ]
-  },
-  {
-    "name": "Canon 85-300 PL Mount",
-    "cat": "Lenses",
-    "cond": "Used",
-    "url": "https://kitplus.com/for-sale/lenses-36/canon/85-300-pl-mount/21795",
-    "sold": false,
-    "brand": "Canon",
-    "mount": "PL"
   },
   {
     "name": "Fujinon ESM-D52B High-Speed Digital Zoom Servo Module",
