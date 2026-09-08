@@ -1991,7 +1991,12 @@
     "url": "https://kitplus.com/for-sale/accessories-35/fostex-personal-monitor-6301b/fostex-personal-monitor-6301b/31227",
     "sold": false,
     "description": "Fostex Personal Monitor 6301B brand new and in the box",
-    "brand": "Fostex"
+    "brand": "Fostex",
+    "images": [
+      "/equipment/img/monitors/wfi-289-1.jpg",
+      "/equipment/img/monitors/wfi-289-2.jpg",
+      "/equipment/img/monitors/wfi-289-3.jpg"
+    ]
   },
   {
     "name": "Sony DXC 537APK 3 CCD Hyper HAD",
