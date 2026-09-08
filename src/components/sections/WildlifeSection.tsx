@@ -28,19 +28,19 @@ function thumbFallback(videoId: string) {
 const GALLERY_CARDS: GalleryCard[] = [
   { id: 'ganga-birth-death',  title: 'Ganga: Birth and death of a river | A musical tribute',                       duration: '',  videoId: 'scYtP6uKWoI', link: 'https://youtu.be/scYtP6uKWoI' },
   { id: 'yamuna-promise',     title: 'Yamuna: We promise to do better',                                             duration: '',  videoId: 'OOPxoZUMAgM', link: 'https://youtu.be/OOPxoZUMAgM' },
-  { id: 'best-of-wfi',        title: 'Best of India, Best of WildFilmsIndia',                                       duration: '',  videoId: 'Quq4Y6nJCFo', link: 'https://youtu.be/Quq4Y6nJCFo', customThumb: '/best-of-india-thumb.png' },
+  { id: 'best-of-wfi',        title: 'Best of India, Best of WildFilmsIndia',                                       duration: '',  videoId: 'Quq4Y6nJCFo', link: 'https://youtu.be/Quq4Y6nJCFo'},
   { id: 'monsoon-himalaya',   title: 'Monsoon in the Himalaya',                                                     duration: '',  videoId: 'lAefd4wp0c8', link: 'https://youtu.be/lAefd4wp0c8' },
   { id: 'waterfalls-central', title: 'Waterfalls and Cataracts of Central India',                                   duration: '',  videoId: 'FK9ErdeBTS8', link: 'https://youtu.be/FK9ErdeBTS8' },
   { id: 'holi-festival',      title: 'Holi - The Festival of Colours and Much Madness',                             duration: '',  videoId: 'ueQ4zpGGLe4', link: 'https://youtu.be/ueQ4zpGGLe4' },
   { id: 'over-india',         title: 'Over India: A Fabulous Journey Across South Asia',                            duration: '',  videoId: 'FCq2osKCoLA', link: 'https://youtu.be/FCq2osKCoLA' },
   { id: 'ganga',              title: 'Ganga by WildFilmsIndia - Our Take on the River Eternal, the Ganges',         duration: '',  videoId: 'SxssIE6-4Yo', link: 'https://youtu.be/SxssIE6-4Yo' },
   { id: 'snow-leopard',       title: 'The Magnificent Snow Leopard of the Himalaya',                                duration: '',  videoId: 'mKt2ysizAfk', link: 'https://youtu.be/mKt2ysizAfk' },
-  { id: 'rhythms-india',      title: 'Rhythms of India – A Rich Aural Journey Across India',                        duration: '',  videoId: 'Yc8Q7y2c_Nc', link: 'https://youtu.be/Yc8Q7y2c_Nc', customThumb: '/rhythms-india-thumb.png' },
+  { id: 'rhythms-india',      title: 'Rhythms of India – A Rich Aural Journey Across India',                        duration: '',  videoId: 'Yc8Q7y2c_Nc', link: 'https://youtu.be/Yc8Q7y2c_Nc', customThumb: '/rhythms-india-thumb.jpg' },
   { id: 'leh-ladakh',         title: 'Leh and Ladakh - An Aural Journey',                                          duration: '',  videoId: '7KPpF5pyTPA', link: 'https://youtu.be/7KPpF5pyTPA' },
   { id: 'cordyceps',          title: 'Cordyceps sinensis - The Magical Caterpillar-Fungus of the Himalaya',         duration: '',  videoId: 'j4yg4DN0rQw', link: 'https://youtu.be/j4yg4DN0rQw' },
   { id: 'bat-festival',       title: 'Bat Killing Festival in Arunachal Pradesh',                                   duration: '',  videoId: 'hny_k0En9cU', link: 'https://youtu.be/hny_k0En9cU' },
   { id: 'song-cranes',        title: 'Song of the Cranes: Kurja Come Home',                                        duration: '',  videoId: 'L_Z6Gg4Qu94', link: 'https://youtu.be/L_Z6Gg4Qu94' },
-  { id: 'fish-festival',      title: 'Fish Killing Festival of the Himalaya: Maund Mela',                          duration: '',  videoId: '9UtCh4Sxc3I', link: 'https://youtu.be/9UtCh4Sxc3I', customThumb: '/fish-festival-thumb.png' },
+  { id: 'fish-festival',      title: 'Fish Killing Festival of the Himalaya: Maund Mela',                          duration: '',  videoId: '9UtCh4Sxc3I', link: 'https://youtu.be/9UtCh4Sxc3I', customThumb: '/fish-festival-thumb.jpg' },
   { id: 'olive-ridley',       title: 'A Miracle on the Shore: Olive Ridley Hatchlings Rush to the Sea',            duration: '',  videoId: 'MRtGShgWYKw', link: 'https://youtu.be/MRtGShgWYKw' },
 ]
 
