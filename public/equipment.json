@@ -4900,5 +4900,17 @@
       "/equipment/img/cameras-other/wfi-288-10.jpg",
       "/equipment/img/cameras-other/wfi-288-11.jpg"
     ]
+  },
+  {
+    "name": "ARRI Zeiss Ultra Prime LDS Set - 12, 14, 16, 24, 32, 50, 85, 135 & 180mm",
+    "cat": "Lenses",
+    "brand": "ARRI",
+    "cond": "Used",
+    "sold": false,
+    "description": "Nine-lens ARRI Zeiss Ultra Prime LDS set: 12, 14, 16, 24, 32, 50, 85, 135 and 180mm. Lens Data System contacts for automatic metadata. Focal lengths read from the lens barrels.",
+    "images": [
+      "/equipment/img/lenses-arri/wfi-290-1.jpg",
+      "/equipment/img/lenses-arri/wfi-290-2.jpg"
+    ]
   }
 ]
