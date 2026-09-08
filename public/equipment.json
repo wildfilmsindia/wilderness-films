@@ -1356,7 +1356,11 @@
     "url": "https://kitplus.com/for-sale/lenses-36/fujinon/ua23x76berd-s10-4k-premier-tele-lens-with-full-servo-and-2x-extender/32221",
     "sold": false,
     "description": "Fujinon UA23X7.6BERD-S10 4K Premier Tele Lens with Full Servo and 2x Extender. Demo lens like new condition",
-    "brand": "Fujinon"
+    "brand": "Fujinon",
+    "images": [
+      "/equipment/img/lenses-fujinon/wfi-277-1.jpg",
+      "/equipment/img/lenses-fujinon/wfi-277-2.jpg"
+    ]
   },
   {
     "name": "ARRI Alura Zoom Fujinon 30-80 PL Lens",
@@ -1485,7 +1489,12 @@
     "url": "https://kitplus.com/for-sale/lenses-36/fujinon/premista-80-250mm-t29/32044",
     "sold": false,
     "description": "Fujinon full frame PL mount Premista 80-250 lens for sale. Brand new and in the box, with full Fujinon warranty",
-    "brand": "Fujinon"
+    "brand": "Fujinon",
+    "images": [
+      "/equipment/img/lenses-fujinon/wfi-275-1.jpg",
+      "/equipment/img/lenses-fujinon/wfi-275-2.jpg",
+      "/equipment/img/lenses-fujinon/wfi-275-3.jpg"
+    ]
   },
   {
     "name": "Panasonic DVC Pro AJD-450 SDI",
@@ -1936,7 +1945,12 @@
     "url": "https://kitplus.com/for-sale/lenses-36/optar-illumina/6-lens-set-of-super-16-prime-lens-set-of-russian-made-optar-illumina-pl-lenses-with-a-wider-angle-kinoptic-tegea/31269",
     "sold": false,
     "description": "6 lens set of Super 16 prime lens set of Russian made Optar Illumina PL lenses with a wider angle Kinoptic Tegea",
-    "brand": "Optar"
+    "brand": "Optar",
+    "images": [
+      "/equipment/img/lenses-other/wfi-279-1.jpg",
+      "/equipment/img/lenses-other/wfi-279-2.jpg",
+      "/equipment/img/lenses-other/wfi-279-3.jpg"
+    ]
   },
   {
     "name": "Carl Zeiss PL Mount Supreme Prime 29mm",
@@ -2350,7 +2364,10 @@
     "url": "https://kitplus.com/for-sale/lenses-36/fujinon/ua107-x-84-besm-t45-4k-uhd-sports-box-lens-with-trunk/30861",
     "sold": false,
     "description": "Fujinon UA107 X 8.4 BESM-T45 4K UHD sports box lens with trunk. Used like new condition",
-    "brand": "Fujinon"
+    "brand": "Fujinon",
+    "images": [
+      "/equipment/img/lenses-fujinon/wfi-276-1.jpg"
+    ]
   },
   {
     "name": "Sony F5 and F55 Base Plates and Supports",
@@ -2528,7 +2545,12 @@
       "/equipment/img/lenses-other/wfi-53-1.jpg",
       "/equipment/img/lenses-other/wfi-53-2.jpg",
       "/equipment/img/lenses-other/wfi-53-3.jpg",
-      "/equipment/img/lenses-other/wfi-53-4.jpg"
+      "/equipment/img/lenses-other/wfi-53-4.jpg",
+      "/equipment/img/lenses-other/wfi-280-1.jpg",
+      "/equipment/img/lenses-other/wfi-280-2.jpg",
+      "/equipment/img/lenses-other/wfi-280-3.jpg",
+      "/equipment/img/lenses-other/wfi-280-4.jpg",
+      "/equipment/img/lenses-other/wfi-280-5.jpg"
     ]
   },
   {
@@ -2660,7 +2682,15 @@
     "url": "https://kitplus.com/for-sale/lenses-36/carl-zeiss-arriflex-super-16-pl-11/carl-zeiss-arriflex-super-16-pl-11-110-mm-zoom-lens-t22/29379",
     "sold": false,
     "brand": "Carl Zeiss",
-    "mount": "PL"
+    "mount": "PL",
+    "images": [
+      "/equipment/img/lenses-carl-zeiss/wfi-278-1.jpg",
+      "/equipment/img/lenses-carl-zeiss/wfi-278-2.jpg",
+      "/equipment/img/lenses-carl-zeiss/wfi-278-3.jpg",
+      "/equipment/img/lenses-carl-zeiss/wfi-278-4.jpg",
+      "/equipment/img/lenses-carl-zeiss/wfi-278-5.jpg",
+      "/equipment/img/lenses-carl-zeiss/wfi-278-6.jpg"
+    ]
   },
   {
     "name": "Carl Zeiss Distagon Super Speed T1.2 25mm for Super 16 PL Mount",
@@ -2850,7 +2880,11 @@
     "cond": "Used",
     "url": "https://kitplus.com/for-sale/lenses-36/canon/cj45/18345",
     "sold": false,
-    "brand": "Canon"
+    "brand": "Canon",
+    "images": [
+      "/equipment/img/lenses-canon/wfi-274-1.jpg",
+      "/equipment/img/lenses-canon/wfi-274-2.jpg"
+    ]
   },
   {
     "name": "ARRI Ultra Prime Lens Set (Zeiss)",
