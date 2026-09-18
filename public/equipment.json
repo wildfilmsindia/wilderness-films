@@ -5002,5 +5002,95 @@
       "/equipment/img/Lifesaver_4.jpeg"
     ],
     "sold": false
+  },
+  {
+    "name": "Nikon S20x8B1-EMS20 TV NIKKOR ED",
+    "cat": "Lenses",
+    "brand": "Nikon",
+    "cond": "Used",
+    "description": "20x broadcast zoom lens (8–160mm, f/1.7), B4 mount, built for 2/3\" broadcast and ENG cameras.\n\nThis older SD lens is now seeing fresh demand by being used with an adapter on the newer generation of Sony DSLR cameras, giving exceptional centre of frame sharpness and long range zoom ability.\n\nCommonly used for news, live events, sports, and documentary work. Sharp, fast, and built to last.",
+    "images": [
+      "/equipment/img/Nikon S20_6.jpeg",
+      "/equipment/img/Nikon S20_5.jpeg",
+      "/equipment/img/Nikon S20_4.jpeg",
+      "/equipment/img/Nikon S20_3.jpeg",
+      "/equipment/img/Nikon S20_2.jpeg",
+      "/equipment/img/Nikon S20_1.jpeg"
+    ],
+    "sold": false
+  },
+  {
+    "name": "Sony HVR-Z7P",
+    "cat": "Cameras",
+    "brand": "Sony",
+    "cond": "Used",
+    "description": "HDV camcorder (PAL) with interchangeable 1/3\" bayonet lens mount, dual recording to MiniDV tape and CompactFlash. Includes the original Carl Zeiss 12x zoom lens with built-in 2x digital extender.\n\nA proven workhorse for documentary, event, and independent film work. Records full HD (1080i) with true broadcast-quality colour and manual control over focus, iris, and zoom. The interchangeable lens mount is a rare feature at this price point, giving flexibility that most camcorders in this class don't offer.\n\nSolid build, reliable performance, and still very capable for productions that don't need 4K.",
+    "images": [
+      "/equipment/img/Z7P_1.jpeg",
+      "/equipment/img/Z7P_2.jpeg",
+      "/equipment/img/Z7P_3.jpeg"
+    ],
+    "sold": false
+  },
+  {
+    "name": "Canon HJ40 x 14B IASD",
+    "cat": "Lenses",
+    "brand": "Canon",
+    "cond": "Used",
+    "description": "Professional 40x super-telephoto HD broadcast lens (14–560mm, 1120mm with built-in 2x extender), 2/3\" B4 mount, with Optical Shift Image Stabilization. Comes with the Canon SS-41 full-servo controller kit, SUP-300 support bracket, and hard case.\n\nOne of the top-tier portable HDTV EFP lenses ever made by Canon. Built for long-distance shooting where reach and stability matter — wildlife, sports, live events, aerial work, and documentary productions. Features include Shuttle Shot, Framing Preset, and Speed Preset for precise repeatable zoom moves.\n\nThe full servo kit gives complete remote control over zoom and focus, and the SUP-300 bracket protects the lens mount during heavy handheld or shoulder-rig use. A complete, production-ready package.",
+    "images": [
+      "/equipment/img/HJ40_2.jpeg",
+      "/equipment/img/HJ40_4.jpeg",
+      "/equipment/img/HJ40_6.jpeg"
+    ],
+    "sold": false
+  },
+  {
+    "name": "Canon XL1",
+    "cat": "Cameras",
+    "brand": "Canon",
+    "cond": "Used",
+    "description": "Professional 3-CCD MiniDV camcorder with interchangeable XL lens mount. A classic prosumer camera from Canon, widely used in independent filmmaking, documentary, and broadcast production through the late 90s and 2000s.\n\nRecords standard definition DV to MiniDV tape with true 3-CCD colour reproduction and full manual control over focus, iris, shutter, and white balance. The interchangeable XL mount is a rare feature at this price point, allowing use of Canon XL-series lenses as well as EF lenses via adapter.\n\nA great pick for filmmakers looking for that authentic SD digital video look, retro projects, music videos, or as a reliable second camera. Solid build and proven reliability.",
+    "images": [
+      "/equipment/img/XL1_1.jpeg",
+      "/equipment/img/XL1_2.jpeg"
+    ],
+    "sold": false
+  },
+  {
+    "name": "Canon XM1",
+    "cat": "Cameras",
+    "brand": "Canon",
+    "cond": "Used",
+    "description": "Professional 3-CCD MiniDV camcorder with a built-in 16x optical zoom lens (20x with digital). The compact sibling of the Canon XL1, released in 1999 and widely used for documentary, event, and independent film work.\n\nRecords standard definition DV to MiniDV tape with strong 3-CCD colour reproduction and full manual control over focus, iris, shutter, and white balance. Much smaller and lighter than the XL1, making it easier to handle for run-and-gun shooting while still delivering broadcast-quality SD footage.\n\nA great pick for filmmakers after that authentic SD digital video look, retro projects, music videos, or as a reliable backup camera. Known for solid build and long-term reliability.",
+    "images": [
+      "/equipment/img/XM_4.jpeg",
+      "/equipment/img/XM_3.jpeg"
+    ],
+    "sold": false
+  },
+  {
+    "name": "Canon EOS 7D",
+    "cat": "Cameras",
+    "brand": "Canon",
+    "cond": "Used",
+    "description": "Professional APS-C DSLR with 18MP CMOS sensor, dual DIGIC 4 processors, 8 fps continuous shooting, and Full HD 1080p video recording. Kit includes camera body, battery and charger.\n\nA legendary workhorse DSLR from Canon, first released in 2009 and still capable today for both stills and video. The 19-point all cross-type autofocus system, weather-sealed magnesium alloy body, and 100% viewfinder coverage made it a favourite for sports, wildlife, event, and wedding photographers.\n\nA great pick for anyone starting out in DSLR photography or videography, or as a reliable second body. Works with the full Canon EF and EF-S lens lineup.",
+    "images": [
+      "/equipment/img/7D_2.jpeg",
+      "/equipment/img/7D_1.jpeg"
+    ],
+    "sold": false
+  },
+  {
+    "name": "Canon EOS 5D Mark 2",
+    "cat": "Cameras",
+    "brand": "Canon",
+    "cond": "Used",
+    "description": "Full-frame DSLR with 21.1MP CMOS sensor, DIGIC 4 processor, and Full HD 1080p video. Kit includes body, battery and charger.\n\nA landmark camera — the first full-frame DSLR to shoot Full HD video, and the one that kickstarted the DSLR filmmaking era. Used on countless documentaries, music videos, and even feature films. Still very capable today, with excellent low-light performance and beautiful full-frame image quality.\n\nGreat for portrait, wedding, landscape, and event work, or filmmakers after that classic 5D Mark II cinematic look. Works with the full Canon EF lens lineup.",
+    "images": [
+      "/equipment/img/5D_2.jpeg",
+      "/equipment/img/5D_3.jpeg"
+    ],
+    "sold": false
   }
 ]
